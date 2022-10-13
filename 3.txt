@@ -40,7 +40,7 @@ CCTV-17,http://218.93.208.119:54799/gdtv/index.php?id=17
 广东卫视,http://218.93.208.119:54799/gdtv/index.php?id=40
 梅州1高清-①,http://p2.vzan.com:80/1454886638/403126774572750088/live.m3u8
 梅州2高清-①,http://p2.vzan.com:80/1454886638/645350022315428296/live.m3u8
-广东体育,http://218.93.208.119:54799/gdtv/index.php?id=1
+广东体育,http://218.93.208.119:54799/gdgdtv/index.php?id=gdsportsHD_7000#http://218.93.208.119:54799/gdtv/index.php?id=1
 广东公共,http://218.93.208.119:54799/gdtv/index.php?id=27
 广东珠江,http://218.93.208.119:54799/gdtv/index.php?id=139
 广东新闻,http://218.93.208.119:54799/gdtv/index.php?id=28
