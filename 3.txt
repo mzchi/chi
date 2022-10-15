@@ -37,8 +37,13 @@ CCTV兵器高清,http://fyld.eatuo.com:9901/tsfile/live/1035_1.m3u8
 
 广东频道,#genre#
 广东卫视,http://fyld.eatuo.com:9901/tsfile/live/1008_1.m3u8
-梅州1高清-①,http://p2.vzan.com:80/1454886638/403126774572750088/live.m3u8
-梅州2高清-①,http://p2.vzan.com:80/1454886638/645350022315428296/live.m3u8
+
+梅州1高清-A,http://p2.vzan.com:80/1454886638/403126774572750088/live.m3u8
+梅州1高清-B,http://fyld.eatuo.com:9901/tsfile/live/1002_1.m3u8
+
+梅州2高清-A,http://p2.vzan.com:80/1454886638/645350022315428296/live.m3u8
+梅州2高清-B,http://fyld.eatuo.com:9901/tsfile/live/1003_1.m3u8
+
 广东体育,http://218.93.208.119:54799/gdgdtv/index.php?id=gdsportsHD_7000#http://218.93.208.119:54799/gdtv/index.php?id=1
 广东公共,http://fyld.eatuo.com:9901/tsfile/live/1011_1.m3u8
 广东珠江,http://fyld.eatuo.com:9901/tsfile/live/1009_1.m3u8#http://218.93.208.119:54799/gdtv/index.php?id=139
