@@ -1,4 +1,5 @@
 央视频道,#genre#
+
 CCTV-1高清,http://fyld.eatuo.com:9901/tsfile/live/1018_1.m3u8
 CCTV-2高清,http://fyld.eatuo.com:9901/tsfile/live/1019_1.m3u8
 CCTV-3高清,http://fyld.eatuo.com:9901/tsfile/live/1020_1.m3u8
@@ -17,6 +18,24 @@ CCTV-14高清,http://fyld.eatuo.com:9901/tsfile/live/1032_1.m3u8
 CCTV-15高清,http://fyld.eatuo.com:9901/tsfile/live/1033_1.m3u8
 CCTV-16高清,http://59.32.98.205:9901/tsfile/live/1020_1.m3u8
 CCTV-17高清,http://fyld.eatuo.com:9901/tsfile/live/1034_1.m3u8
+
+
+CCTV-1高清,http://xjayrf.eatuo.com:9901/tsfile/live/1020_1.m3u8
+CCTV-2高清,http://xjayrf.eatuo.com:9901/tsfile/live/1021_1.m3u8
+CCTV-3高清,http://xjayrf.eatuo.com:9901/tsfile/live/1022_1.m3u8
+CCTV-5高清,http://xjayrf.eatuo.com:9901/tsfile/live/1024_1.m3u8
+CCTV-5+高清,http://xjayrf.eatuo.com:9901/tsfile/live/1025_1.m3u8
+CCTV-6高清,http://xjayrf.eatuo.com:9901/tsfile/live/1026_1.m3u8
+CCTV-7高清,http://xjayrf.eatuo.com:9901/tsfile/live/1027_1.m3u8
+CCTV-8高清,http://xjayrf.eatuo.com:9901/tsfile/live/1028_1.m3u8
+CCTV-9高清,http://xjayrf.eatuo.com:9901/tsfile/live/1029_1.m3u8
+CCTV-10高清,http://xjayrf.eatuo.com:9901/tsfile/live/1030_1.m3u8
+CCTV-12高清,http://xjayrf.eatuo.com:9901/tsfile/live/1032_1.m3u8
+CCTV-14高清,http://xjayrf.eatuo.com:9901/tsfile/live/1034_1.m3u8
+CCTV17高清,http://xjayrf.eatuo.com:9901/tsfile/live/1036_1.m3u8
+
+
+
 
 魅力足球,http://218.93.208.119:54799/gdgdtv/index.php?id=meiliyinyueHD_7000
 风云音乐,http://59.32.98.205:9901/tsfile/live/1047_1.m3u8#http://218.93.208.119:54799/gdgdtv/index.php?id=DOXxinyiHD_7000
