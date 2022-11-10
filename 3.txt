@@ -108,7 +108,7 @@ CCTV17高清,http://xjayrf.eatuo.com:9901/tsfile/live/1036_1.m3u8
 梅州1高清-A,http://p2.vzan.com:80/1454886638/403126774572750088/live.m3u8#http://xjayrf.eatuo.com:9901/tsfile/live/1002_1.m3u8
 梅州1高清-B,http://fyld.eatuo.com:9901/tsfile/live/1002_1.m3u8
 
-梅州2高清-A,http://p2.vzan.com:80/1454886638/645350022315428296/live.m3u8#http://xjayrf.eatuo.com:9901/tsfile/live/1003_1.m3u8
+梅州2高清-A,http://118.31.113.130:82/gudou.php?id=meizhou2HD#http://xjayrf.eatuo.com:9901/tsfile/live/1003_1.m3u8
 梅州2高清-B,http://fyld.eatuo.com:9901/tsfile/live/1003_1.m3u8
 
 
@@ -981,9 +981,39 @@ NewTV黑莓动画,http://183.207.248.71:80/cntv/live1/donghuawg/donghuawg
 有线新闻,https://uc6.i-cable.com/live_freedirect/freehd209_h.live/chunklist_w2095687940.m3u8
 有线新闻,https://uc6.i-cable.com/live_freedirect/freehd209_h.live/playlist.m3u8?blog.ntnas.top
 财经资讯,https://uc6.i-cable.com/live_freedirect/freehd208_h.live/playlist.m3u8?blog.ntnas.top
+有线新闻,https://uc6.i-cable.com/live_freedirect/freehd209_h.live/chunklist_w2095687940.m3u8
 财经资讯,https://uc6.i-cable.com/live_freedirect/freehd208_h.live/chunklist_w892917754.m3u8
 有线直播,https://uc6.i-cable.com/live_freedirect/hd110_h.live/chunklist_w1636063330.m3u8
-有线直播,https://uc6.i-cable.com/live_freedirect/hd110_h.live/playlist.m3u8?blog.ntnas.top
+
+
+
+翡翠台,https://cdn.hklive.tv/hls/81/index.m3u8
+翡翠台,https://cdn.hklive.tv/hls/81b/index.m3u8
+无线新闻,https://cdn.hklive.tv/hls/83/index.m3u8
+无线财经,https://cdn.hklive.tv/hls/85/index.m3u8
+明珠台,https://cdn.hklive.tv/hls/84/index.m3u8
+明珠台,https://cdn.hklive.tv/hls/84b/index.m3u8
+
+翡翠台,https://cdn.hkdtmb.com/raw/81.ts
+翡翠台,https://cdn.hkdtmb.com/raw/81b.ts
+无线新闻,https://cdn.hkdtmb.com/raw/83.ts
+无线新闻,http://livesec.mudu.tv/watch/ow7vfa.m3u8
+明珠台,https://cdn.hkdtmb.com/raw/84.ts
+明珠台,https://cdn.hkdtmb.com/raw/84b.ts
+
+翡翠台,https://cdn.hklive.tv/raw/81.ts
+翡翠台,https://cdn.hklive.tv/raw/81b.ts
+无线新闻,https://cdn.hklive.tv/raw/83.ts
+开电视,https://cdn.hklive.tv/raw/77.ts
+明珠台,https://cdn.hklive.tv/raw/84.ts
+明珠台,https://cdn.hklive.tv/raw/84b.ts
+
+
+
+
+
+
+
 翡翠台,http://radius.8866.org:800/hls/80/index.m3u8
 明珠台,http://radius.8866.org:800/hls/84/index.m3u8
 J2台,http://radius.8866.org:800/hls/81/index.m3u8
@@ -1034,5 +1064,28 @@ CHC高清,http://gxfrg007.8800.org:8282/tsfile/live/1097_1.m3u8
 电影,http://gxfrg007.8800.org:8282/tsfile/live/1098_1.m3u8
 航天频道,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_500.m3u8
 CNN-新闻,https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
+
+
+
+
+
+
+新片速递,#genre#
+明日战记,https://pps.sd-play.com/20220811/vaIRRARs/1200kb/hls/index.m3u8
+明日战记2,https://m3u8.zhisongip.com:38741/video/ec6ffb1c459430ea99cff11493377e86.m3u8
+重装机甲4巨兽来袭,https://c2.monidai.com/20220831/AxZVmZrg/index.m3u8
+神探大战 粤语,https://www.ldxmcloud.com/20220828/Ea7HURz2/1100kb/hls/index.m3u8
+神探大战 粤语2,https://www.ldxmcloud.com/20220828/Ea7HURz2/index.m3u8
+神探大战 国语,https://yk.rongxingvr.cc:2222/youku222/3cd5c1744718ebb7827c501c542e1984.m3u8
+倚天屠龙记之九阳神功,https://new.iskcd.com/20220131/29JNIyrM/index.m3u8
+倚天屠龙记之圣火雄风,https://new.iskcd.com/20220203/kPUftLxS/1100kb/hls/index.m3u8
+梅艳芳,https://v4.cdtlas.com/20211119/WXeyqkiU/1200kb/hls/index.m3u8
+长津湖,https://new.iskcd.com/20220101/qWktP3un/index.m3u8
+长津湖2,https://d10a1e585d12d42d82b182459b9bba67.rdt.tfogc.com:49156/vipzj.video.tc.qq.com/gzc_1000102_0b53buaacaaauyabnr7uvbq4adodaeaqabka.f10217.mp4?vkey=BAF74294987615B3D5F26D8ADABC8C8453B9E81A89A5DB2398349F74345E13FEAF6D3E737B15EA068ABA820F18C75E37823EF4CCF5BFF390AA32BE85D32B2EDB5C03322DE2250C55C791BC5A7E07F711BA87DAF5F91C74D0680812354F5D1AFF3F53324F5C365C9E48B5B2215670E40AB495831BBD94F27B&sp=0&guid=fe92053753ac140079f1b604c8848487
+水门桥,https://yk.rongxingvr.cc:2222/youku222/04a39b1b24b2e3810d4ffa306a3a25a7.m3u8
+蜘蛛侠：英雄无归,https://cdn2.bzjupinhang.com:65/20220318/Ip4VeQmE/index.m3u8
+
+
+
 
 
