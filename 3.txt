@@ -105,10 +105,10 @@ CCTV17高清,http://xjayrf.eatuo.com:9901/tsfile/live/1036_1.m3u8
 
 广东卫视,http://111.20.33.70/PLTV/88888893/224/3221226216/index.m3u8#http://fyld.eatuo.com:9901/tsfile/live/1008_1.m3u8
 
-梅州1高清-A,http://p2.vzan.com:80/1454886638/403126774572750088/live.m3u8#http://xjayrf.eatuo.com:9901/tsfile/live/1002_1.m3u8
+梅州1高清-A,http://p2.vzan.com/slowlive/403126774572750089/live.m3u8#http://xjayrf.eatuo.com:9901/tsfile/live/1002_1.m3u8
 梅州1高清-B,http://fyld.eatuo.com:9901/tsfile/live/1002_1.m3u8
 
-梅州2高清-A,http://118.31.113.130:82/gudou.php?id=meizhou2HD#http://xjayrf.eatuo.com:9901/tsfile/live/1003_1.m3u8
+梅州2高清-A,http://p2.vzan.com/slowlive/645350022315428297/live.m3u8#http://xjayrf.eatuo.com:9901/tsfile/live/1003_1.m3u8
 梅州2高清-B,http://fyld.eatuo.com:9901/tsfile/live/1003_1.m3u8
 
 
