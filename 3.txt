@@ -335,6 +335,13 @@ CCTV8电视剧,http://112.74.200.9:88/tv000000/m3u8.php?/migu/624878356
 张国荣影院,http://112.74.200.9:88/tv000000/m3u8.php?/migu/707689526
 郭富城影院,http://112.74.200.9:88/tv000000/m3u8.php?/migu/639528330
 刘德华影院,http://112.74.200.9:88/tv000000/m3u8.php?/migu/659315648
+
+
+
+
+
+
+
 电视剧频道,#genre#
 SiTV新视觉,http://140.207.241.2:8080/live/program/live/xsjhd/4000000/mnf.m3u8
 SiTV欢笑剧场,http://140.207.241.2:8080/live/program/live/hxjchd/4000000/mnf.m3u8
