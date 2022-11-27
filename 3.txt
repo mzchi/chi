@@ -206,6 +206,10 @@ CHC高清电影,http://218.93.208.119:54799/gdgdtv/index.php?id=CHCHD_7000
 
 
 广东频道测试,#genre#
+
+抖音4K50P世界杯源,http://159.75.85.63:5678/zb.php?id=douyin
+
+
 CCTV-1HD,http://159.75.85.63:5828/gudou.php?id=CCTV1HD_7000
 CCTV-2HD,http://159.75.85.63:5828/gudou.php?id=CCTV2HD_7000
 CCTV-3HD,http://159.75.85.63:5828/gudou.php?id=CCTV3HD_7000
