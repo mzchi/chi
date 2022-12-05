@@ -1,25 +1,25 @@
 央视频道,#genre#
 
 
-CCTV-1HD,http://wen.serv00.net/wen.php?id=CCTV1HD_7000
+CCTV-1HD,http://wen.serv00.net/wen.php?id=1402
 CCTV-2HD,http://wen.serv00.net/wen.php?id=CCTV2HD_7000
-CCTV-3HD,http://wen.serv00.net/wen.php?id=CCTV3HD_7000
-CCTV-4HD,http://wen.serv00.net/wen.php?id=CCTV-4HD_7500
-CCTV-5HD,http://wen.serv00.net/wen.php?id=CCTV5HD_7000
-CCTV-5+HD,http://wen.serv00.net/wen.php?id=CCTV5plusHD_7000
-CCTV-6HD,http://wen.serv00.net/wen.php?id=CCTV6HD_7000
-CCTV-7HD,http://wen.serv00.net/wen.php?id=CCTV7HD_7000
-CCTV-8HD,http://wen.serv00.net/wen.php?id=CCTV8HD_7000
+CCTV-3HD,http://wen.serv00.net/wen.php?id=1603
+CCTV-4HD,http://wen.serv00.net/wen.php?id=1604
+CCTV-5HD,http://wen.serv00.net/wen.php?id=1605
+CCTV-5+HD,http://wen.serv00.net/wen.php?id=1403
+CCTV-6HD,http://wen.serv00.net/wen.php?id=1606
+CCTV-7HD,http://wen.serv00.net/wen.php?id=1607
+CCTV-8HD,http://wen.serv00.net/wen.php?id=1608
 CCTV-9HD,http://wen.serv00.net/wen.php?id=CCTV9HD_7000
-CCTV-10HD,http://wen.serv00.net/wen.php?id=CCTV10HD_7000
+CCTV-10HD,http://wen.serv00.net/wen.php?id=1610
 CCTV-11HD,http://wen.serv00.net/wen.php?id=CCTV-11HD_7500
 CCTV-12HD,http://wen.serv00.net/wen.php?id=CCTV12HD_7000
-CCTV-13HD,http://wen.serv00.net/wen.php?id=1613_4500
+CCTV-13HD,http://wen.serv00.net/wen.php?id=1613
 CCTV-14HD,http://wen.serv00.net/wen.php?id=CCTV14HD_7000
 CCTV-15HD,http://wen.serv00.net/wen.php?id=CCTV-15HD_7500
 CCTV-16HD,http://wen.serv00.net/wen.php?id=1617_4500
 CCTV-17HD,http://wen.serv00.net/wen.php?id=CCTV17HD
-
+CCTV-16 4K,http://wen.serv00.net/wen.php?id=4010
 
 
 CCTV-1高清,http://fyld.eatuo.com:9901/tsfile/live/1018_1.m3u8
@@ -91,7 +91,7 @@ CHC高清电影HD,http://wen.serv00.net/wen.php?id=CHCHD
 
 广东频道,#genre#
 
-广东卫视HD,http://wen.serv00.net/wen.php?id=guangdongHD_7000
+广东卫视HD,http://wen.serv00.net/wen.php?id=1401
 广东体育HD,http://wen.serv00.net/wen.php?id=gdsportsHD_7000
 
 
