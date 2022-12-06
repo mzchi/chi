@@ -1,7 +1,7 @@
 央视频道,#genre#
 
 
-CCTV-1HD,http://wen.serv00.net/wen.php?id=1402
+CCTV-1HD,http://wen.serv00.net/wen.php?id=CCTV1HD_7000
 CCTV-2HD,http://wen.serv00.net/wen.php?id=CCTV2HD_7000
 CCTV-3HD,http://wen.serv00.net/wen.php?id=1603
 CCTV-4HD,http://wen.serv00.net/wen.php?id=1604
