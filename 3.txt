@@ -1,25 +1,25 @@
 央视频道,#genre#
 
 
-CCTV-1HD,http://wen.serv00.net/ge.php?id=CCTV1HD_7000
-CCTV-2HD,http://wen.serv00.net/ge.php?id=CCTV2HD_7000
-CCTV-3HD,http://wen.serv00.net/ge.php?id=1603
-CCTV-4HD,http://wen.serv00.net/ge.php?id=1604
-CCTV-5HD,http://wen.serv00.net/ge.php?id=1605
-CCTV-5+HD,http://wen.serv00.net/ge.php?id=1403
-CCTV-6HD,http://wen.serv00.net/ge.php?id=1606
-CCTV-7HD,http://wen.serv00.net/ge.php?id=1607
-CCTV-8HD,http://wen.serv00.net/ge.php?id=1608
-CCTV-9HD,http://wen.serv00.net/ge.php?id=CCTV9HD_7000
-CCTV-10HD,http://wen.serv00.net/ge.php?id=1610
-CCTV-11HD,http://wen.serv00.net/ge.php?id=CCTV-11HD_7500
-CCTV-12HD,http://wen.serv00.net/ge.php?id=CCTV12HD_7000
-CCTV-13HD,http://wen.serv00.net/ge.php?id=1613
-CCTV-14HD,http://wen.serv00.net/ge.php?id=CCTV14HD_7000
-CCTV-15HD,http://wen.serv00.net/ge.php?id=CCTV-15HD_7500
-CCTV-16HD,http://wen.serv00.net/ge.php?id=1617_4500
-CCTV-17HD,http://wen.serv00.net/ge.php?id=CCTV17HD
-CCTV-16 4K,http://wen.serv00.net/ge.php?id=4010
+CCTV-1HD,http://wen.serv00.net/w1.php?id=CCTV1HD_7000
+CCTV-2HD,http://wen.serv00.net/w1.php?id=CCTV2HD_7000
+CCTV-3HD,http://wen.serv00.net/w1.php?id=1603
+CCTV-4HD,http://wen.serv00.net/w1.php?id=1604
+CCTV-5HD,http://wen.serv00.net/w1.php?id=1605
+CCTV-5+HD,http://wen.serv00.net/w1.php?id=1403
+CCTV-6HD,http://wen.serv00.net/w1.php?id=1606
+CCTV-7HD,http://wen.serv00.net/w1.php?id=1607
+CCTV-8HD,http://wen.serv00.net/w1.php?id=1608
+CCTV-9HD,http://wen.serv00.net/w1.php?id=CCTV9HD_7000
+CCTV-10HD,http://wen.serv00.net/w1.php?id=1610
+CCTV-11HD,http://wen.serv00.net/w1.php?id=CCTV-11HD_7500
+CCTV-12HD,http://wen.serv00.net/w1.php?id=CCTV12HD_7000
+CCTV-13HD,http://wen.serv00.net/w1.php?id=1613
+CCTV-14HD,http://wen.serv00.net/w1.php?id=CCTV14HD_7000
+CCTV-15HD,http://wen.serv00.net/w1.php?id=CCTV-15HD_7500
+CCTV-16HD,http://wen.serv00.net/w1.php?id=1617_4500
+CCTV-17HD,http://wen.serv00.net/w1.php?id=CCTV17HD
+CCTV-16 4K,http://wen.serv00.net/w1.php?id=4010
 
 
 
@@ -61,14 +61,14 @@ CCTV17HD,http://xjayrf.eatuo.com:9901/tsfile/live/1036_1.m3u8
 
 
 
-CCTV女性时尚,http://wen.serv00.net/ge.php?id=DOXyuanxianHD 
-CCTV世界地理,http://wen.serv00.net/ge.php?id=DOXhanliuHD  
-CCTV央视文化精品,http://wen.serv00.net/ge.php?id=DOXyijiaHD 
-CCTV央视台球,http://wen.serv00.net/ge.php?id=DOXyinglunHD 
-CCTV风云音乐,http://wen.serv00.net/ge.php?id=DOXxinyiHD 
-CCTV风云剧场,http://wen.serv00.net/ge.php?id=DOXxinzhiHD 
-CCTV第一剧场,http://wen.serv00.net/ge.php?id=DOXyinghuaHD 
-CCTV怀旧剧场,http://wen.serv00.net/ge.php?id=DOXjuchangHD 
+CCTV女性时尚,http://wen.serv00.net/w1.php?id=DOXyuanxianHD 
+CCTV世界地理,http://wen.serv00.net/w1.php?id=DOXhanliuHD  
+CCTV央视文化精品,http://wen.serv00.net/w1.php?id=DOXyijiaHD 
+CCTV央视台球,http://wen.serv00.net/w1.php?id=DOXyinglunHD 
+CCTV风云音乐,http://wen.serv00.net/w1.php?id=DOXxinyiHD 
+CCTV风云剧场,http://wen.serv00.net/w1.php?id=DOXxinzhiHD 
+CCTV第一剧场,http://wen.serv00.net/w1.php?id=DOXyinghuaHD 
+CCTV怀旧剧场,http://wen.serv00.net/w1.php?id=DOXjuchangHD 
 
 
 
@@ -77,8 +77,8 @@ CCTV怀旧剧场,http://wen.serv00.net/ge.php?id=DOXjuchangHD
 
 广东频道,#genre#
 
-广东卫视HD,http://wen.serv00.net/ge.php?id=1401
-广东体育HD,http://wen.serv00.net/ge.php?id=gdsportsHD_7000
+广东卫视HD,http://wen.serv00.net/w1.php?id=1401
+广东体育HD,http://wen.serv00.net/w1.php?id=gdsportsHD_7000
 
 
 广东卫视HD,http://111.20.33.70/PLTV/88888893/224/3221226216/index.m3u8#http://fyld.eatuo.com:9901/tsfile/live/1008_1.m3u8
@@ -89,18 +89,18 @@ CCTV怀旧剧场,http://wen.serv00.net/ge.php?id=DOXjuchangHD
 梅州2高清-A,http://p2.vzan.com/slowlive/645350022315428297/live.m3u8#http://xjayrf.eatuo.com:9901/tsfile/live/1003_1.m3u8
 梅州2高清-B,http://fyld.eatuo.com:9901/tsfile/live/1003_1.m3u8
 
-梅州1高清,http://wen.serv00.net/ge.php?id=meizhou1HD_4500
-梅州2高清,http://wen.serv00.net/ge.php?id=meizhou2HD_4500
-珠江台HD,http://wen.serv00.net/ge.php?id=gdzhujiangHD_7500
-广东经济科教,http://wen.serv00.net/ge.php?id=GDjingjikejiaoHD_7000
-广东新闻,http://wen.serv00.net/ge.php?id=gdnews_1500
-广东公共,http://wen.serv00.net/ge.php?id=gdpublic_1500
-大湾区卫视,http://wen.serv00.net/ge.php?id=gdnanfang_1500
+梅州1高清,http://wen.serv00.net/w1.php?id=meizhou1HD_4500
+梅州2高清,http://wen.serv00.net/w1.php?id=meizhou2HD_4500
+珠江台HD,http://wen.serv00.net/w1.php?id=gdzhujiangHD_7500
+广东经济科教,http://wen.serv00.net/w1.php?id=GDjingjikejiaoHD_7000
+广东新闻,http://wen.serv00.net/w1.php?id=gdnews_1500
+广东公共,http://wen.serv00.net/w1.php?id=gdpublic_1500
+大湾区卫视,http://wen.serv00.net/w1.php?id=gdnanfang_1500
 
-翡翠台,http://wen.serv00.net/ge.php?id=1350_4500
-明珠台,http://wen.serv00.net/ge.php?id=1351_4500
-凤凰中文,http://wen.serv00.net/ge.php?id=fhzw_1500
-星空卫视,http://wen.serv00.net/ge.php?id=xingkong_1500
+翡翠台,http://wen.serv00.net/w1.php?id=1350_4500
+明珠台,http://wen.serv00.net/w1.php?id=1351_4500
+凤凰中文,http://wen.serv00.net/w1.php?id=fhzw_1500
+星空卫视,http://wen.serv00.net/w1.php?id=xingkong_1500
 
 广东体育HD,http://fyld.eatuo.com:9901/tsfile/live/1012_1.m3u8#http://iptv.weai.love/live?type=gdjy&ipdz=113.64.147,i&tvid=gdty
 
@@ -141,11 +141,11 @@ CHC高清电影,http://fyld.eatuo.com:9901/tsfile/live/1044_1.m3u8
 
 
 
-广州综合,http://219.128.40.59:8888/udp/239.253.43.71:5146#http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzzh
-广州新闻,http://219.128.40.59:8888/udp/239.253.43.72:5146#http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzxw
-广州影视,http://219.128.40.59:8888/udp/239.253.43.73:5146#http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzys
-广州竞赛,http://219.128.40.59:8888/udp/239.253.43.75:5146#http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzjs
-广州法治,http://219.128.40.59:8888/udp/239.253.43.74:5146#http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzfz
+广州综合,http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzzh
+广州新闻,http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzxw
+广州影视,http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzys
+广州竞赛,http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzjs
+广州法治,http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzfz
 南国都市,http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzngds
 广州综合,http://fxhack.f3322.org:8000/udp/239.253.43.71:5146 
 广州新闻,http://fxhack.f3322.org:8000/udp/239.253.43.72:5146
@@ -169,18 +169,18 @@ CHC高清电影,http://fyld.eatuo.com:9901/tsfile/live/1044_1.m3u8
 
 
 
-全纪实HD,http://wen.serv00.net/ge.php?id=quanjishiHD 
-求索纪录HD,http://wen.serv00.net/ge.php?id=QSJLHD 
-求索科学HD,http://wen.serv00.net/ge.php?id=qiusuokexueHD 
-求索动物HD,http://wen.serv00.net/ge.php?id=QSDWHD 
-求索生活HD,http://wen.serv00.net/ge.php?id=QSSHHD 
-高清探索HD,http://wen.serv00.net/ge.php?id=searchHD 
-高清影院HD,http://wen.serv00.net/ge.php?id=FilmsHD 
-高清剧场HD,http://wen.serv00.net/ge.php?id=TheaterHD 
-高清综合HD,http://wen.serv00.net/ge.php?id=zongheHD 
-劲爆体育HD,http://wen.serv00.net/ge.php?id=jinbaotiyuHD 
-欢笑剧场HD,http://wen.serv00.net/ge.php?id=huanxiaojuchangHD 
-魅力足球HD,http://wen.serv00.net/ge.php?id=meiliyinyueHD 
+全纪实HD,http://wen.serv00.net/w1.php?id=quanjishiHD 
+求索纪录HD,http://wen.serv00.net/w1.php?id=QSJLHD 
+求索科学HD,http://wen.serv00.net/w1.php?id=qiusuokexueHD 
+求索动物HD,http://wen.serv00.net/w1.php?id=QSDWHD 
+求索生活HD,http://wen.serv00.net/w1.php?id=QSSHHD 
+高清探索HD,http://wen.serv00.net/w1.php?id=searchHD 
+高清影院HD,http://wen.serv00.net/w1.php?id=FilmsHD 
+高清剧场HD,http://wen.serv00.net/w1.php?id=TheaterHD 
+高清综合HD,http://wen.serv00.net/w1.php?id=zongheHD 
+劲爆体育HD,http://wen.serv00.net/w1.php?id=jinbaotiyuHD 
+欢笑剧场HD,http://wen.serv00.net/w1.php?id=huanxiaojuchangHD 
+魅力足球HD,http://wen.serv00.net/w1.php?id=meiliyinyueHD 
 
 
 
