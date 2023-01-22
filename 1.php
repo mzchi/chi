@@ -259,7 +259,7 @@ CCTV-13HD,https://wen.serv00.net/tu.php?id=1613
 CCTV-16HD,https://wen.serv00.net/tu.php?id=1617_4500
 CCTV-16 4K,https://wen.serv00.net/tu.php?id=4010
 
-广东体育HD,https://wen.serv00.net/tu.php?id=gdsportsHD_7000
+广东体育HD,https://wen.serv00.net/tu.php?id=1413
 梅州-1 HD,https://wen.serv00.net/tu.php?id=meizhou1HD_4500
 梅州-2 HD,https://wen.serv00.net/tu.php?id=meizhou2HD_4500
 
