@@ -328,65 +328,65 @@ CCTV-16 4K,https://wen.serv00.net/tu.php?id=4010
 
 
 百事通 TV,#genre#
-CCTV-16,http://tt-live.bestvcdn.com.cn/live/program/live/cctv16hd4k/15000000/mnf.m3u8
-CCTV-4K,http://tt-live.bestvcdn.com.cn/live/program/live/cctv4k/15000000/mnf.m3u8
-欢笑剧场4k,http://tt-live.bestvcdn.com.cn/live/program/live/hxjc4k/15000000/mnf.m3u8
-CCTV1 8M,http://tt-live.bestvcdn.com.cn/live/program/live/cctv1hd8m/8000000/mnf.m3u8
-CCTV2 8M,http://tt-live.bestvcdn.com.cn/live/program/live/cctv2hd8m/8000000/mnf.m3u8
-CCTV3 8M,http://tt-live.bestvcdn.com.cn/live/program/live/cctv38m/8000000/mnf.m3u8
-CCTV4 8M,http://tt-live.bestvcdn.com.cn/live/program/live/cctv4hd8m/8000000/mnf.m3u8
-CCTV5 8M,http://tt-live.bestvcdn.com.cn/live/program/live/cctv58m/8000000/mnf.m3u8
-CCTV5+ 8M,http://tt-live.bestvcdn.com.cn/live/program/live/cctv5phd8m/8000000/mnf.m3u8
-CCTV6 8M,http://tt-live.bestvcdn.com.cn/live/program/live/cctv6hd8m/8000000/mnf.m3u8
-CCTV7 8M,http://tt-live.bestvcdn.com.cn/live/program/live/cctv7hd8m/8000000/mnf.m3u8
-CCTV8 8M,http://tt-live.bestvcdn.com.cn/live/program/live/cctv8hd8m/8000000/mnf.m3u8
-CCTV9 8M,http://tt-live.bestvcdn.com.cn/live/program/live/cctv9hd8m/8000000/mnf.m3u8
-CCTV10 8M,http://tt-live.bestvcdn.com.cn/live/program/live/cctv10hd8m/8000000/mnf.m3u8
-CCTV11 8M,http://tt-live.bestvcdn.com.cn/live/program/live/cctv11hd8m/8000000/mnf.m3u8
-CCTV12 8M,http://tt-live.bestvcdn.com.cn/live/program/live/cctv12hd8m/8000000/mnf.m3u8
-CCTV13 8M,http://tt-live.bestvcdn.com.cn/live/program/live/cctv13xwhd8m/8000000/mnf.m3u8
-CCTV14 8M,http://tt-live.bestvcdn.com.cn/live/program/live/cctvsehd8m/8000000/mnf.m3u8
-CCTV15 8M,http://tt-live.bestvcdn.com.cn/live/program/live/cctv15hd8m/8000000/mnf.m3u8
-CCTV16 8M,http://tt-live.bestvcdn.com.cn/live/program/live/cctv16hd8m/8000000/mnf.m3u8
-CCTV17 8M,http://tt-live.bestvcdn.com.cn/live/program/live/cctv17hd8m/8000000/mnf.m3u8
-江苏卫视 8M,http://tt-live.bestvcdn.com.cn/live/program/live/jswshd8m/8000000/mnf.m3u8
-湖南卫视 8M,http://tt-live.bestvcdn.com.cn/live/program/live/hunanwshd8m/8000000/mnf.m3u8
-浙江卫视 8M,http://tt-live.bestvcdn.com.cn/live/program/live/zjwshd8m/8000000/mnf.m3u8
-广东卫视 8M,http://tt-live.bestvcdn.com.cn/live/program/live/gdwshd8m/8000000/mnf.m3u8
-深圳卫视 8M,http://tt-live.bestvcdn.com.cn/live/program/live/szwshd8m/8000000/mnf.m3u8
-劲爆体育 8M,http://tt-live.bestvcdn.com.cn/live/program/live/jbtyhd8m/8000000/mnf.m3u8
-欢笑剧场 8M,http://tt-live.bestvcdn.com.cn/live/program/live/hxjc8m/8000000/mnf.m3u8
-快乐垂钓 8M,http://tt-live.bestvcdn.com.cn/live/program/live/klcd8m/8000000/mnf.m3u8
-金鹰纪实 8M,http://tt-live.bestvcdn.com.cn/live/program/live/jyjs8m/8000000/mnf.m3u8
-上海都市 8M,http://tt-live.bestvcdn.com.cn/live/program/live/dshd8m/8000000/mnf.m3u8
-上海纪实 8M,http://tt-live.bestvcdn.com.cn/live/program/live/jspdhd/4000000/mnf.m3u8
-东方影视 8M,http://tt-live.bestvcdn.com.cn/live/program/live/dfyshd8m/8000000/mnf.m3u8
-五星体育 8M,http://tt-live.bestvcdn.com.cn/live/program/live/wxtyhd8m/8000000/mnf.m3u8
-上视外语 8M,http://tt-live.bestvcdn.com.cn/live/program/live/icshd8m/8000000/mnf.m3u8
-全纪实 8M,http://tt-live.bestvcdn.com.cn/live/program/live/qjshd8m/8000000/mnf.m3u8
-生活时尚 8M,http://tt-live.bestvcdn.com.cn/live/program/live/shss8m/8000000/mnf.m3u8
-新视觉 8M,http://tt-live.bestvcdn.com.cn/live/program/live/xsjhd8m/8000000/mnf.m3u8
-游戏风云 8M,http://tt-live.bestvcdn.com.cn/live/program/live/yxfy8m/8000000/mnf.m3u8
-热门综艺 8M,http://tt-live.bestvcdn.com.cn/live/program/live/rmzy8m/8000000/mnf.m3u8
-超级体育 8M,http://tt-live.bestvcdn.com.cn/live/program/live/qcsj8m/8000000/mnf.m3u8
-健康养生 8M,http://tt-live.bestvcdn.com.cn/live/program/live/jkys8m/8000000/mnf.m3u8
-百变课堂 8M,http://tt-live.bestvcdn.com.cn/live/program/live/bbkt8m/8000000/mnf.m3u8
-看天下精选 8M,http://tt-live.bestvcdn.com.cn/live/program/live/ktxjx8m/8000000/mnf.m3u8
-华语影院 8M,http://tt-live.bestvcdn.com.cn/live/program/live/hyyy8m/8000000/mnf.m3u8
-电竞天堂 8M,http://tt-live.bestvcdn.com.cn/live/program/live/djtt8m/8000000/mnf.m3u8
-青春动漫 8M,http://tt-live.bestvcdn.com.cn/live/program/live/qcdm8m/8000000/mnf.m3u8
-宝宝动画 8M,http://tt-live.bestvcdn.com.cn/live/program/live/bbdh8m/8000000/mnf.m3u8
-星光影院 8M,http://tt-live.bestvcdn.com.cn/live/program/live/xgyy8m/8000000/mnf.m3u8
-谍战剧场 8M,http://tt-live.bestvcdn.com.cn/live/program/live/dzjc8m/8000000/mnf.m3u8
-全球大片 8M,http://tt-live.bestvcdn.com.cn/live/program/live/qqdp8m/8000000/mnf.m3u8
-热门剧场 8M,http://tt-live.bestvcdn.com.cn/live/program/live/rmjc8m/8000000/mnf.m3u8
-卡酷少儿 8M,http://tt-live.bestvcdn.com.cn/live/program/live/kkse8m/8000000/mnf.m3u8
-纪实科教 8M,http://tt-live.bestvcdn.com.cn/live/program/live/dajs8m/8000000/mnf.m3u8
-足球高清 8M,http://tt-live.bestvcdn.com.cn/live/program/live/zqpd8m/8000000/mnf.m3u8
-炫动卡通 8M,http://tt-live.bestvcdn.com.cn/live/program/live/hhxd8m/8000000/mnf.m3u8
-都市剧场 8M,http://tt-live.bestvcdn.com.cn/live/program/live/dsjc8m/8000000/mnf.m3u8
-动漫秀场 8M,http://tt-live.bestvcdn.com.cn/live/program/live/dmxc8m/8000000/mnf.m3u8
-魅力足球 8M,http://tt-live.bestvcdn.com.cn/live/program/live/mlyyhd8m/8000000/mnf.m3u8
+CCTV-16,http://223.111.143.136/liveplay-kk.rtxapp.com/live/program/live/cctv16hd4k/15000000/mnf.m3u8
+CCTV-4K,http://223.111.143.136/liveplay-kk.rtxapp.com/live/program/live/cctv4k/15000000/mnf.m3u8
+欢笑剧场4k,http://223.111.143.136/liveplay-kk.rtxapp.com/live/program/live/hxjc4k/15000000/mnf.m3u8
+CCTV1 8M,http://223.111.143.136/liveplay-kk.rtxapp.com/live/program/live/cctv1hd8m/8000000/mnf.m3u8
+CCTV2 8M,http://223.111.143.136/liveplay-kk.rtxapp.com/live/program/live/cctv2hd8m/8000000/mnf.m3u8
+CCTV3 8M,http://223.111.143.136/liveplay-kk.rtxapp.com/live/program/live/cctv38m/8000000/mnf.m3u8
+CCTV4 8M,http://223.111.143.136/liveplay-kk.rtxapp.com/live/program/live/cctv4hd8m/8000000/mnf.m3u8
+CCTV5 8M,http://223.111.143.136/liveplay-kk.rtxapp.com/live/program/live/cctv58m/8000000/mnf.m3u8
+CCTV5+ 8M,http://223.111.143.136/liveplay-kk.rtxapp.com/live/program/live/cctv5phd8m/8000000/mnf.m3u8
+CCTV6 8M,http://223.111.143.136/liveplay-kk.rtxapp.com/live/program/live/cctv6hd8m/8000000/mnf.m3u8
+CCTV7 8M,http://223.111.143.136/liveplay-kk.rtxapp.com/live/program/live/cctv7hd8m/8000000/mnf.m3u8
+CCTV8 8M,http://223.111.143.136/liveplay-kk.rtxapp.com/live/program/live/cctv8hd8m/8000000/mnf.m3u8
+CCTV9 8M,http://223.111.143.136/liveplay-kk.rtxapp.com/live/program/live/cctv9hd8m/8000000/mnf.m3u8
+CCTV10 8M,http://223.111.143.136/liveplay-kk.rtxapp.com/live/program/live/cctv10hd8m/8000000/mnf.m3u8
+CCTV11 8M,http://223.111.143.136/liveplay-kk.rtxapp.com/live/program/live/cctv11hd8m/8000000/mnf.m3u8
+CCTV12 8M,http://223.111.143.136/liveplay-kk.rtxapp.com/live/program/live/cctv12hd8m/8000000/mnf.m3u8
+CCTV13 8M,http://223.111.143.136/liveplay-kk.rtxapp.com/live/program/live/cctv13xwhd8m/8000000/mnf.m3u8
+CCTV14 8M,http://223.111.143.136/liveplay-kk.rtxapp.com/live/program/live/cctvsehd8m/8000000/mnf.m3u8
+CCTV15 8M,http://223.111.143.136/liveplay-kk.rtxapp.com/live/program/live/cctv15hd8m/8000000/mnf.m3u8
+CCTV16 8M,http://223.111.143.136/liveplay-kk.rtxapp.com/live/program/live/cctv16hd8m/8000000/mnf.m3u8
+CCTV17 8M,http://223.111.143.136/liveplay-kk.rtxapp.com/live/program/live/cctv17hd8m/8000000/mnf.m3u8
+江苏卫视 8M,http://223.111.143.136/liveplay-kk.rtxapp.com/live/program/live/jswshd8m/8000000/mnf.m3u8
+湖南卫视 8M,http://223.111.143.136/liveplay-kk.rtxapp.com/live/program/live/hunanwshd8m/8000000/mnf.m3u8
+浙江卫视 8M,http://223.111.143.136/liveplay-kk.rtxapp.com/live/program/live/zjwshd8m/8000000/mnf.m3u8
+广东卫视 8M,http://223.111.143.136/liveplay-kk.rtxapp.com/live/program/live/gdwshd8m/8000000/mnf.m3u8
+深圳卫视 8M,http://223.111.143.136/liveplay-kk.rtxapp.com/live/program/live/szwshd8m/8000000/mnf.m3u8
+劲爆体育 8M,http://223.111.143.136/liveplay-kk.rtxapp.com/live/program/live/jbtyhd8m/8000000/mnf.m3u8
+欢笑剧场 8M,http://223.111.143.136/liveplay-kk.rtxapp.com/live/program/live/hxjc8m/8000000/mnf.m3u8
+快乐垂钓 8M,http://223.111.143.136/liveplay-kk.rtxapp.com/live/program/live/klcd8m/8000000/mnf.m3u8
+金鹰纪实 8M,http://223.111.143.136/liveplay-kk.rtxapp.com/live/program/live/jyjs8m/8000000/mnf.m3u8
+上海都市 8M,http://223.111.143.136/liveplay-kk.rtxapp.com/live/program/live/dshd8m/8000000/mnf.m3u8
+上海纪实 8M,http://223.111.143.136/liveplay-kk.rtxapp.com/live/program/live/jspdhd/4000000/mnf.m3u8
+东方影视 8M,http://223.111.143.136/liveplay-kk.rtxapp.com/live/program/live/dfyshd8m/8000000/mnf.m3u8
+五星体育 8M,http://223.111.143.136/liveplay-kk.rtxapp.com/live/program/live/wxtyhd8m/8000000/mnf.m3u8
+上视外语 8M,http://223.111.143.136/liveplay-kk.rtxapp.com/live/program/live/icshd8m/8000000/mnf.m3u8
+全纪实 8M,http://223.111.143.136/liveplay-kk.rtxapp.com/live/program/live/qjshd8m/8000000/mnf.m3u8
+生活时尚 8M,http://223.111.143.136/liveplay-kk.rtxapp.com/live/program/live/shss8m/8000000/mnf.m3u8
+新视觉 8M,http://223.111.143.136/liveplay-kk.rtxapp.com/live/program/live/xsjhd8m/8000000/mnf.m3u8
+游戏风云 8M,http://223.111.143.136/liveplay-kk.rtxapp.com/live/program/live/yxfy8m/8000000/mnf.m3u8
+热门综艺 8M,http://223.111.143.136/liveplay-kk.rtxapp.com/live/program/live/rmzy8m/8000000/mnf.m3u8
+超级体育 8M,http://223.111.143.136/liveplay-kk.rtxapp.com/live/program/live/qcsj8m/8000000/mnf.m3u8
+健康养生 8M,http://223.111.143.136/liveplay-kk.rtxapp.com/live/program/live/jkys8m/8000000/mnf.m3u8
+百变课堂 8M,http://223.111.143.136/liveplay-kk.rtxapp.com/live/program/live/bbkt8m/8000000/mnf.m3u8
+看天下精选 8M,http://223.111.143.136/liveplay-kk.rtxapp.com/live/program/live/ktxjx8m/8000000/mnf.m3u8
+华语影院 8M,http://223.111.143.136/liveplay-kk.rtxapp.com/live/program/live/hyyy8m/8000000/mnf.m3u8
+电竞天堂 8M,http://223.111.143.136/liveplay-kk.rtxapp.com/live/program/live/djtt8m/8000000/mnf.m3u8
+青春动漫 8M,http://223.111.143.136/liveplay-kk.rtxapp.com/live/program/live/qcdm8m/8000000/mnf.m3u8
+宝宝动画 8M,http://223.111.143.136/liveplay-kk.rtxapp.com/live/program/live/bbdh8m/8000000/mnf.m3u8
+星光影院 8M,http://223.111.143.136/liveplay-kk.rtxapp.com/live/program/live/xgyy8m/8000000/mnf.m3u8
+谍战剧场 8M,http://223.111.143.136/liveplay-kk.rtxapp.com/live/program/live/dzjc8m/8000000/mnf.m3u8
+全球大片 8M,http://223.111.143.136/liveplay-kk.rtxapp.com/live/program/live/qqdp8m/8000000/mnf.m3u8
+热门剧场 8M,http://223.111.143.136/liveplay-kk.rtxapp.com/live/program/live/rmjc8m/8000000/mnf.m3u8
+卡酷少儿 8M,http://223.111.143.136/liveplay-kk.rtxapp.com/live/program/live/kkse8m/8000000/mnf.m3u8
+纪实科教 8M,http://223.111.143.136/liveplay-kk.rtxapp.com/live/program/live/dajs8m/8000000/mnf.m3u8
+足球高清 8M,http://223.111.143.136/liveplay-kk.rtxapp.com/live/program/live/zqpd8m/8000000/mnf.m3u8
+炫动卡通 8M,http://223.111.143.136/liveplay-kk.rtxapp.com/live/program/live/hhxd8m/8000000/mnf.m3u8
+都市剧场 8M,http://223.111.143.136/liveplay-kk.rtxapp.com/live/program/live/dsjc8m/8000000/mnf.m3u8
+动漫秀场 8M,http://223.111.143.136/liveplay-kk.rtxapp.com/live/program/live/dmxc8m/8000000/mnf.m3u8
+魅力足球 8M,http://223.111.143.136/liveplay-kk.rtxapp.com/live/program/live/mlyyhd8m/8000000/mnf.m3u8
 
 
 
