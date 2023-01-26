@@ -252,32 +252,32 @@ CHC动作电影高清,http://fyld.eatuo.com:9901/tsfile/live/1039_1.m3u8
 
 
 广东有线,#genre#
-CCTV-1HD,https://wen.serv00.net/tu.php?id=CCTV1HD_7000
-CCTV-5HD,https://wen.serv00.net/tu.php?id=1605
-CCTV-5+HD,https://wen.serv00.net/tu.php?id=1403
-CCTV-13HD,https://wen.serv00.net/tu.php?id=1613
-CCTV-16HD,https://wen.serv00.net/tu.php?id=1617_4500
-CCTV-16 4K,https://wen.serv00.net/tu.php?id=4010
+CCTV-1HD,https://wen.serv00.net/mz.php?id=CCTV1HD_7000
+CCTV-5HD,https://wen.serv00.net/mz.php?id=1605
+CCTV-5+HD,https://wen.serv00.net/mz.php?id=1403
+CCTV-13HD,https://wen.serv00.net/mz.php?id=1613
+CCTV-16HD,https://wen.serv00.net/mz.php?id=1617_4500
+CCTV-16 4K,https://wen.serv00.net/mz.php?id=4010
 
-广东体育HD,https://wen.serv00.net/tu.php?id=1413
-梅州-1 HD,https://wen.serv00.net/tu.php?id=meizhou1HD_4500
-梅州-2 HD,https://wen.serv00.net/tu.php?id=meizhou2HD_4500
-
-
-劲爆体育HD,https://wen.serv00.net/tu.php?id=jinbaotiyuHD_7000 
-魅力足球HD,https://wen.serv00.net/tu.php?id=meiliyinyueHD_7000 
-
-翡翠台,https://wen.serv00.net/tu.php?id=1350_4500
-明珠台,https://wen.serv00.net/tu.php?id=1351_4500
-凤凰中文,https://wen.serv00.net/tu.php?id=fhzw_1500
-星空卫视,https://wen.serv00.net/tu.php?id=xingkong_1500
+广东体育HD,https://wen.serv00.net/mz.php?id=1413
+梅州-1 HD,https://wen.serv00.net/mz.php?id=meizhou1HD_4500
+梅州-2 HD,https://wen.serv00.net/mz.php?id=meizhou2HD_4500
 
 
-全纪实HD,https://wen.serv00.net/tu.php?id=quanjishiHD
-求索纪录HD,https://wen.serv00.net/tu.php?id=QSJLHD
-求索科学HD,https://wen.serv00.net/tu.php?id=qiusuokexueHD
-求索动物HD,https://wen.serv00.net/tu.php?id=QSDWHD
-求索生活HD,https://wen.serv00.net/tu.php?id=QSSHHD
+劲爆体育HD,https://wen.serv00.net/mz.php?id=jinbaotiyuHD_7000 
+魅力足球HD,https://wen.serv00.net/mz.php?id=meiliyinyueHD_7000 
+
+翡翠台,https://wen.serv00.net/mz.php?id=1350_4500
+明珠台,https://wen.serv00.net/mz.php?id=1351_4500
+凤凰中文,https://wen.serv00.net/mz.php?id=fhzw_1500
+星空卫视,https://wen.serv00.net/mz.php?id=xingkong_1500
+
+
+全纪实HD,https://wen.serv00.net/mz.php?id=quanjishiHD
+求索纪录HD,https://wen.serv00.net/mz.php?id=QSJLHD
+求索科学HD,https://wen.serv00.net/mz.php?id=qiusuokexueHD
+求索动物HD,https://wen.serv00.net/mz.php?id=QSDWHD
+求索生活HD,https://wen.serv00.net/mz.php?id=QSSHHD
 
 
 
