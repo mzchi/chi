@@ -333,7 +333,7 @@ CCTV-4K,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/cctv4k/15
 欢笑剧场4k,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/hxjc4k/15000000/mnf.m3u8
 CCTV1 8M,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/cctv1hd8m/8000000/mnf.m3u8
 CCTV2 8M,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/cctv2hd8m/8000000/mnf.m3u8
-CCTV3 8M,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/cctv3hd8m/8000000/mnf.m3u8
+CCTV3 8M,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/cctv38m/8000000/mnf.m3u8
 CCTV4 8M,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/cctv4hd8m/8000000/mnf.m3u8
 CCTV5 8M,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/cctv58m/8000000/mnf.m3u8
 CCTV5+ 8M,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/cctv5phd8m/8000000/mnf.m3u8
