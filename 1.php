@@ -251,7 +251,7 @@ CHC动作电影高清,http://fyld.eatuo.com:9901/tsfile/live/1039_1.m3u8
 
 
 
-广东有线,#genre#
+有线电视,#genre#
 CCTV-1HD,https://wen.serv00.net/mz.php?id=CCTV1HD_7000
 CCTV-5HD,https://wen.serv00.net/mz.php?id=1605
 CCTV-5+HD,https://wen.serv00.net/mz.php?id=1403
@@ -267,17 +267,11 @@ CCTV-16 4K,https://wen.serv00.net/mz.php?id=4010
 劲爆体育HD,https://wen.serv00.net/mz.php?id=jinbaotiyuHD_7000 
 魅力足球HD,https://wen.serv00.net/mz.php?id=meiliyinyueHD_7000 
 
-翡翠台,https://wen.serv00.net/mz.php?id=1350_4500
-明珠台,https://wen.serv00.net/mz.php?id=1351_4500
 凤凰中文,https://wen.serv00.net/mz.php?id=fhzw_1500
 星空卫视,https://wen.serv00.net/mz.php?id=xingkong_1500
 
 
-全纪实HD,https://wen.serv00.net/mz.php?id=quanjishiHD
-求索纪录HD,https://wen.serv00.net/mz.php?id=QSJLHD
-求索科学HD,https://wen.serv00.net/mz.php?id=qiusuokexueHD
-求索动物HD,https://wen.serv00.net/mz.php?id=QSDWHD
-求索生活HD,https://wen.serv00.net/mz.php?id=QSSHHD
+
 
 
 
