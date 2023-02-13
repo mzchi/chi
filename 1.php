@@ -252,23 +252,22 @@ CHC动作电影高清,http://fyld.eatuo.com:9901/tsfile/live/1039_1.m3u8
 
 
 有线电视,#genre#
-CCTV-1HD,https://wen.serv00.net/mz.php?id=CCTV1HD_7000
-CCTV-5HD,https://wen.serv00.net/mz.php?id=1605
-CCTV-5+HD,https://wen.serv00.net/mz.php?id=1403
-CCTV-13HD,https://wen.serv00.net/mz.php?id=1613
-CCTV-16HD,https://wen.serv00.net/mz.php?id=1617_4500
-CCTV-16 4K,https://wen.serv00.net/mz.php?id=4010
-
-广东体育HD,https://wen.serv00.net/mz.php?id=1413
-梅州-1 HD,https://wen.serv00.net/mz.php?id=meizhou1HD_4500
-梅州-2 HD,https://wen.serv00.net/mz.php?id=meizhou2HD_4500
+CCTV-1HD,https://wen.serv00.net/chi.php?id=CCTV1HD_7000
+CCTV-5HD,https://wen.serv00.net/chi.php?id=1605
+CCTV-5+HD,https://wen.serv00.net/chi.php?id=1403
+CCTV-13HD,https://wen.serv00.net/chi.php?id=1613
+CCTV-16HD,https://wen.serv00.net/chi.php?id=1617_4500
 
 
-劲爆体育HD,https://wen.serv00.net/mz.php?id=jinbaotiyuHD_7000 
-魅力足球HD,https://wen.serv00.net/mz.php?id=meiliyinyueHD_7000 
+广东体育HD,https://wen.serv00.net/chi.php?id=1413
+梅州-1 HD,https://wen.serv00.net/chi.php?id=meizhou1HD_4500
+梅州-2 HD,https://wen.serv00.net/chi.php?id=meizhou2HD_4500
 
-凤凰中文,https://wen.serv00.net/mz.php?id=fhzw_1500
-星空卫视,https://wen.serv00.net/mz.php?id=xingkong_1500
+
+劲爆体育HD,https://wen.serv00.net/chi.php?id=jinbaotiyuHD_7000 
+魅力足球HD,https://wen.serv00.net/chi.php?id=meiliyinyueHD_7000 
+
+
 
 
 
