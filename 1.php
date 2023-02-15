@@ -102,6 +102,9 @@ CCTV-17农业高清,rtsp://183.59.156.50/PLTV/88888905/224/3221229870/1000010000
 
 广东体育超清,rtsp://183.59.156.50/PLTV/88888905/224/3221227818/10000100000000060000000005076859_0.smil?rrsip=125.88.104.45,rrsip=125.88.70.140&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=/+akjaBNtrxv++Nlci7N1GWGerOaC+XYLh9OOsbcYpBZpE5Fjy4Wp3Jul0t692MecGUxbnM9ZfOcCvij6GLDGveliofE49RneKThAOoyW/3RbDYGzY4aMb7dUd8Pcq+xlhGzVCb7g1l9i8quZgKLag==:20200323001401,02040449949,10.107.218.172,20200323001401,02000004000000052015081800000003,D78A82378B66CBBE68D8348554D40FF2,-1,0,1,,,2,,,,2,
 
+广东体育-有线,https://wen.serv00.net/yu.php?id=1413
+
+
 梅州1高清-A,http://p2.vzan.com/slowlive/403126774572750089/live.m3u8
 梅州1高清-B,http://fyld.eatuo.com:9901/tsfile/live/1002_1.m3u8
 
@@ -231,43 +234,13 @@ N环球奇观,rtsp://125.88.53.18/PLTV/88888905/224/3221228330/10000100000000060
 
 央视文化精品,rtsp://183.59.156.50/PLTV/88888905/224/3221230012/10000100000000060000000011037429_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=~~V2.0~bwc4e8DirJRb8Zg3L8Qr4A~cTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==:20201118191457,23789887,113.117.62.188,20201118191457,02000006000000052020061799000010,2378988720201118191456,-1,0,1,,,2,,,,2,END&GuardEncType=2&tenantId=8601
 
-
-
 少儿动画,rtsp://183.59.156.50/PLTV/88888905/224/3221227070/10000100000000060000000000698839_0.smil?rrsip=125.88.104.45,rrsip=125.88.70.140&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=szGcXYGZgiJkbhNx+h1LNPazW53nsc/EsXJciFfu6Or2svRJpzCBK2th3UvbTJccCwXJs5FPJJ5NENPhFoWgdlWNKoati1QaJNVmleFqsu+vo4ixuR4g4JfbFMEerfwHe+5FI81lQi9yim8Q9yX6Gw==:20191208155122,0204778456,182.145.48.216,20191208155122,02000000000000050000000000000103,32C52DB73E1AC6FE4C6FEB60379D9589,-1,0,1,,,2,,,,2,
-
 
 CHC高清电影,rtsp://183.59.156.50/PLTV/88888905/224/3221230008/10000100000000060000000010481261_0.smil?rrsip=125.88.104.45,rrsip=125.88.70.140&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=/+akjaBNtrxv++Nlci7N1GWGerOaC+XYLh9OOsbcYpBZpE5Fjy4Wp3Jul0t692MecGUxbnM9ZfOcCvij6GLDGveliofE49RneKThAOoyW/3RbDYGzY4aMb7dUd8Pcq+xdjjzxs5Aqd+XdIrnk5XoLg==:20200323001401,02040449949,10.107.218.172,20200323001401,02000006000000052019111399000001,D78A82378B66CBBE68D8348554D40FF2,-1,0,1,,,2,,,,2,
 
 
-
-
 CHC家庭电影高清,http://fyld.eatuo.com:9901/tsfile/live/1038_1.m3u8
 CHC动作电影高清,http://fyld.eatuo.com:9901/tsfile/live/1039_1.m3u8
-
-
-
-
-
-
-
-
-有线电视,#genre#
-CCTV-1HD,https://wen.serv00.net/qin.php?id=CCTV1HD_7000
-CCTV-5HD,https://wen.serv00.net/qin.php?id=1605
-CCTV-5+HD,https://wen.serv00.net/qin.php?id=1403
-CCTV-13HD,https://wen.serv00.net/qin.php?id=1613
-CCTV-16HD,https://wen.serv00.net/qin.php?id=1617_4500
-
-
-广东体育HD,https://wen.serv00.net/qin.php?id=1413
-梅州-1 HD,https://wen.serv00.net/qin.php?id=meizhou1HD_4500
-梅州-2 HD,https://wen.serv00.net/qin.php?id=meizhou2HD_4500
-
-
-劲爆体育HD,https://wen.serv00.net/qin.php?id=jinbaotiyuHD_7000 
-魅力足球HD,https://wen.serv00.net/qin.php?id=meiliyinyueHD_7000 
-
-
 
 
 
