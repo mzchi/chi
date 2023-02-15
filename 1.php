@@ -252,20 +252,20 @@ CHC动作电影高清,http://fyld.eatuo.com:9901/tsfile/live/1039_1.m3u8
 
 
 有线电视,#genre#
-CCTV-1HD,https://wen.serv00.net/chi.php?id=CCTV1HD_7000
-CCTV-5HD,https://wen.serv00.net/chi.php?id=1605
-CCTV-5+HD,https://wen.serv00.net/chi.php?id=1403
-CCTV-13HD,https://wen.serv00.net/chi.php?id=1613
-CCTV-16HD,https://wen.serv00.net/chi.php?id=1617_4500
+CCTV-1HD,https://wen.serv00.net/qin.php?id=CCTV1HD_7000
+CCTV-5HD,https://wen.serv00.net/qin.php?id=1605
+CCTV-5+HD,https://wen.serv00.net/qin.php?id=1403
+CCTV-13HD,https://wen.serv00.net/qin.php?id=1613
+CCTV-16HD,https://wen.serv00.net/qin.php?id=1617_4500
 
 
-广东体育HD,https://wen.serv00.net/chi.php?id=1413
-梅州-1 HD,https://wen.serv00.net/chi.php?id=meizhou1HD_4500
-梅州-2 HD,https://wen.serv00.net/chi.php?id=meizhou2HD_4500
+广东体育HD,https://wen.serv00.net/qin.php?id=1413
+梅州-1 HD,https://wen.serv00.net/qin.php?id=meizhou1HD_4500
+梅州-2 HD,https://wen.serv00.net/qin.php?id=meizhou2HD_4500
 
 
-劲爆体育HD,https://wen.serv00.net/chi.php?id=jinbaotiyuHD_7000 
-魅力足球HD,https://wen.serv00.net/chi.php?id=meiliyinyueHD_7000 
+劲爆体育HD,https://wen.serv00.net/qin.php?id=jinbaotiyuHD_7000 
+魅力足球HD,https://wen.serv00.net/qin.php?id=meiliyinyueHD_7000 
 
 
 
@@ -321,71 +321,76 @@ CCTV-16HD,https://wen.serv00.net/chi.php?id=1617_4500
 
 
 百事通 TV,#genre#
-CCTV-16,http://223.109.53.39/liveplay-kk.rtxapp.com/live/program/live/cctv16hd4k/15000000/mnf.m3u8
-CCTV-4K,http://223.109.53.39/liveplay-kk.rtxapp.com/live/program/live/cctv4k/15000000/mnf.m3u8
-欢笑剧场4k,http://223.109.53.39/liveplay-kk.rtxapp.com/live/program/live/hxjc4k/15000000/mnf.m3u8
-CCTV1 8M,http://223.109.53.39/liveplay-kk.rtxapp.com/live/program/live/cctv1hd8m/8000000/mnf.m3u8
-CCTV2 8M,http://223.109.53.39/liveplay-kk.rtxapp.com/live/program/live/cctv2hd8m/8000000/mnf.m3u8
-CCTV3 8M,http://223.109.53.39/liveplay-kk.rtxapp.com/live/program/live/cctv38m/8000000/mnf.m3u8
-CCTV4 8M,http://223.109.53.39/liveplay-kk.rtxapp.com/live/program/live/cctv4hd8m/8000000/mnf.m3u8
-CCTV5 8M,http://223.109.53.39/liveplay-kk.rtxapp.com/live/program/live/cctv58m/8000000/mnf.m3u8
-CCTV5+ 8M,http://223.109.53.39/liveplay-kk.rtxapp.com/live/program/live/cctv5phd8m/8000000/mnf.m3u8
-CCTV6 8M,http://223.109.53.39/liveplay-kk.rtxapp.com/live/program/live/cctv6hd8m/8000000/mnf.m3u8
-CCTV7 8M,http://223.109.53.39/liveplay-kk.rtxapp.com/live/program/live/cctv7hd8m/8000000/mnf.m3u8
-CCTV8 8M,http://223.109.53.39/liveplay-kk.rtxapp.com/live/program/live/cctv8hd8m/8000000/mnf.m3u8
-CCTV9 8M,http://223.109.53.39/liveplay-kk.rtxapp.com/live/program/live/cctv9hd8m/8000000/mnf.m3u8
-CCTV10 8M,http://223.109.53.39/liveplay-kk.rtxapp.com/live/program/live/cctv10hd8m/8000000/mnf.m3u8
-CCTV11 8M,http://223.109.53.39/liveplay-kk.rtxapp.com/live/program/live/cctv11hd8m/8000000/mnf.m3u8
-CCTV12 8M,http://223.109.53.39/liveplay-kk.rtxapp.com/live/program/live/cctv12hd8m/8000000/mnf.m3u8
-CCTV13 8M,http://223.109.53.39/liveplay-kk.rtxapp.com/live/program/live/cctv13xwhd8m/8000000/mnf.m3u8
-CCTV14 8M,http://223.109.53.39/liveplay-kk.rtxapp.com/live/program/live/cctvsehd8m/8000000/mnf.m3u8
-CCTV15 8M,http://223.109.53.39/liveplay-kk.rtxapp.com/live/program/live/cctv15hd8m/8000000/mnf.m3u8
-CCTV16 8M,http://223.109.53.39/liveplay-kk.rtxapp.com/live/program/live/cctv16hd8m/8000000/mnf.m3u8
-CCTV17 8M,http://223.109.53.39/liveplay-kk.rtxapp.com/live/program/live/cctv17hd8m/8000000/mnf.m3u8
-江苏卫视 8M,http://223.109.53.39/liveplay-kk.rtxapp.com/live/program/live/jswshd8m/8000000/mnf.m3u8
-湖南卫视 8M,http://223.109.53.39/liveplay-kk.rtxapp.com/live/program/live/hunanwshd8m/8000000/mnf.m3u8
-浙江卫视 8M,http://223.109.53.39/liveplay-kk.rtxapp.com/live/program/live/zjwshd8m/8000000/mnf.m3u8
-东方卫视 8M,http://223.109.53.39/liveplay-kk.rtxapp.com/live/program/live/dfwshd8m/8000000/mnf.m3u8
-广东卫视 8M,http://223.109.53.39/liveplay-kk.rtxapp.com/live/program/live/gdwshd8m/8000000/mnf.m3u8
-深圳卫视 8M,http://223.109.53.39/liveplay-kk.rtxapp.com/live/program/live/szwshd8m/8000000/mnf.m3u8
-劲爆体育 8M,http://223.109.53.39/liveplay-kk.rtxapp.com/live/program/live/jbtyhd8m/8000000/mnf.m3u8
-欢笑剧场 8M,http://223.109.53.39/liveplay-kk.rtxapp.com/live/program/live/hxjc8m/8000000/mnf.m3u8
-快乐垂钓 8M,http://223.109.53.39/liveplay-kk.rtxapp.com/live/program/live/klcd8m/8000000/mnf.m3u8
-金鹰纪实 8M,http://223.109.53.39/liveplay-kk.rtxapp.com/live/program/live/jyjs8m/8000000/mnf.m3u8
-戏曲精选 8M,http://223.109.53.39/liveplay-kk.rtxapp.com/live/program/live/xqjx8m/8000000/mnf.m3u8
-第一财* 8M,http://223.109.53.39/liveplay-kk.rtxapp.com/live/program/live/dycjhd8m/8000000/mnf.m3u8
-上视新闻 8M,http://223.109.53.39/liveplay-kk.rtxapp.com/live/program/live/xwzhhd8m/8000000/mnf.m3u8
-上海都市 8M,http://223.109.53.39/liveplay-kk.rtxapp.com/live/program/live/dshd8m/8000000/mnf.m3u8
-上海纪实 8M,http://223.109.53.39/liveplay-kk.rtxapp.com/live/program/live/jspdhd/4000000/mnf.m3u8
-东方影视 8M,http://223.109.53.39/liveplay-kk.rtxapp.com/live/program/live/dfyshd8m/8000000/mnf.m3u8
-五星体育 8M,http://223.109.53.39/liveplay-kk.rtxapp.com/live/program/live/wxtyhd8m/8000000/mnf.m3u8
-上视外语 8M,http://223.109.53.39/liveplay-kk.rtxapp.com/live/program/live/icshd8m/8000000/mnf.m3u8
-七彩戏剧 8M,http://223.109.53.39/liveplay-kk.rtxapp.com/live/program/live/qcxjhd8m/8000000/mnf.m3u8
-上海教育 8M,http://223.109.53.39/liveplay-kk.rtxapp.com/live/program/live/setvhd/8000000/mnf.m3u8
-全纪实 8M,http://223.109.53.39/liveplay-kk.rtxapp.com/live/program/live/qjshd8m/8000000/mnf.m3u8
-生活时尚 8M,http://223.109.53.39/liveplay-kk.rtxapp.com/live/program/live/shss8m/8000000/mnf.m3u8
-新视觉 8M,http://223.109.53.39/liveplay-kk.rtxapp.com/live/program/live/xsjhd8m/8000000/mnf.m3u8
-游戏风云 8M,http://223.109.53.39/liveplay-kk.rtxapp.com/live/program/live/yxfy8m/8000000/mnf.m3u8
-热门综艺 8M,http://223.109.53.39/liveplay-kk.rtxapp.com/live/program/live/rmzy8m/8000000/mnf.m3u8
-超级体育 8M,http://223.109.53.39/liveplay-kk.rtxapp.com/live/program/live/qcsj8m/8000000/mnf.m3u8
-健康养生 8M,http://223.109.53.39/liveplay-kk.rtxapp.com/live/program/live/jkys8m/8000000/mnf.m3u8
-百变课堂 8M,http://223.109.53.39/liveplay-kk.rtxapp.com/live/program/live/bbkt8m/8000000/mnf.m3u8
-看天下精选 8M,http://223.109.53.39/liveplay-kk.rtxapp.com/live/program/live/ktxjx8m/8000000/mnf.m3u8
-华语影院 8M,http://223.109.53.39/liveplay-kk.rtxapp.com/live/program/live/hyyy8m/8000000/mnf.m3u8
-电竞天堂 8M,http://223.109.53.39/liveplay-kk.rtxapp.com/live/program/live/djtt8m/8000000/mnf.m3u8
-青春动漫 8M,http://223.109.53.39/liveplay-kk.rtxapp.com/live/program/live/qcdm8m/8000000/mnf.m3u8
-宝宝动画 8M,http://223.109.53.39/liveplay-kk.rtxapp.com/live/program/live/bbdh8m/8000000/mnf.m3u8
-星光影院 8M,http://223.109.53.39/liveplay-kk.rtxapp.com/live/program/live/xgyy8m/8000000/mnf.m3u8
-谍战剧场 8M,http://223.109.53.39/liveplay-kk.rtxapp.com/live/program/live/dzjc8m/8000000/mnf.m3u8
-全球大片 8M,http://223.109.53.39/liveplay-kk.rtxapp.com/live/program/live/qqdp8m/8000000/mnf.m3u8
-热门剧场 8M,http://223.109.53.39/liveplay-kk.rtxapp.com/live/program/live/rmjc8m/8000000/mnf.m3u8
-卡酷少儿 8M,http://223.109.53.39/liveplay-kk.rtxapp.com/live/program/live/kkse8m/8000000/mnf.m3u8
-纪实科教 8M,http://223.109.53.39/liveplay-kk.rtxapp.com/live/program/live/dajs8m/8000000/mnf.m3u8
-足球高清 8M,http://223.109.53.39/liveplay-kk.rtxapp.com/live/program/live/zqpd8m/8000000/mnf.m3u8
-炫动卡通 8M,http://223.109.53.39/liveplay-kk.rtxapp.com/live/program/live/hhxd8m/8000000/mnf.m3u8
-都市剧场 8M,http://223.109.53.39/liveplay-kk.rtxapp.com/live/program/live/dsjc8m/8000000/mnf.m3u8
-动漫秀场 8M,http://223.109.53.39/liveplay-kk.rtxapp.com/live/program/live/dmxc8m/8000000/mnf.m3u8
-魅力足球 8M,http://223.109.53.39/liveplay-kk.rtxapp.com/live/program/live/mlyyhd8m/8000000/mnf.m3u8
+CCTV-1 8M,http://cfss.cc/ds/bst.php?id=Cf-1
+CCTV-2 8M,http://cfss.cc/ds/bst.php?id=Cf-2
+CCTV-3 8M,http://cfss.cc/ds/bst.php?id=Cf-3
+CCTV-4 8M,http://cfss.cc/ds/bst.php?id=Cf-4
+CCTV-5 8M,http://cfss.cc/ds/bst.php?id=Cf-5
+CCTV-5+ 8M,http://cfss.cc/ds/bst.php?id=Cf-6
+CCTV-6 8M,http://cfss.cc/ds/bst.php?id=Cf-7
+CCTV-7 8M,http://cfss.cc/ds/bst.php?id=Cf-8
+CCTV-8 8M,http://cfss.cc/ds/bst.php?id=Cf-9
+CCTV-9 8M,http://cfss.cc/ds/bst.php?id=Cf-10
+CCTV-10 8M,http://cfss.cc/ds/bst.php?id=Cf-11
+CCTV-11 8M,http://cfss.cc/ds/bst.php?id=Cf-12
+CCTV-12 8M,http://cfss.cc/ds/bst.php?id=Cf-13
+CCTV-13 8M,http://cfss.cc/ds/bst.php?id=Cf-14
+CCTV-14 8M,http://cfss.cc/ds/bst.php?id=Cf-15
+CCTV-15 8M,http://cfss.cc/ds/bst.php?id=Cf-16
+CCTV-16 8M,http://cfss.cc/ds/bst.php?id=Cf-17
+CCTV-17 8M,http://cfss.cc/ds/bst.php?id=Cf-18
+CCTV-16 4K,http://cfss.cc/ds/bst.php?id=Cf-19
+江苏卫视 8M,http://cfss.cc/ds/bst.php?id=Cf-20
+上海卫视 8M,http://cfss.cc/ds/bst.php?id=Cf-23
+湖南卫视 8M,http://cfss.cc/ds/bst.php?id=Cf-24
+浙江卫视 8M,http://cfss.cc/ds/bst.php?id=Cf-25
+广东卫视 8M,http://cfss.cc/ds/bst.php?id=Cf-30
+深圳卫视 8M,http://cfss.cc/ds/bst.php?id=Cf-31
+欢笑剧场 8M,http://cfss.cc/ds/bst.php?id=Cf-46
+快乐垂钓 8M,http://cfss.cc/ds/bst.php?id=Cf-47
+金鹰纪实 8M,http://cfss.cc/ds/bst.php?id=Cf-48
+戏曲精选 8M,http://cfss.cc/ds/bst.php?id=Cf-49
+上视新闻 8M,http://cfss.cc/ds/bst.php?id=Cf-50
+上海都市 8M,http://cfss.cc/ds/bst.php?id=Cf-51
+上海纪实 8M,http://cfss.cc/ds/bst.php?id=Cf-52
+东方影视 8M,http://cfss.cc/ds/bst.php?id=Cf-53
+五星体育 8M,http://cfss.cc/ds/bst.php?id=Cf-54
+上视外语 8M,http://cfss.cc/ds/bst.php?id=Cf-55
+七彩戏剧 8M,http://cfss.cc/ds/bst.php?id=Cf-56
+上海教育 8M,http://cfss.cc/ds/bst.php?id=Cf-57
+全纪实 8M,http://cfss.cc/ds/bst.php?id=Cf-58
+生活时尚 8M,http://cfss.cc/ds/bst.php?id=Cf-59
+新视觉 8M,http://cfss.cc/ds/bst.php?id=Cf-60
+游戏风云 8M,http://cfss.cc/ds/bst.php?id=Cf-61
+热门综艺 8M,http://cfss.cc/ds/bst.php?id=Cf-62
+超级体育 8M,http://cfss.cc/ds/bst.php?id=Cf-63
+健康养生 8M,http://cfss.cc/ds/bst.php?id=Cf-64
+百变课堂 8M,http://cfss.cc/ds/bst.php?id=Cf-65
+华语影院 8M,http://cfss.cc/ds/bst.php?id=Cf-66
+电竞天堂 8M,http://cfss.cc/ds/bst.php?id=Cf-67
+青春动漫 8M,http://cfss.cc/ds/bst.php?id=Cf-68
+宝宝动画 8M,http://cfss.cc/ds/bst.php?id=Cf-69
+星光影院 8M,http://cfss.cc/ds/bst.php?id=Cf-70
+谍战剧场 8M,http://cfss.cc/ds/bst.php?id=Cf-71
+全球大片 8M,http://cfss.cc/ds/bst.php?id=Cf-72
+热门剧场 8M,http://cfss.cc/ds/bst.php?id=Cf-73
+陶瓷高清 8M,http://cfss.cc/ds/bst.php?id=Cf-74
+中国教育-1 8M,http://cfss.cc/ds/bst.php?id=Cf-75
+中国教育-4 8M,http://cfss.cc/ds/bst.php?id=Cf-76
+卡酷少儿 8M,http://cfss.cc/ds/bst.php?id=Cf-77
+纪实科教 8M,http://cfss.cc/ds/bst.php?id=Cf-78
+茶频道 8M,http://cfss.cc/ds/bst.php?id=Cf-79
+足球高清 8M,http://cfss.cc/ds/bst.php?id=Cf-80
+炫动卡通 8M,http://cfss.cc/ds/bst.php?id=Cf-81
+东方财经 8M,http://cfss.cc/ds/bst.php?id=Cf-82
+都市剧场 8M,http://cfss.cc/ds/bst.php?id=Cf-83
+动漫秀场 8M,http://cfss.cc/ds/bst.php?id=Cf-84
+法治天地 8M,http://cfss.cc/ds/bst.php?id=Cf-85
+魅力足球 8M,http://cfss.cc/ds/bst.php?id=Cf-86
+上海第一财经 8M,http://cfss.cc/ds/bst.php?id=Cf-87
+看天下精选 8M,http://cfss.cc/ds/bst.php?id=Cf-88
+
+
 
 
 
