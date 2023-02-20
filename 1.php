@@ -294,74 +294,80 @@ CHC动作电影高清,http://fyld.eatuo.com:9901/tsfile/live/1039_1.m3u8
 
 
 百事通 TV,#genre#
-CCTV-1 8M,http://cfss.cc/ds/bst.php?id=Cf-1
-CCTV-2 8M,http://cfss.cc/ds/bst.php?id=Cf-2
-CCTV-3 8M,http://cfss.cc/ds/bst.php?id=Cf-3
-CCTV-4 8M,http://cfss.cc/ds/bst.php?id=Cf-4
-CCTV-5 8M,http://cfss.cc/ds/bst.php?id=Cf-5
-CCTV-5+ 8M,http://cfss.cc/ds/bst.php?id=Cf-6
-CCTV-6 8M,http://cfss.cc/ds/bst.php?id=Cf-7
-CCTV-7 8M,http://cfss.cc/ds/bst.php?id=Cf-8
-CCTV-8 8M,http://cfss.cc/ds/bst.php?id=Cf-9
-CCTV-9 8M,http://cfss.cc/ds/bst.php?id=Cf-10
-CCTV-10 8M,http://cfss.cc/ds/bst.php?id=Cf-11
-CCTV-11 8M,http://cfss.cc/ds/bst.php?id=Cf-12
-CCTV-12 8M,http://cfss.cc/ds/bst.php?id=Cf-13
-CCTV-13 8M,http://cfss.cc/ds/bst.php?id=Cf-14
-CCTV-14 8M,http://cfss.cc/ds/bst.php?id=Cf-15
-CCTV-15 8M,http://cfss.cc/ds/bst.php?id=Cf-16
-CCTV-16 8M,http://cfss.cc/ds/bst.php?id=Cf-17
-CCTV-17 8M,http://cfss.cc/ds/bst.php?id=Cf-18
-CCTV-16 4K,http://cfss.cc/ds/bst.php?id=Cf-19
-江苏卫视 8M,http://cfss.cc/ds/bst.php?id=Cf-20
-上海卫视 8M,http://cfss.cc/ds/bst.php?id=Cf-23
-湖南卫视 8M,http://cfss.cc/ds/bst.php?id=Cf-24
-浙江卫视 8M,http://cfss.cc/ds/bst.php?id=Cf-25
-广东卫视 8M,http://cfss.cc/ds/bst.php?id=Cf-30
-深圳卫视 8M,http://cfss.cc/ds/bst.php?id=Cf-31
-欢笑剧场 8M,http://cfss.cc/ds/bst.php?id=Cf-46
-快乐垂钓 8M,http://cfss.cc/ds/bst.php?id=Cf-47
-金鹰纪实 8M,http://cfss.cc/ds/bst.php?id=Cf-48
-戏曲精选 8M,http://cfss.cc/ds/bst.php?id=Cf-49
-上视新闻 8M,http://cfss.cc/ds/bst.php?id=Cf-50
-上海都市 8M,http://cfss.cc/ds/bst.php?id=Cf-51
-上海纪实 8M,http://cfss.cc/ds/bst.php?id=Cf-52
-东方影视 8M,http://cfss.cc/ds/bst.php?id=Cf-53
-五星体育 8M,http://cfss.cc/ds/bst.php?id=Cf-54
-上视外语 8M,http://cfss.cc/ds/bst.php?id=Cf-55
-七彩戏剧 8M,http://cfss.cc/ds/bst.php?id=Cf-56
-上海教育 8M,http://cfss.cc/ds/bst.php?id=Cf-57
-全纪实 8M,http://cfss.cc/ds/bst.php?id=Cf-58
-生活时尚 8M,http://cfss.cc/ds/bst.php?id=Cf-59
-新视觉 8M,http://cfss.cc/ds/bst.php?id=Cf-60
-游戏风云 8M,http://cfss.cc/ds/bst.php?id=Cf-61
-热门综艺 8M,http://cfss.cc/ds/bst.php?id=Cf-62
-超级体育 8M,http://cfss.cc/ds/bst.php?id=Cf-63
-健康养生 8M,http://cfss.cc/ds/bst.php?id=Cf-64
-百变课堂 8M,http://cfss.cc/ds/bst.php?id=Cf-65
-华语影院 8M,http://cfss.cc/ds/bst.php?id=Cf-66
-电竞天堂 8M,http://cfss.cc/ds/bst.php?id=Cf-67
-青春动漫 8M,http://cfss.cc/ds/bst.php?id=Cf-68
-宝宝动画 8M,http://cfss.cc/ds/bst.php?id=Cf-69
-星光影院 8M,http://cfss.cc/ds/bst.php?id=Cf-70
-谍战剧场 8M,http://cfss.cc/ds/bst.php?id=Cf-71
-全球大片 8M,http://cfss.cc/ds/bst.php?id=Cf-72
-热门剧场 8M,http://cfss.cc/ds/bst.php?id=Cf-73
-陶瓷高清 8M,http://cfss.cc/ds/bst.php?id=Cf-74
-中国教育-1 8M,http://cfss.cc/ds/bst.php?id=Cf-75
-中国教育-4 8M,http://cfss.cc/ds/bst.php?id=Cf-76
-卡酷少儿 8M,http://cfss.cc/ds/bst.php?id=Cf-77
-纪实科教 8M,http://cfss.cc/ds/bst.php?id=Cf-78
-茶频道 8M,http://cfss.cc/ds/bst.php?id=Cf-79
-足球高清 8M,http://cfss.cc/ds/bst.php?id=Cf-80
-炫动卡通 8M,http://cfss.cc/ds/bst.php?id=Cf-81
-东方财经 8M,http://cfss.cc/ds/bst.php?id=Cf-82
-都市剧场 8M,http://cfss.cc/ds/bst.php?id=Cf-83
-动漫秀场 8M,http://cfss.cc/ds/bst.php?id=Cf-84
-法治天地 8M,http://cfss.cc/ds/bst.php?id=Cf-85
-魅力足球 8M,http://cfss.cc/ds/bst.php?id=Cf-86
-上海第一财经 8M,http://cfss.cc/ds/bst.php?id=Cf-87
-看天下精选 8M,http://cfss.cc/ds/bst.php?id=Cf-88
+生活时尚,http://baidu.live.cqccn.com/__cl/cg:live/__c/shenghuo/__op/default/__f//index.m3u8
+百姓健康,http://baidu.live.cqccn.com/__cl/cg:live/__c/jiankangSD/__op/default/__f//index.m3u8
+每日影院,http://baidu.live.cqccn.com/__cl/cg:live/__c/mryyHD/__op/default/__f//index.m3u8
+幸福剧场,http://baidu.live.cqccn.com/__cl/cg:live/__c/xfjcHD/__op/default/__f//index.m3u8
+快乐垂钓,http://baidu.live.cqccn.com/__cl/cg:live/__c/klcdHD/__op/default/__f//index.m3u8
+第一剧场,http://baidu.live.cqccn.com/__cl/cg:live/__c/diyijuchangHD/__op/default/__f//index.m3u8
+都市剧场,http://baidu.live.cqccn.com/__cl/cg:live/__c/dsjcHD/__op/default/__f//index.m3u8
+动漫秀场,http://baidu.live.cqccn.com/__cl/cg:live/__c/dmxcHD/__op/default/__f//index.m3u8
+魅力足球,http://baidu.live.cqccn.com/__cl/cg:live/__c/mlzqHD/__op/default/__f//index.m3u8
+风云剧场,http://baidu.live.cqccn.com/__cl/cg:live/__c/fyjcHD/__op/default/__f//index.m3u8
+求索纪录,http://baidu.live.cqccn.com/__cl/cg:live/__c/qsjlHD/__op/default/__f//index.m3u8
+兵器科技,http://baidu.live.cqccn.com/__cl/cg:live/__c/bqkjHD/__op/default/__f//index.m3u8
+游戏风云,http://baidu.live.cqccn.com/__cl/cg:live/__c/yxfyHD/__op/default/__f//index.m3u8
+幸福娱乐,http://baidu.live.cqccn.com/__cl/cg:live/__c/xfylHD/__op/default/__f//index.m3u8
+风尚生活,http://baidu.live.cqccn.com/__cl/cg:live/__c/fsshHD/__op/default/__f//index.m3u8
+怀旧剧场,http://baidu.live.cqccn.com/__cl/cg:live/__c/hjjcHD/__op/default/__f//index.m3u8
+风云音乐,http://baidu.live.cqccn.com/__cl/cg:live/__c/fyyyHD/__op/default/__f//index.m3u8
+央视台球,http://baidu.live.cqccn.com/__cl/cg:live/__c/ystqHD/__op/default/__f//index.m3u8
+风云足球,http://baidu.live.cqccn.com/__cl/cg:live/__c/fyzqHD/__op/default/__f//index.m3u8
+央视文化精品,http://baidu.live.cqccn.com/__cl/cg:live/__c/yswhHD/__op/default/__f//index.m3u8
+高尔夫网球,http://baidu.live.cqccn.com/__cl/cg:live/__c/golfHD/__op/default/__f//index.m3u8
+早期教育,http://baidu.live.cqccn.com/__cl/cg:live/__c/zaojiaoHD/__op/default/__f//index.m3u8
+CHC高清电影,http://baidu.live.cqccn.com/__cl/cg:live/__c/chcgqdyHD/__op/default/__f//index.m3u8
+CHC家庭影院,http://baidu.live.cqccn.com/__cl/cg:live/__c/chcjtyyHD/__op/default/__f//index.m3u8
+CHC动作电影,http://baidu.live.cqccn.com/__cl/cg:live/__c/chcdzdyHD/__op/default/__f//index.m3u8
+
+欢笑剧场,https://live.v1.mk/api/bestv.php?id=hxjc8m/8000000
+劲爆体育,https://live.v1.mk/api/bestv.php?id=jbtyhd8m/8000000
+快乐垂钓,https://live.v1.mk/api/bestv.php?id=klcd8m/8000000
+金鹰纪实,https://live.v1.mk/api/bestv.php?id=jyjs8m/8000000
+戏曲精选,https://live.v1.mk/api/bestv.php?id=xqjx8m/8000000
+上海第一财经,https://live.v1.mk/api/bestv.php?id=dycjhd8m/8000000
+上视新闻,https://live.v1.mk/api/bestv.php?id=xwzhhd8m/8000000
+上海都市,https://live.v1.mk/api/bestv.php?id=dshd8m/8000000
+上海纪实,https://live.v1.mk/api/bestv.php?id=jspdhd/4000000
+东方影视,https://live.v1.mk/api/bestv.php?id=dfyshd8m/8000000
+五星体育,https://live.v1.mk/api/bestv.php?id=wxtyhd8m/8000000
+上视外语,https://live.v1.mk/api/bestv.php?id=icshd8m/8000000
+七彩戏剧,https://live.v1.mk/api/bestv.php?id=qcxjhd8m/8000000
+上海教育,https://live.v1.mk/api/bestv.php?id=setvhd/8000000
+全纪实,https://live.v1.mk/api/bestv.php?id=qjshd8m/8000000
+生活时尚,https://live.v1.mk/api/bestv.php?id=shss8m/8000000
+新视觉,https://live.v1.mk/api/bestv.php?id=xsjhd8m/8000000
+游戏风云,https://live.v1.mk/api/bestv.php?id=yxfy8m/8000000
+热门综艺,https://live.v1.mk/api/bestv.php?id=rmzy8m/8000000
+超级体育,https://live.v1.mk/api/bestv.php?id=qcsj8m/8000000
+健康养生,https://live.v1.mk/api/bestv.php?id=jkys8m/8000000
+百变课堂,https://live.v1.mk/api/bestv.php?id=bbkt8m/8000000
+看天下精选,https://live.v1.mk/api/bestv.php?id=ktxjx8m/8000000
+华语影院,https://live.v1.mk/api/bestv.php?id=hyyy8m/8000000
+电竞天堂,https://live.v1.mk/api/bestv.php?id=djtt8m/8000000
+青春动漫,https://live.v1.mk/api/bestv.php?id=qcdm8m/8000000
+宝宝动画,https://live.v1.mk/api/bestv.php?id=bbdh8m/8000000
+星光影院,https://live.v1.mk/api/bestv.php?id=xgyy8m/8000000
+谍战剧场,https://live.v1.mk/api/bestv.php?id=dzjc8m/8000000
+全球大片,https://live.v1.mk/api/bestv.php?id=qqdp8m/8000000
+热门剧场,https://live.v1.mk/api/bestv.php?id=rmjc8m/8000000
+陶瓷高,https://live.v1.mk/api/bestv.php?id=taocihd/8000000
+中国教育-1,https://live.v1.mk/api/bestv.php?id=zgjy1t8m/8000000
+中国教育-4,https://live.v1.mk/api/bestv.php?id=zgjy4hd8m/8000000
+卡酷少儿,https://live.v1.mk/api/bestv.php?id=kkse8m/8000000
+纪实科教,https://live.v1.mk/api/bestv.php?id=dajs8m/8000000
+茶频道,https://live.v1.mk/api/bestv.php?id=cpdhdavs8m/8000000
+足球高清,https://live.v1.mk/api/bestv.php?id=zqpd8m/8000000
+炫动卡通,https://live.v1.mk/api/bestv.php?id=hhxd8m/8000000
+东方财经,https://live.v1.mk/api/bestv.php?id=dfcjhd8m/8000000
+都市剧场,https://live.v1.mk/api/bestv.php?id=dsjc8m/8000000
+动漫秀场,https://live.v1.mk/api/bestv.php?id=dmxc8m/8000000
+法治天地,https://live.v1.mk/api/bestv.php?id=fztd8m/8000000
+金色学堂,https://live.v1.mk/api/bestv.php?id=jingsepd8m/8000000
+魅力足球,https://live.v1.mk/api/bestv.php?id=mlyyhd8m/8000000
+
+
+
 
 
 
