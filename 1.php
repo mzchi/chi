@@ -239,6 +239,50 @@ CHC家庭影院,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240323_1/pl
 
 百事通 TV,#genre#
 
+欢笑剧场4k,http://cfss.cc/ds/bst.php?id=Cf-45
+欢笑剧场 8M,http://cfss.cc/ds/bst.php?id=Cf-46
+快乐垂钓 8M,http://cfss.cc/ds/bst.php?id=Cf-47
+金鹰纪实 8M,http://cfss.cc/ds/bst.php?id=Cf-48
+戏曲精选 8M,http://cfss.cc/ds/bst.php?id=Cf-49
+上视新闻 8M,http://cfss.cc/ds/bst.php?id=Cf-50
+上海都市 8M,http://cfss.cc/ds/bst.php?id=Cf-51
+上海纪实 8M,http://cfss.cc/ds/bst.php?id=Cf-52
+东方影视 8M,http://cfss.cc/ds/bst.php?id=Cf-53
+五星体育 8M,http://cfss.cc/ds/bst.php?id=Cf-54
+上视外语 8M,http://cfss.cc/ds/bst.php?id=Cf-55
+七彩戏剧 8M,http://cfss.cc/ds/bst.php?id=Cf-56
+上海教育 8M,http://cfss.cc/ds/bst.php?id=Cf-57
+全纪实 8M,http://cfss.cc/ds/bst.php?id=Cf-58
+生活时尚 8M,http://cfss.cc/ds/bst.php?id=Cf-59
+新视觉 8M,http://cfss.cc/ds/bst.php?id=Cf-60
+游戏风云 8M,http://cfss.cc/ds/bst.php?id=Cf-61
+热门综艺 8M,http://cfss.cc/ds/bst.php?id=Cf-62
+超级体育 8M,http://cfss.cc/ds/bst.php?id=Cf-63
+健康养生 8M,http://cfss.cc/ds/bst.php?id=Cf-64
+百变课堂 8M,http://cfss.cc/ds/bst.php?id=Cf-65
+华语影院 8M,http://cfss.cc/ds/bst.php?id=Cf-66
+电竞天堂 8M,http://cfss.cc/ds/bst.php?id=Cf-67
+青春动漫 8M,http://cfss.cc/ds/bst.php?id=Cf-68
+宝宝动画 8M,http://cfss.cc/ds/bst.php?id=Cf-69
+星光影院 8M,http://cfss.cc/ds/bst.php?id=Cf-70
+谍战剧场 8M,http://cfss.cc/ds/bst.php?id=Cf-71
+全球大片 8M,http://cfss.cc/ds/bst.php?id=Cf-72
+热门剧场 8M,http://cfss.cc/ds/bst.php?id=Cf-73
+陶瓷高清 8M,http://cfss.cc/ds/bst.php?id=Cf-74
+中国教育-1 8M,http://cfss.cc/ds/bst.php?id=Cf-75
+中国教育-4 8M,http://cfss.cc/ds/bst.php?id=Cf-76
+卡酷少儿 8M,http://cfss.cc/ds/bst.php?id=Cf-77
+纪实科教 8M,http://cfss.cc/ds/bst.php?id=Cf-78
+茶频道 8M,http://cfss.cc/ds/bst.php?id=Cf-79
+足球高清 8M,http://cfss.cc/ds/bst.php?id=Cf-80
+炫动卡通 8M,http://cfss.cc/ds/bst.php?id=Cf-81
+东方财经 8M,http://cfss.cc/ds/bst.php?id=Cf-82
+都市剧场 8M,http://cfss.cc/ds/bst.php?id=Cf-83
+动漫秀场 8M,http://cfss.cc/ds/bst.php?id=Cf-84
+法治天地 8M,http://cfss.cc/ds/bst.php?id=Cf-85
+魅力足球 8M,http://cfss.cc/ds/bst.php?id=Cf-86
+
+
 欢笑剧场,https://live.v1.mk/api/bestv.php?id=hxjc8m/8000000
 劲爆体育,https://live.v1.mk/api/bestv.php?id=jbtyhd8m/8000000
 快乐垂钓,https://live.v1.mk/api/bestv.php?id=klcd8m/8000000
@@ -284,6 +328,8 @@ CHC家庭影院,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240323_1/pl
 法治天地,https://live.v1.mk/api/bestv.php?id=fztd8m/8000000
 金色学堂,https://live.v1.mk/api/bestv.php?id=jingsepd8m/8000000
 魅力足球,https://live.v1.mk/api/bestv.php?id=mlyyhd8m/8000000
+
+
 
 
 
