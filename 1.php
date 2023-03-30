@@ -38,13 +38,13 @@ CCTV-17高清,http://14.118.157.207:10000/rtp/239.77.1.121:5146
 广东卫视高清,http://14.118.157.207:10000/rtp/239.77.1.152:5146
 广东卫视超清,http://14.118.157.207:10000/rtp/239.77.0.166:5146
 广东体育高清,http://14.118.157.207:10000/rtp/239.77.0.112:5146
-广东体育HD,http://chuangye168.gnway.org:56994/g8dyou.php?id=1413
+广东体育HD,http://live.cooltv.top/tv/good.php?id=1413
 梅州1高清-A,http://p2.vzan.com/slowlive/403126774572750089/live.m3u8#http://xjayrf.eatuo.com:9901/tsfile/live/1002_1.m3u8
 梅州1高清-B,http://fyld.eatuo.com:9901/tsfile/live/1002_1.m3u8
 梅州2高清-A,http://p2.vzan.com/slowlive/645350022315428297/live.m3u8#http://xjayrf.eatuo.com:9901/tsfile/live/1003_1.m3u8
 梅州2高清-B,http://fyld.eatuo.com:9901/tsfile/live/1003_1.m3u8
-梅州1高清,http://chuangye168.gnway.org:56994/g8dyou.php?id=meizhou1HD_4500
-梅州2高清,http://chuangye168.gnway.org:56994/g8dyou.php?id=meizhou2HD_4500
+梅州1高清,http://live.cooltv.top/tv/good.php?id=meizhou1HD_4500
+梅州2高清,http://live.cooltv.top/tv/good.php?id=meizhou2HD_4500
 广东珠江高清,http://14.118.157.207:10000/rtp/239.77.0.1:5146
 广东珠江超清,http://14.118.157.207:10000/rtp/239.77.0.114:5146
 广东新闻高清,http://14.118.157.207:10000/rtp/239.77.0.173:5146
@@ -80,6 +80,43 @@ CHC高清电影,http://14.118.157.207:10000/rtp/239.77.0.27:5146
 IPTV相声小品,http://14.118.157.207:10000/rtp/239.77.0.100:5146
 经典电影,http://14.118.157.207:10000/rtp/239.77.0.104:5146
 
+
+
+
+
+
+
+
+
+
+
+电信代理-2,#genre#
+CCTV-1HD,http://live.cooltv.top/tv/good.php?id=CCTV1HD_7000
+CCTV-2HD,http://live.cooltv.top/tv/good.php?id=CCTV2HD_7000
+CCTV-3HD,http://live.cooltv.top/tv/good.php?id=1603
+CCTV-4HD,http://live.cooltv.top/tv/good.php?id=1604
+CCTV-5HD,http://live.cooltv.top/tv/good.php?id=1605
+CCTV-5+HD,http://live.cooltv.top/tv/good.php?id=1403
+CCTV-6HD,http://live.cooltv.top/tv/good.php?id=1606
+CCTV-7HD,http://live.cooltv.top/tv/good.php?id=1607
+CCTV-8HD,http://live.cooltv.top/tv/good.php?id=1608
+CCTV-9HD,http://live.cooltv.top/tv/good.php?id=CCTV9HD_7000
+CCTV-10HD,http://live.cooltv.top/tv/good.php?id=1610
+CCTV-11HD,http://live.cooltv.top/tv/good.php?id=CCTV-11HD_7500
+CCTV-12HD,http://live.cooltv.top/tv/good.php?id=CCTV12HD_7000
+CCTV-13HD,http://live.cooltv.top/tv/good.php?id=1613
+CCTV-14HD,http://live.cooltv.top/tv/good.php?id=CCTV14HD_7000
+CCTV-15HD,http://live.cooltv.top/tv/good.php?id=CCTV-15HD_7500
+CCTV-16HD,http://live.cooltv.top/tv/good.php?id=1617_4500
+CCTV-17HD,http://live.cooltv.top/tv/good.php?id=CCTV17HD
+
+广东卫视HD,http://live.cooltv.top/tv/good.php?id=1401
+广东体育HD,http://live.cooltv.top/tv/good.php?id=1413
+梅州1高清,http://live.cooltv.top/tv/good.php?id=meizhou1HD_4500
+梅州2高清,http://live.cooltv.top/tv/good.php?id=meizhou2HD_4500
+广东新闻,http://live.cooltv.top/tv/good.php?id=1455
+广东民生,http://live.cooltv.top/tv/good.php?id=gdpublic_1500
+大湾区卫视,http://live.cooltv.top/tv/good.php?id=1456
 
 
 
