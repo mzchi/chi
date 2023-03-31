@@ -91,32 +91,33 @@ IPTV相声小品,http://14.118.157.207:10000/rtp/239.77.0.100:5146
 
 
 电信代理-2,#genre#
-CCTV-1HD,http://live.cooltv.top/tv/good.php?id=CCTV1HD_7000
-CCTV-2HD,http://live.cooltv.top/tv/good.php?id=CCTV2HD_7000
-CCTV-3HD,http://live.cooltv.top/tv/good.php?id=1603
-CCTV-4HD,http://live.cooltv.top/tv/good.php?id=1604
-CCTV-5HD,http://live.cooltv.top/tv/good.php?id=1605
-CCTV-5+HD,http://live.cooltv.top/tv/good.php?id=1403
-CCTV-6HD,http://live.cooltv.top/tv/good.php?id=1606
-CCTV-7HD,http://live.cooltv.top/tv/good.php?id=1607
-CCTV-8HD,http://live.cooltv.top/tv/good.php?id=1608
-CCTV-9HD,http://live.cooltv.top/tv/good.php?id=CCTV9HD_7000
-CCTV-10HD,http://live.cooltv.top/tv/good.php?id=1610
-CCTV-11HD,http://live.cooltv.top/tv/good.php?id=CCTV-11HD_7500
-CCTV-12HD,http://live.cooltv.top/tv/good.php?id=CCTV12HD_7000
-CCTV-13HD,http://live.cooltv.top/tv/good.php?id=1613
-CCTV-14HD,http://live.cooltv.top/tv/good.php?id=CCTV14HD_7000
-CCTV-15HD,http://live.cooltv.top/tv/good.php?id=CCTV-15HD_7500
-CCTV-16HD,http://live.cooltv.top/tv/good.php?id=1617_4500
-CCTV-17HD,http://live.cooltv.top/tv/good.php?id=CCTV17HD
+CCTV-1HD,http://chihomai.top:5678/gudou.php?phone=18664735406&ptoken=0OgMrvQ1pCDopjeG91Ve4A%3D%3D&pserialnumber=6f9b30ce4249b041&cid=364&id=CCTV1HD_7000
+CCTV-2HD,http://chihomai.top:5678/gudou.php?phone=18664735406&ptoken=0OgMrvQ1pCDopjeG91Ve4A%3D%3D&pserialnumber=6f9b30ce4249b041&cid=364&id=CCTV2HD_7000
+CCTV-3HD,http://chihomai.top:5678/gudou.php?phone=18664735406&ptoken=0OgMrvQ1pCDopjeG91Ve4A%3D%3D&pserialnumber=6f9b30ce4249b041&cid=364&id=1603
+CCTV-4HD,http://chihomai.top:5678/gudou.php?phone=18664735406&ptoken=0OgMrvQ1pCDopjeG91Ve4A%3D%3D&pserialnumber=6f9b30ce4249b041&cid=364&id=1604
+CCTV-5HD,http://chihomai.top:5678/gudou.php?phone=18664735406&ptoken=0OgMrvQ1pCDopjeG91Ve4A%3D%3D&pserialnumber=6f9b30ce4249b041&cid=364&id=1605
+CCTV-5+HD,http://chihomai.top:5678/gudou.php?phone=18664735406&ptoken=0OgMrvQ1pCDopjeG91Ve4A%3D%3D&pserialnumber=6f9b30ce4249b041&cid=364&id=1403
+CCTV-6HD,http://chihomai.top:5678/gudou.php?phone=18664735406&ptoken=0OgMrvQ1pCDopjeG91Ve4A%3D%3D&pserialnumber=6f9b30ce4249b041&cid=364&id=1606
+CCTV-7HD,http://chihomai.top:5678/gudou.php?phone=18664735406&ptoken=0OgMrvQ1pCDopjeG91Ve4A%3D%3D&pserialnumber=6f9b30ce4249b041&cid=364&id=1607
+CCTV-8HD,http://chihomai.top:5678/gudou.php?phone=18664735406&ptoken=0OgMrvQ1pCDopjeG91Ve4A%3D%3D&pserialnumber=6f9b30ce4249b041&cid=364&id=1608
+CCTV-9HD,http://chihomai.top:5678/gudou.php?phone=18664735406&ptoken=0OgMrvQ1pCDopjeG91Ve4A%3D%3D&pserialnumber=6f9b30ce4249b041&cid=364&id=CCTV9HD_7000
+CCTV-10HD,http://chihomai.top:5678/gudou.php?phone=18664735406&ptoken=0OgMrvQ1pCDopjeG91Ve4A%3D%3D&pserialnumber=6f9b30ce4249b041&cid=364&id=1610
+CCTV-11HD,http://chihomai.top:5678/gudou.php?phone=18664735406&ptoken=0OgMrvQ1pCDopjeG91Ve4A%3D%3D&pserialnumber=6f9b30ce4249b041&cid=364&id=CCTV-11HD_7500
+CCTV-12HD,http://chihomai.top:5678/gudou.php?phone=18664735406&ptoken=0OgMrvQ1pCDopjeG91Ve4A%3D%3D&pserialnumber=6f9b30ce4249b041&cid=364&id=CCTV12HD_7000
+CCTV-13HD,http://chihomai.top:5678/gudou.php?phone=18664735406&ptoken=0OgMrvQ1pCDopjeG91Ve4A%3D%3D&pserialnumber=6f9b30ce4249b041&cid=364&id=1613
+CCTV-14HD,http://chihomai.top:5678/gudou.php?phone=18664735406&ptoken=0OgMrvQ1pCDopjeG91Ve4A%3D%3D&pserialnumber=6f9b30ce4249b041&cid=364&id=CCTV14HD_7000
+CCTV-15HD,http://chihomai.top:5678/gudou.php?phone=18664735406&ptoken=0OgMrvQ1pCDopjeG91Ve4A%3D%3D&pserialnumber=6f9b30ce4249b041&cid=364&id=CCTV-15HD_7500
+CCTV-16HD,http://chihomai.top:5678/gudou.php?phone=18664735406&ptoken=0OgMrvQ1pCDopjeG91Ve4A%3D%3D&pserialnumber=6f9b30ce4249b041&cid=364&id=1617_4500
+CCTV-17HD,http://chihomai.top:5678/gudou.php?phone=18664735406&ptoken=0OgMrvQ1pCDopjeG91Ve4A%3D%3D&pserialnumber=6f9b30ce4249b041&cid=364&id=CCTV17HD
 
-广东卫视HD,http://live.cooltv.top/tv/good.php?id=1401
-广东体育HD,http://live.cooltv.top/tv/good.php?id=1413
-梅州1高清,http://live.cooltv.top/tv/good.php?id=meizhou1HD_4500
-梅州2高清,http://live.cooltv.top/tv/good.php?id=meizhou2HD_4500
-广东新闻,http://live.cooltv.top/tv/good.php?id=1455
-广东民生,http://live.cooltv.top/tv/good.php?id=gdpublic_1500
-大湾区卫视,http://live.cooltv.top/tv/good.php?id=1456
+广东卫视HD,http://chihomai.top:5678/gudou.php?phone=18664735406&ptoken=0OgMrvQ1pCDopjeG91Ve4A%3D%3D&pserialnumber=6f9b30ce4249b041&cid=364&id=1401
+广东体育HD,http://chihomai.top:5678/gudou.php?phone=18664735406&ptoken=0OgMrvQ1pCDopjeG91Ve4A%3D%3D&pserialnumber=6f9b30ce4249b041&cid=364&id=1413
+梅州1高清,http://chihomai.top:5678/gudou.php?phone=18664735406&ptoken=0OgMrvQ1pCDopjeG91Ve4A%3D%3D&pserialnumber=6f9b30ce4249b041&cid=364&id=meizhou1HD_4500
+梅州2高清,http://chihomai.top:5678/gudou.php?phone=18664735406&ptoken=0OgMrvQ1pCDopjeG91Ve4A%3D%3D&pserialnumber=6f9b30ce4249b041&cid=364&id=meizhou2HD_4500
+广东新闻,http://chihomai.top:5678/gudou.php?phone=18664735406&ptoken=0OgMrvQ1pCDopjeG91Ve4A%3D%3D&pserialnumber=6f9b30ce4249b041&cid=364&id=1455
+广东民生,http://chihomai.top:5678/gudou.php?phone=18664735406&ptoken=0OgMrvQ1pCDopjeG91Ve4A%3D%3D&pserialnumber=6f9b30ce4249b041&cid=364&id=gdpublic_1500
+大湾区卫视,http://chihomai.top:5678/gudou.php?phone=18664735406&ptoken=0OgMrvQ1pCDopjeG91Ve4A%3D%3D&pserialnumber=6f9b30ce4249b041&cid=364&id=1456
+
 
 
 
