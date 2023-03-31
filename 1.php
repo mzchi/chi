@@ -119,7 +119,6 @@ CCTV-17HD,http://chihomai.top:5678/gudou.php?phone=18664735406&ptoken=0OgMrvQ1pC
 大湾区卫视,http://chihomai.top:5678/gudou.php?phone=18664735406&ptoken=0OgMrvQ1pCDopjeG91Ve4A%3D%3D&pserialnumber=6f9b30ce4249b041&cid=364&id=1456
 凤凰中文,http://chihomai.top:5678/gudou.php?phone=18664735406&ptoken=0OgMrvQ1pCDopjeG91Ve4A%3D%3D&pserialnumber=6f9b30ce4249b041&cid=364&id=fhzw_1500
 劲爆体育HD,http://chihomai.top:5678/gudou.php?phone=18664735406&ptoken=0OgMrvQ1pCDopjeG91Ve4A%3D%3D&pserialnumber=6f9b30ce4249b041&cid=364&id=jinbaotiyuHD_7000
-欢笑剧场HD,http://chihomai.top:5678/gudou.php?phone=18664735406&ptoken=0OgMrvQ1pCDopjeG91Ve4A%3D%3D&pserialnumber=6f9b30ce4249b041&cid=364&id=huanxiaojuchangHD_7000
 魅力足球HD,http://chihomai.top:5678/gudou.php?phone=18664735406&ptoken=0OgMrvQ1pCDopjeG91Ve4A%3D%3D&pserialnumber=6f9b30ce4249b041&cid=364&id=meiliyinyueHD_7000
 嘉佳卡通,http://chihomai.top:5678/gudou.php?phone=18664735406&ptoken=0OgMrvQ1pCDopjeG91Ve4A%3D%3D&pserialnumber=6f9b30ce4249b041&cid=364&id=1459
 广东少儿,http://chihomai.top:5678/gudou.php?phone=18664735406&ptoken=0OgMrvQ1pCDopjeG91Ve4A%3D%3D&pserialnumber=6f9b30ce4249b041&cid=364&id=1457
