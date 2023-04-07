@@ -56,12 +56,12 @@ CCTV-14高清,http://59.36.182.134:9999/newlive/live/hls/110/live.m3u8
 CCTV-15高清,http://59.36.182.134:9999/newlive/live/hls/111/live.m3u8
 CCTV-16高清,http://59.36.182.134:9999/newlive/live/hls/120/live.m3u8
 CCTV-17高清,http://59.36.182.134:9999/newlive/live/hls/113/live.m3u8
-CCTV-世界地理,http://59.36.182.134:9999/newlive/live/hls/199/live.m3u8
+世界地理高清,http://59.36.182.134:9999/newlive/live/hls/199/live.m3u8
 央视文化精品,http://59.36.182.134:9999/newlive/live/hls/202/live.m3u8
-CCTV-风云剧场,http://59.36.182.134:9999/newlive/live/hls/201/live.m3u8
-CCTV-怀旧剧场,http://59.36.182.134:9999/newlive/live/hls/200/live.m3u8
-CCTV-第一剧场,http://59.36.182.134:9999/newlive/live/hls/203/live.m3u8
-CCTV-风云音乐,http://59.36.182.134:9999/newlive/live/hls/204/live.m3u8
+风云剧场高清,http://59.36.182.134:9999/newlive/live/hls/201/live.m3u8
+怀旧剧场高清,http://59.36.182.134:9999/newlive/live/hls/200/live.m3u8
+第一剧场高清,http://59.36.182.134:9999/newlive/live/hls/203/live.m3u8
+风云音乐高清,http://59.36.182.134:9999/newlive/live/hls/204/live.m3u8
 广东卫视高清,http://59.36.182.134:9999/newlive/live/hls/87/live.m3u8
 广东体育高清,http://59.36.182.134:9999/newlive/live/hls/89/live.m3u8
 
