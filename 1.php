@@ -222,6 +222,22 @@ CHC高清电影,http://chihomai.top:5678/gudou.php?phone=18664735406&ptoken=0OgM
 
 
 
+电信代理-3,#genre#
+CCTV-1高清,http://nsszds.f3322.net:8081/hls/138/index.m3u8
+CCTV-5高清,http://nsszds.f3322.net:8081/hls/5/index.m3u8
+CCTV5+高清,http://nsszds.f3322.net:8081/hls/16/index.m3u8
+CCTV-13高清,http://nsszds.f3322.net:8081/hls/13/index.m3u8
+广东卫视高清,http://nsszds.f3322.net:8081/hls/40/index.m3u8
+广东体育高清,http://nsszds.f3322.net:8081/hls/1/index.m3u8
+魅力足球高清,http://nsszds.f3322.net:8081/hls/65/index.m3u8
+梅州1 高清,http://p2.vzan.com/slowlive/403126774572750089/live.m3u8#http://xjayrf.eatuo.com:9901/tsfile/live/1002_1.m3u8
+梅州2 高清,http://p2.vzan.com/slowlive/645350022315428297/live.m3u8#http://xjayrf.eatuo.com:9901/tsfile/live/1003_1.m3u8
+凤凰资讯高清,http://nsszds.f3322.net:8081/hls/36/index.m3u8
+凤凰卫视高清,http://nsszds.f3322.net:8081/hls/37/index.m3u8
+凤凰香港高清,http://nsszds.f3322.net:8081/hls/38/index.m3u8
+
+
+
 
 
 
