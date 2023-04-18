@@ -71,9 +71,10 @@ CCTV-17高清,http://yzfvip.top:8000/rtp/239.77.1.121:5146
 梅州1高清-B,http://chihomai.top:5678/gudou.php?phone=18664735406&ptoken=0OgMrvQ1pCDopjeG91Ve4A%3D%3D&pserialnumber=6f9b30ce4249b041&cid=364&id=meizhou1HD_4500
 梅州2高清-A,http://p2.vzan.com/slowlive/645350022315428297/live.m3u8#http://xjayrf.eatuo.com:9901/tsfile/live/1003_1.m3u8
 梅州2高清-B,http://chihomai.top:5678/gudou.php?phone=18664735406&ptoken=0OgMrvQ1pCDopjeG91Ve4A%3D%3D&pserialnumber=6f9b30ce4249b041&cid=364&id=meizhou2HD_4500
-梅州1高清,http://chuangye168.gnway.org:56994/g8dyou.php?id=meizhou1HD_4500
-梅州2高清,http://chuangye168.gnway.org:56994/g8dyou.php?id=meizhou2HD_4500
-
+梅州1高清,http://101.42.12.242:5678/gudou.php?phone=19801117551&ptoken=szcIH9NmmTome696m91jaA%3D%3D&pserialnumber=994595a073cc48e6&cid=364&id=meizhou1HD_4500
+梅州2高清,http://101.42.12.242:5678/gudou.php?phone=19801117551&ptoken=szcIH9NmmTome696m91jaA%3D%3D&pserialnumber=994595a073cc48e6&cid=364&id=meizhou2HD_4500
+梅州1高清,http://chihomai.top:5678/gudou.php?phone=18664735406&ptoken=0OgMrvQ1pCDopjeG91Ve4A%3D%3D&pserialnumber=6f9b30ce4249b041&cid=364&id=meizhou1HD_4500
+梅州2高清,http://chihomai.top:5678/gudou.php?phone=18664735406&ptoken=0OgMrvQ1pCDopjeG91Ve4A%3D%3D&pserialnumber=6f9b30ce4249b041&cid=364&id=meizhou2HD_4500
 
 
 
