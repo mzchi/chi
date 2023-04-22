@@ -30,7 +30,6 @@ CCTV-17高清,http://59.36.182.134:9999/newlive/live/hls/113/live.m3u8
 
 CCTV-1高清,http://yzfvip.top:8000/rtp/239.77.1.17:5146
 CCTV-1高清,http://yzfvip.top:8000/rtp/239.77.1.144:5146
-CCTV-1超清,http://yzfvip.top:8000/rtp/239.77.0.129:5146
 CCTV-2高清,http://yzfvip.top:8000/rtp/239.77.1.158:5146
 CCTV-2高清,http://yzfvip.top:8000/rtp/239.253.43.17:5146
 CCTV-3高清,http://yzfvip.top:8000/rtp/239.77.0.169:5146
