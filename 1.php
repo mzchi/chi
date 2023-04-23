@@ -203,19 +203,83 @@ CHC高清电影,http://chihomai.top:5678/gudou.php?phone=18664735406&ptoken=0OgM
 
 
 电信代理-3,#genre#
-CCTV-1高清,http://nsszds.f3322.net:8081/hls/138/index.m3u8
-CCTV-5高清,http://nsszds.f3322.net:8081/hls/5/index.m3u8
-CCTV5+高清,http://nsszds.f3322.net:8081/hls/16/index.m3u8
-CCTV-13高清,http://nsszds.f3322.net:8081/hls/13/index.m3u8
-广东卫视高清,http://nsszds.f3322.net:8081/hls/40/index.m3u8
-广东体育高清,http://nsszds.f3322.net:8081/hls/1/index.m3u8
-魅力足球高清,http://nsszds.f3322.net:8081/hls/65/index.m3u8
-梅州1 高清,http://p2.vzan.com/slowlive/403126774572750089/live.m3u8#http://xjayrf.eatuo.com:9901/tsfile/live/1002_1.m3u8
-梅州2 高清,http://p2.vzan.com/slowlive/645350022315428297/live.m3u8#http://xjayrf.eatuo.com:9901/tsfile/live/1003_1.m3u8
-凤凰资讯高清,http://nsszds.f3322.net:8081/hls/36/index.m3u8
-凤凰卫视高清,http://nsszds.f3322.net:8081/hls/37/index.m3u8
-凤凰香港高清,http://nsszds.f3322.net:8081/hls/38/index.m3u8
+CCTV-1高清,http://www.kitcc.cn:8888/udp/239.77.1.17:5146
+CCTV-1高清,http://www.kitcc.cn:8888/udp/239.77.1.144:5146
+CCTV-1超清,http://www.kitcc.cn:8888/udp/239.77.0.129:5146
+CCTV-2高清,http://www.kitcc.cn:8888/udp/239.77.1.158:5146
+CCTV-2高清,http://www.kitcc.cn:8888/udp/239.253.43.17:5146
+CCTV-3高清,http://www.kitcc.cn:8888/udp/239.77.0.169:5146
+CCTV-4高清,http://www.kitcc.cn:8888/udp/239.77.1.163:5146
+CCTV-4高清,http://www.kitcc.cn:8888/udp/239.77.1.166:5146
+CCTV-4高清,http://www.kitcc.cn:8888/udp/239.77.0.78:5146
+CCTV-5高清,http://www.kitcc.cn:8888/udp/239.77.0.170:5146
+CCTV-5+高清,http://www.kitcc.cn:8888/udp/239.77.0.87:5146
+CCTV-5+高清,http://www.kitcc.cn:8888/udp/239.77.1.31:5146
+CCTV-6高清,http://www.kitcc.cn:8888/udp/239.77.0.171:5146
+CCTV-7高清,http://www.kitcc.cn:8888/udp/239.77.1.159:5146
+CCTV-8高清,http://www.kitcc.cn:8888/udp/239.77.0.172:5146
+CCTV-9高清,http://www.kitcc.cn:8888/udp/239.77.1.160:5146
+CCTV-10高清,http://www.kitcc.cn:8888/udp/239.77.1.113:5146
+CCTV-11高清,http://www.kitcc.cn:8888/udp/239.77.1.238:5146
+CCTV-12高清,http://www.kitcc.cn:8888/udp/239.77.1.109:5146
+CCTV-13高清,http://www.kitcc.cn:8888/udp/239.77.0.188:5146
+CCTV-13高清,http://www.kitcc.cn:8888/udp/239.253.43.196:5146
+CCTV-14高清,http://www.kitcc.cn:8888/udp/239.77.1.161:5146
+CCTV-15高清,http://www.kitcc.cn:8888/udp/239.77.1.239:5146
+CCTV-16高清,http://www.kitcc.cn:8888/udp/239.77.1.76:5146
+CCTV-17高清,http://www.kitcc.cn:8888/udp/239.77.1.121:5146
+兵器科技高清,http://www.kitcc.cn:8888/udp/239.253.43.18:5146
+风云足球高清,http://www.kitcc.cn:8888/udp/239.253.43.20:5146
+世界地理高清,http://www.kitcc.cn:8888/udp/239.253.43.24:5146
+怀旧剧场高清,http://www.kitcc.cn:8888/udp/239.253.43.5:5146
+风云剧场高清,http://www.kitcc.cn:8888/udp/239.253.43.16:5146
+第一剧场高清,http://www.kitcc.cn:8888/udp/239.253.43.15:5146
+风云音乐高清,http://www.kitcc.cn:8888/udp/239.253.43.6:5146
+广东卫视高清,http://www.kitcc.cn:8888/udp/239.77.1.19:5146
+广东卫视高清,http://www.kitcc.cn:8888/udp/239.77.1.152:5146
+广东卫视超清,http://www.kitcc.cn:8888/udp/239.77.0.166:5146
+广东体育高清,http://www.kitcc.cn:8888/udp/239.77.0.112:5146
 
+广东体育HD,http://chihomai.top:5678/gudou.php?phone=18664735406&ptoken=0OgMrvQ1pCDopjeG91Ve4A%3D%3D&pserialnumber=6f9b30ce4249b041&cid=364&id=1413
+梅州1高清-A,http://p2.vzan.com/slowlive/403126774572750089/live.m3u8#http://xjayrf.eatuo.com:9901/tsfile/live/1002_1.m3u8
+梅州1高清-B,http://chihomai.top:5678/gudou.php?phone=18664735406&ptoken=0OgMrvQ1pCDopjeG91Ve4A%3D%3D&pserialnumber=6f9b30ce4249b041&cid=364&id=meizhou1HD_4500
+梅州2高清-A,http://p2.vzan.com/slowlive/645350022315428297/live.m3u8#http://xjayrf.eatuo.com:9901/tsfile/live/1003_1.m3u8
+梅州2高清-B,http://chihomai.top:5678/gudou.php?phone=18664735406&ptoken=0OgMrvQ1pCDopjeG91Ve4A%3D%3D&pserialnumber=6f9b30ce4249b041&cid=364&id=meizhou2HD_4500
+梅州1高清,http://101.42.12.242:5678/gudou.php?phone=19801117551&ptoken=szcIH9NmmTome696m91jaA%3D%3D&pserialnumber=994595a073cc48e6&cid=364&id=meizhou1HD_4500
+梅州2高清,http://101.42.12.242:5678/gudou.php?phone=19801117551&ptoken=szcIH9NmmTome696m91jaA%3D%3D&pserialnumber=994595a073cc48e6&cid=364&id=meizhou2HD_4500
+梅州1高清,http://chihomai.top:5678/gudou.php?phone=18664735406&ptoken=0OgMrvQ1pCDopjeG91Ve4A%3D%3D&pserialnumber=6f9b30ce4249b041&cid=364&id=meizhou1HD_4500
+梅州2高清,http://chihomai.top:5678/gudou.php?phone=18664735406&ptoken=0OgMrvQ1pCDopjeG91Ve4A%3D%3D&pserialnumber=6f9b30ce4249b041&cid=364&id=meizhou2HD_4500
+
+广东珠江高清,http://www.kitcc.cn:8888/udp/239.77.0.1:5146
+广东珠江超清,http://www.kitcc.cn:8888/udp/239.77.0.114:5146
+广东新闻高清,http://www.kitcc.cn:8888/udp/239.77.0.173:5146
+广东公共高清,http://www.kitcc.cn:8888/udp/239.77.0.225:5146
+经济科教高清,http://www.kitcc.cn:8888/udp/239.77.0.85:5146
+大湾区卫视高清,http://www.kitcc.cn:8888/udp/239.77.0.215:5146
+广东影视高清,http://www.kitcc.cn:8888/udp/239.77.0.217:5146
+广东少儿高清,http://www.kitcc.cn:8888/udp/239.77.0.250:5146
+嘉佳卡通高清,http://www.kitcc.cn:8888/udp/239.77.0.179:5146
+汕尾新闻综合高清,http://www.kitcc.cn:8888/udp/239.77.0.25:5146
+汕尾文化生活高清,http://www.kitcc.cn:8888/udp/239.77.0.187:5146
+湖南卫视高清,http://www.kitcc.cn:8888/udp/239.77.0.88:5146
+浙江卫视高清,http://www.kitcc.cn:8888/udp/239.77.1.33:5146
+江苏卫视高清,http://www.kitcc.cn:8888/udp/239.77.1.18:5146
+东方卫视高清,http://www.kitcc.cn:8888/udp/239.77.1.218:5146
+CHC高清电影,http://www.kitcc.cn:8888/udp/239.77.0.27:5146
+金鹰卡通高清,http://www.kitcc.cn:8888/udp/239.77.0.164:5146
+快乐垂钓高清,http://www.kitcc.cn:8888/udp/239.77.1.119:5146
+冬奥纪实高清,http://www.kitcc.cn:8888/udp/239.77.1.110:5146
+金鹰纪实高清,http://www.kitcc.cn:8888/udp/239.77.1.217:5146
+上海纪实高清,http://www.kitcc.cn:8888/udp/239.77.1.216:5146
+求索纪录高清,http://www.kitcc.cn:8888/udp/239.77.0.21:5146
+求索生活高清,http://www.kitcc.cn:8888/udp/239.77.0.153:5146
+中华美食高清,http://www.kitcc.cn:8888/udp/239.253.43.40:5146
+爱体育高清,http://www.kitcc.cn:8888/udp/239.77.1.116:5146
+梨园频道高清,http://www.kitcc.cn:8888/udp/239.77.1.100:5146
+每日影院高清,http://www.kitcc.cn:8888/udp/239.253.43.94:5146
+幸福剧场高清,http://www.kitcc.cn:8888/udp/239.253.43.96:5146
+IPTV相声小品,http://www.kitcc.cn:8888/udp/239.77.0.100:5146
+经典电影,http://www.kitcc.cn:8888/udp/239.77.0.104:5146
 
 
 
