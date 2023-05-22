@@ -171,53 +171,102 @@ CHC高清电影,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&p
 
 
 
-电信代理-3,#genre#
+移动代理,#genre#
 
-CCTV1 高清,http://jylt.jdshipin.com:808/hls/101/index.m3u8
-CCTV2 高清,http://jylt.jdshipin.com:808/hls/102/index.m3u8
-CCTV3 高清,http://jylt.jdshipin.com:808/hls/3/index.m3u8
-CCTV4 高清,http://jylt.jdshipin.com:808/hls/104/index.m3u8
-CCTV5 高清,http://jylt.jdshipin.com:808/hls/5/index.m3u8
-CCTV5+ 高清,http://jylt.jdshipin.com:808/hls/30/index.m3u8
-CCTV6 高清,http://jylt.jdshipin.com:808/hls/6/index.m3u8
-CCTV7 高清,http://jylt.jdshipin.com:808/hls/7/index.m3u8
-CCTV8 高清,http://jylt.jdshipin.com:808/hls/8/index.m3u8
-CCTV9 高清,http://jylt.jdshipin.com:808/hls/109/index.m3u8
-CCTV10 高清,http://jylt.jdshipin.com:808/hls/110/index.m3u8
-CCTV11 高清,http://jylt.jdshipin.com:808/hls/111/index.m3u8
-CCTV12 高清,http://jylt.jdshipin.com:808/hls/112/index.m3u8
-CCTV13 新闻,http://jylt.jdshipin.com:808/hls/113/index.m3u8
-CCTV14 高清,http://jylt.jdshipin.com:808/hls/114/index.m3u8
-CCTV15 音乐,http://jylt.jdshipin.com:808/hls/115/index.m3u8
-CCTV17农村农业,http://jylt.jdshipin.com:808/hls/117/index.m3u8
+CCTV-1高清,http://120.234.220.107:9000/udp/239.20.0.96:3016
+CCTV1 高清,http://120.234.220.107:9000/udp/239.20.0.104:2006
+CCTV2 高清,http://120.234.220.107:9000/udp/239.20.0.197:2192
+CCTV3 高清,http://120.234.220.107:9000/udp/239.20.0.28:3292
+CCTV4 高清,http://120.234.220.107:9000/udp/239.20.0.16:3340
+CCTV5 高清,http://120.234.220.107:9000/udp/239.20.0.30:3284
+CCTV5+ 高清,http://120.234.220.107:9000/udp/239.20.0.203:2204
+CCTV6 高清,http://120.234.220.107:9000/udp/239.20.0.29:3288
+CCTV7 高清,http://120.234.220.107:9000/udp/239.20.0.198:2194
+CCTV8 高清,http://120.234.220.107:9000/udp/239.20.0.31:3280
+CCTV9 高清,http://120.234.220.107:9000/udp/239.20.0.199:2196
+CCTV10 高清,http://120.234.220.107:9000/udp/239.20.0.200:2198
+CCTV11 高清,http://120.234.220.107:9000/udp/239.21.0.35:3480
+CCTV12 高清,http://120.234.220.107:9000/udp/239.20.0.201:2200
+CCTV13 高清,http://120.234.220.107:9000/udp/239.21.0.88:3692
+CCTV14 高清,http://120.234.220.107:9000/udp/239.20.0.202:2202
+CCTV15 高清,http://120.234.220.107:9000/udp/239.21.0.36:3484
+CCTV17 高清,http://120.234.220.107:9000/udp/239.20.0.7:3376
+
+广东卫视高清,http://120.234.220.107:9000/udp/239.20.0.101:2000
+广东卫视高清,http://120.234.220.107:9000/udp/239.20.0.99:3004
+广东体育高清,http://120.234.220.107:9000/udp/239.20.0.103:2004
+广东体育高清,http://120.234.220.107:9000/udp/239.20.0.97:3012
+
+梅州1高清-A,http://p2.vzan.com/slowlive/403126774572750089/live.m3u8
+梅州1高清-B,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=meizhou1HD_4500
+梅州2高清-A,http://p2.vzan.com/slowlive/645350022315428297/live.m3u8
+梅州2高清-B,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=meizhou2HD_4500
+梅县综合,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=meixianHD_4500
+
+广东珠江高清,http://120.234.220.107:9000/udp/239.20.0.63:3148
+广东科教高清,http://120.234.220.107:9000/udp/239.20.0.98:3008
+广东珠江高清,http://120.234.220.107:9000/udp/239.20.0.64:3144
+大湾区卫视高清,http://120.234.220.107:9000/udp/239.21.0.84:3676
+广东影视高清,http://120.234.220.107:9000/udp/239.21.0.85:3680
+广东公共高清,http://120.234.220.107:9000/udp/239.21.0.86:3684
+广东少儿高清,http://120.234.220.107:9000/udp/239.21.0.87:3688
+嘉佳卡通高清,http://120.234.220.107:9000/udp/239.21.0.94:3716
+广东新闻高清,http://120.234.220.107:9000/udp/239.21.0.93:3712
+广东科教高清,http://120.234.220.107:9000/udp/239.20.0.102:2002
+
+金鹰纪实高清,http://120.234.220.107:9000/udp/239.20.0.85:3060
+
+深圳卫视高清,http://120.234.220.107:9000/udp/239.20.0.92:3032
+江苏卫视高清,http://120.234.220.107:9000/udp/239.20.0.93:3028
+浙江卫视高清,http://120.234.220.107:9000/udp/239.20.0.94:3024
+湖南卫视高清,http://120.234.220.107:9000/udp/239.20.0.95:3020
 
 
-广东卫视高清,http://jylt.jdshipin.com:808/hls/121/index.m3u8
-广东体育高清,http://jylt.jdshipin.com:808/hls/22/index.m3u8
-梅州1高清,http://p2.vzan.com/slowlive/403126774572750089/live.m3u8
-梅州2高清,http://p2.vzan.com/slowlive/645350022315428297/live.m3u8
+电影测试-4K,http://120.234.220.107:9000/udp/239.21.0.129:3860
+南国都市-4K,http://120.234.220.107:9000/udp/239.21.0.132:3872
+广东综艺-4K1,http://120.234.220.107:9000/udp/239.20.0.59:3164
+广东综艺-4K2,http://120.234.220.107:9000/udp/239.20.0.60:3160
+广东综艺-4K3,http://120.234.220.107:9000/udp/239.20.0.61:3156
+广东综艺-4K4,http://120.234.220.107:9000/udp/239.20.0.62:3152
+CBN每日影院高清,http://120.234.220.107:9000/udp/239.21.0.125:3844
+CBN风尚生活高清,http://120.234.220.107:9000/udp/239.21.0.126:3848
+CBN幸福剧场高清,http://120.234.220.107:9000/udp/239.21.0.127:3852
+CBN幸福娱乐高清,http://120.234.220.107:9000/udp/239.21.0.128:3856
+CHC高清电影高清,http://120.234.220.107:9000/udp/239.21.0.119:3820
+CCTV4欧洲高清,http://120.234.220.107:9000/udp/239.21.0.107:3768
+CCTV4美洲高清,http://120.234.220.107:9000/udp/239.21.0.108:3772
+CGTN英语高清,http://120.234.220.107:9000/udp/239.21.0.109:3776
+CGTN记录高清,http://120.234.220.107:9000/udp/239.21.0.110:3780
+CGTN西语高清,http://120.234.220.107:9000/udp/239.21.0.111:3800
+CGTN法语高清,http://120.234.220.107:9000/udp/239.21.0.112:3788
+CGTN阿语高清,http://120.234.220.107:9000/udp/239.21.0.113:3792
+CGTN俄语高清,http://120.234.220.107:9000/udp/239.21.0.114:3796
+CCTV第一剧场高清,http://120.234.220.107:9000/udp/239.21.0.69:3616
+CCTV风云足球高清,http://120.234.220.107:9000/udp/239.21.0.70:3620
+CCTV央视台球高清,http://120.234.220.107:9000/udp/239.21.0.71:3624
+CCTV央视网球高清,http://120.234.220.107:9000/udp/239.21.0.72:3628
+CCTV女性时尚高清,http://120.234.220.107:9000/udp/239.21.0.73:3632
+CCTV世界地理高清,http://120.234.220.107:9000/udp/239.21.0.74:3636
+CCTV怀旧剧场高清,http://120.234.220.107:9000/udp/239.21.0.75:3640
+CCTV风云剧场高清,http://120.234.220.107:9000/udp/239.21.0.76:3644
+CCTV央视精品高清,http://120.234.220.107:9000/udp/239.21.0.77:3648
+CCTV第一剧场高清,http://120.234.220.107:9000/udp/239.21.0.78:3652
+CCTV风云音乐高清,http://120.234.220.107:9000/udp/239.21.0.79:3656
+CCTV兵器科技高清,http://120.234.220.107:9000/udp/239.21.0.80:3660
+CCTV电视指南高清,http://120.234.220.107:9000/udp/239.21.0.81:3664
 
-广东新闻,http://jylt.jdshipin.com:808/hls/124/index.m3u8
-广东影视,http://jylt.jdshipin.com:808/hls/142/index.m3u8
-广东珠江高清,http://jylt.jdshipin.com:808/hls/122/index.m3u8
-广东岭南戏曲,http://jylt.jdshipin.com:808/hls/143/index.m3u8
-广东少儿,http://jylt.jdshipin.com:808/hls/120/index.m3u8
-广东公共,http://jylt.jdshipin.com:808/hls/148/index.m3u8
-大湾区卫视,http://jylt.jdshipin.com:808/hls/67/index.m3u8
-凤凰香港,http://jylt.jdshipin.com:808/hls/81/index.m3u8
-凤凰中文,http://jylt.jdshipin.com:808/hls/29/index.m3u8
-凤凰资讯,http://jylt.jdshipin.com:808/hls/28/index.m3u8
-凤凰中文,http://162.19.247.76:22222/live/fenghuangweishi/index.m3u8
-凤凰资讯,http://162.19.247.76:22222/live/fenghuangzhixun/index.m3u8
 
-经济科教高清,http://jylt.jdshipin.com:808/hls/118/index.m3u8
-天映电影,http://jylt.jdshipin.com:808/hls/85/index.m3u8
-央视动作电影,http://jylt.jdshipin.com:808/hls/31/index.m3u8
-央视家庭影院,http://jylt.jdshipin.com:808/hls/36/index.m3u8
-龙祥电影,http://jylt.jdshipin.com:808/hls/35/index.m3u8
-TVB1本港台,http://jylt.jdshipin.com:808/hls/86/index.m3u8
-TVB2翡翠,http://jylt.jdshipin.com:808/hls/25/index.m3u8
-TVB3明珠,http://jylt.jdshipin.com:808/hls/26/index.m3u8
+汕尾综合高清,http://120.234.220.107:9000/udp/239.21.0.89:3696
+汕尾生活高清,http://120.234.220.107:9000/udp/239.21.0.90:3700
+
+金鹰纪实高清,http://120.234.220.107:9000/udp/239.20.0.196:2190
+求索记录高清,http://120.234.220.107:9000/udp/239.21.0.118:3816
+金鹰卡通高清,http://120.234.220.107:9000/udp/239.21.0.115:3804
+早期教育高清,http://120.234.220.107:9000/udp/239.21.0.106:3764
+中国交通高清,http://120.234.220.107:9000/udp/239.20.0.68:3128
+快乐垂钓高清,http://120.234.220.107:9000/udp/239.21.0.121:3828
+茶频道高清,http://120.234.220.107:9000/udp/239.21.0.120:3824
+
 
 
 
