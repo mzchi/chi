@@ -66,15 +66,11 @@ CCTV-17高清,http://ct.whosayssowhat.top:4022/udp/239.77.1.121:5146
 广东卫视高清,http://59.36.182.134:9999/newlive/live/hls/87/live.m3u8
 广东体育高清,http://59.36.182.134:9999/newlive/live/hls/89/live.m3u8
 广东体育HD,http://chihomai.top:5678/gudou.php?phone=18664735406&ptoken=0OgMrvQ1pCDopjeG91Ve4A%3D%3D&pserialnumber=6f9b30ce4249b041&cid=364&id=1413
-梅州1高清-A,http://p2.vzan.com/slowlive/403126774572750089/live.m3u8#http://xjayrf.eatuo.com:9901/tsfile/live/1002_1.m3u8
-梅州1高清-B,http://chihomai.top:5678/gudou.php?phone=18664735406&ptoken=0OgMrvQ1pCDopjeG91Ve4A%3D%3D&pserialnumber=6f9b30ce4249b041&cid=364&id=meizhou1HD_4500
-梅州2高清-A,http://p2.vzan.com/slowlive/645350022315428297/live.m3u8#http://xjayrf.eatuo.com:9901/tsfile/live/1003_1.m3u8
-梅州2高清-B,http://chihomai.top:5678/gudou.php?phone=18664735406&ptoken=0OgMrvQ1pCDopjeG91Ve4A%3D%3D&pserialnumber=6f9b30ce4249b041&cid=364&id=meizhou2HD_4500
-梅州1高清,http://101.42.12.242:5678/gudou.php?phone=19801117551&ptoken=szcIH9NmmTome696m91jaA%3D%3D&pserialnumber=994595a073cc48e6&cid=364&id=meizhou1HD_4500
-梅州2高清,http://101.42.12.242:5678/gudou.php?phone=19801117551&ptoken=szcIH9NmmTome696m91jaA%3D%3D&pserialnumber=994595a073cc48e6&cid=364&id=meizhou2HD_4500
-梅州1高清,http://chihomai.top:5678/gudou.php?phone=18664735406&ptoken=0OgMrvQ1pCDopjeG91Ve4A%3D%3D&pserialnumber=6f9b30ce4249b041&cid=364&id=meizhou1HD_4500
-梅州2高清,http://chihomai.top:5678/gudou.php?phone=18664735406&ptoken=0OgMrvQ1pCDopjeG91Ve4A%3D%3D&pserialnumber=6f9b30ce4249b041&cid=364&id=meizhou2HD_4500
-梅县综合,http://101.42.12.242:5678/gudou.php?phone=19801117551&ptoken=szcIH9NmmTome696m91jaA%3D%3D&pserialnumber=994595a073cc48e6&cid=364&id=meixianHD_4500
+梅州1高清-A,http://p2.vzan.com/slowlive/403126774572750089/live.m3u8
+梅州2高清-A,http://p2.vzan.com/slowlive/645350022315428297/live.m3u8
+梅州1高清,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=meizhou1HD_4500
+梅州2高清,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=meizhou2HD_4500
+梅县综合,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=meixianHD_4500
 
 
 
