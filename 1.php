@@ -117,88 +117,58 @@ CCTV-17高清,http://ct.whosayssowhat.top:4022/udp/239.77.1.121:5146
 
 电信代理-2,#genre#
 
-CCTV-1HD,http://101.42.12.242:5678/gudou.php?phone=19801117551&ptoken=szcIH9NmmTome696m91jaA%3D%3D&pserialnumber=994595a073cc48e6&cid=364&id=CCTV1HD_7000
-CCTV-2HD,http://101.42.12.242:5678/gudou.php?phone=19801117551&ptoken=szcIH9NmmTome696m91jaA%3D%3D&pserialnumber=994595a073cc48e6&cid=364&id=CCTV2HD_7000
-CCTV-3HD,http://101.42.12.242:5678/gudou.php?phone=19801117551&ptoken=szcIH9NmmTome696m91jaA%3D%3D&pserialnumber=994595a073cc48e6&cid=364&id=1603
-CCTV-4HD,http://101.42.12.242:5678/gudou.php?phone=19801117551&ptoken=szcIH9NmmTome696m91jaA%3D%3D&pserialnumber=994595a073cc48e6&cid=364&id=1604
-CCTV-5HD,http://101.42.12.242:5678/gudou.php?phone=19801117551&ptoken=szcIH9NmmTome696m91jaA%3D%3D&pserialnumber=994595a073cc48e6&cid=364&id=1605
-CCTV-5+HD,http://101.42.12.242:5678/gudou.php?phone=19801117551&ptoken=szcIH9NmmTome696m91jaA%3D%3D&pserialnumber=994595a073cc48e6&cid=364&id=1403
-CCTV-6HD,http://101.42.12.242:5678/gudou.php?phone=19801117551&ptoken=szcIH9NmmTome696m91jaA%3D%3D&pserialnumber=994595a073cc48e6&cid=364&id=1606
-CCTV-7HD,http://101.42.12.242:5678/gudou.php?phone=19801117551&ptoken=szcIH9NmmTome696m91jaA%3D%3D&pserialnumber=994595a073cc48e6&cid=364&id=1607
-CCTV-8HD,http://101.42.12.242:5678/gudou.php?phone=19801117551&ptoken=szcIH9NmmTome696m91jaA%3D%3D&pserialnumber=994595a073cc48e6&cid=364&id=1608
-CCTV-9HD,http://101.42.12.242:5678/gudou.php?phone=19801117551&ptoken=szcIH9NmmTome696m91jaA%3D%3D&pserialnumber=994595a073cc48e6&cid=364&id=CCTV9HD_7000
-CCTV-10HD,http://101.42.12.242:5678/gudou.php?phone=19801117551&ptoken=szcIH9NmmTome696m91jaA%3D%3D&pserialnumber=994595a073cc48e6&cid=364&id=1610
-CCTV-11HD,http://101.42.12.242:5678/gudou.php?phone=19801117551&ptoken=szcIH9NmmTome696m91jaA%3D%3D&pserialnumber=994595a073cc48e6&cid=364&id=CCTV-11HD_7500
-CCTV-12HD,http://101.42.12.242:5678/gudou.php?phone=19801117551&ptoken=szcIH9NmmTome696m91jaA%3D%3D&pserialnumber=994595a073cc48e6&cid=364&id=CCTV12HD_7000
-CCTV-13HD,http://101.42.12.242:5678/gudou.php?phone=19801117551&ptoken=szcIH9NmmTome696m91jaA%3D%3D&pserialnumber=994595a073cc48e6&cid=364&id=1613
-CCTV-14HD,http://101.42.12.242:5678/gudou.php?phone=19801117551&ptoken=szcIH9NmmTome696m91jaA%3D%3D&pserialnumber=994595a073cc48e6&cid=364&id=CCTV14HD_7000
-CCTV-15HD,http://101.42.12.242:5678/gudou.php?phone=19801117551&ptoken=szcIH9NmmTome696m91jaA%3D%3D&pserialnumber=994595a073cc48e6&cid=364&id=CCTV-15HD_7500
-CCTV-16HD,http://101.42.12.242:5678/gudou.php?phone=19801117551&ptoken=szcIH9NmmTome696m91jaA%3D%3D&pserialnumber=994595a073cc48e6&cid=364&id=1617_4500
-CCTV-17HD,http://101.42.12.242:5678/gudou.php?phone=19801117551&ptoken=szcIH9NmmTome696m91jaA%3D%3D&pserialnumber=994595a073cc48e6&cid=364&id=CCTV17HD_7500
+CCTV1,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=1402_4500
+CCTV2,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=CCTV2HD_7000
+CCTV3,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=1603
+CCTV4,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=1604
+CCTV5,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=1605
+CCTV5+,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=1403
+CCTV6,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=1606
+CCTV7,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=1607
+CCTV8,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=1608
+CCTV9,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=CCTV9HD_7000
+CCTV10,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=1610
+CCTV11,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=CCTV-11HD_7500
+CCTV12,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=CCTV12HD_7000
+CCTV13,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=1613
+CCTV14,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=CCTV14HD_7000
+CCTV15,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=CCTV-15HD_7500
+CCTV16,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=1617_4500
+CCTV17,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=CCTV17HD
+
+广东卫视,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=1401
+广东体育HD,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=1413
+梅州1高清-A,http://p2.vzan.com/slowlive/403126774572750089/live.m3u8
+梅州1高清-B,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=meizhou1HD_4500
+梅州2高清-A,http://p2.vzan.com/slowlive/645350022315428297/live.m3u8
+梅州2高清-B,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=meizhou2HD_4500
+梅县综合,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=meixianHD_4500
+
+广东珠江,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=gdzhujiangHD_7500
+广东新闻,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=1454
+广东民生,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=1455
+广东经济科教,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=GDjingjikejiaoHD_7000
+大湾区卫视,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=1456
+广东影视,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=1458
+嘉佳卡通,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=1459
+广东少儿,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=1457
+
+G导视高清,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=GHDdaoshi_7500
+翡翠台,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=1350_4500
+明珠台,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=1351_4500
+凤凰中文.576,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=fhzw_1500
+星空卫视.576,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=xingkong_1500
+澳亚卫视.576,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=aoya_1500
 
 
-CCTV-1HD,http://chihomai.top:5678/gudou.php?phone=18664735406&ptoken=0OgMrvQ1pCDopjeG91Ve4A%3D%3D&pserialnumber=6f9b30ce4249b041&cid=364&id=CCTV1HD_7000
-CCTV-2HD,http://chihomai.top:5678/gudou.php?phone=18664735406&ptoken=0OgMrvQ1pCDopjeG91Ve4A%3D%3D&pserialnumber=6f9b30ce4249b041&cid=364&id=CCTV2HD_7000
-CCTV-3HD,http://chihomai.top:5678/gudou.php?phone=18664735406&ptoken=0OgMrvQ1pCDopjeG91Ve4A%3D%3D&pserialnumber=6f9b30ce4249b041&cid=364&id=1603
-CCTV-4HD,http://chihomai.top:5678/gudou.php?phone=18664735406&ptoken=0OgMrvQ1pCDopjeG91Ve4A%3D%3D&pserialnumber=6f9b30ce4249b041&cid=364&id=1604
-CCTV-5HD,http://chihomai.top:5678/gudou.php?phone=18664735406&ptoken=0OgMrvQ1pCDopjeG91Ve4A%3D%3D&pserialnumber=6f9b30ce4249b041&cid=364&id=1605
-CCTV-5+HD,http://chihomai.top:5678/gudou.php?phone=18664735406&ptoken=0OgMrvQ1pCDopjeG91Ve4A%3D%3D&pserialnumber=6f9b30ce4249b041&cid=364&id=1403
-CCTV-6HD,http://chihomai.top:5678/gudou.php?phone=18664735406&ptoken=0OgMrvQ1pCDopjeG91Ve4A%3D%3D&pserialnumber=6f9b30ce4249b041&cid=364&id=1606
-CCTV-7HD,http://chihomai.top:5678/gudou.php?phone=18664735406&ptoken=0OgMrvQ1pCDopjeG91Ve4A%3D%3D&pserialnumber=6f9b30ce4249b041&cid=364&id=1607
-CCTV-8HD,http://chihomai.top:5678/gudou.php?phone=18664735406&ptoken=0OgMrvQ1pCDopjeG91Ve4A%3D%3D&pserialnumber=6f9b30ce4249b041&cid=364&id=1608
-CCTV-9HD,http://chihomai.top:5678/gudou.php?phone=18664735406&ptoken=0OgMrvQ1pCDopjeG91Ve4A%3D%3D&pserialnumber=6f9b30ce4249b041&cid=364&id=CCTV9HD_7000
-CCTV-10HD,http://chihomai.top:5678/gudou.php?phone=18664735406&ptoken=0OgMrvQ1pCDopjeG91Ve4A%3D%3D&pserialnumber=6f9b30ce4249b041&cid=364&id=1610
-CCTV-11HD,http://chihomai.top:5678/gudou.php?phone=18664735406&ptoken=0OgMrvQ1pCDopjeG91Ve4A%3D%3D&pserialnumber=6f9b30ce4249b041&cid=364&id=CCTV-11HD_7500
-CCTV-12HD,http://chihomai.top:5678/gudou.php?phone=18664735406&ptoken=0OgMrvQ1pCDopjeG91Ve4A%3D%3D&pserialnumber=6f9b30ce4249b041&cid=364&id=CCTV12HD_7000
-CCTV-13HD,http://chihomai.top:5678/gudou.php?phone=18664735406&ptoken=0OgMrvQ1pCDopjeG91Ve4A%3D%3D&pserialnumber=6f9b30ce4249b041&cid=364&id=1613
-CCTV-14HD,http://chihomai.top:5678/gudou.php?phone=18664735406&ptoken=0OgMrvQ1pCDopjeG91Ve4A%3D%3D&pserialnumber=6f9b30ce4249b041&cid=364&id=CCTV14HD_7000
-CCTV-15HD,http://chihomai.top:5678/gudou.php?phone=18664735406&ptoken=0OgMrvQ1pCDopjeG91Ve4A%3D%3D&pserialnumber=6f9b30ce4249b041&cid=364&id=CCTV-15HD_7500
-CCTV-16HD,http://chihomai.top:5678/gudou.php?phone=18664735406&ptoken=0OgMrvQ1pCDopjeG91Ve4A%3D%3D&pserialnumber=6f9b30ce4249b041&cid=364&id=1617_4500
-CCTV-17HD,http://chihomai.top:5678/gudou.php?phone=18664735406&ptoken=0OgMrvQ1pCDopjeG91Ve4A%3D%3D&pserialnumber=6f9b30ce4249b041&cid=364&id=CCTV17HD_7500
-
-
-广东卫视HD,http://101.42.12.242:5678/gudou.php?phone=19801117551&ptoken=szcIH9NmmTome696m91jaA%3D%3D&pserialnumber=994595a073cc48e6&cid=364&id=1401
-广东体育HD,http://101.42.12.242:5678/gudou.php?phone=19801117551&ptoken=szcIH9NmmTome696m91jaA%3D%3D&pserialnumber=994595a073cc48e6&cid=364&id=1413
-梅州1高清,http://101.42.12.242:5678/gudou.php?phone=19801117551&ptoken=szcIH9NmmTome696m91jaA%3D%3D&pserialnumber=994595a073cc48e6&cid=364&id=meizhou1HD_4500
-梅州2高清,http://101.42.12.242:5678/gudou.php?phone=19801117551&ptoken=szcIH9NmmTome696m91jaA%3D%3D&pserialnumber=994595a073cc48e6&cid=364&id=meizhou2HD_4500
-梅县综合,http://101.42.12.242:5678/gudou.php?phone=19801117551&ptoken=szcIH9NmmTome696m91jaA%3D%3D&pserialnumber=994595a073cc48e6&cid=364&id=meixianHD_4500
-广东新闻,http://101.42.12.242:5678/gudou.php?phone=19801117551&ptoken=szcIH9NmmTome696m91jaA%3D%3D&pserialnumber=994595a073cc48e6&cid=364&id=1454
-广东民生,http://101.42.12.242:5678/gudou.php?phone=19801117551&ptoken=szcIH9NmmTome696m91jaA%3D%3D&pserialnumber=994595a073cc48e6&cid=364&id=1455
-大湾区卫视,http://101.42.12.242:5678/gudou.php?phone=19801117551&ptoken=szcIH9NmmTome696m91jaA%3D%3D&pserialnumber=994595a073cc48e6&cid=364&id=1456
-凤凰中文,http://101.42.12.242:5678/gudou.php?phone=19801117551&ptoken=szcIH9NmmTome696m91jaA%3D%3D&pserialnumber=994595a073cc48e6&cid=364&id=fhzw_1500
-劲爆体育HD,http://101.42.12.242:5678/gudou.php?phone=19801117551&ptoken=szcIH9NmmTome696m91jaA%3D%3D&pserialnumber=994595a073cc48e6&cid=364&id=jinbaotiyuHD_7000
-魅力足球HD,http://101.42.12.242:5678/gudou.php?phone=19801117551&ptoken=szcIH9NmmTome696m91jaA%3D%3D&pserialnumber=994595a073cc48e6&cid=364&id=meiliyinyueHD_7000
-嘉佳卡通,http://101.42.12.242:5678/gudou.php?phone=19801117551&ptoken=szcIH9NmmTome696m91jaA%3D%3D&pserialnumber=994595a073cc48e6&cid=364&id=1459
-广东少儿,http://101.42.12.242:5678/gudou.php?phone=19801117551&ptoken=szcIH9NmmTome696m91jaA%3D%3D&pserialnumber=994595a073cc48e6&cid=364&id=1457
-CHC高清电影,http://101.42.12.242:5678/gudou.php?phone=19801117551&ptoken=szcIH9NmmTome696m91jaA%3D%3D&pserialnumber=994595a073cc48e6&cid=364&id=CHCHD_7000
-乐游,http://101.42.12.242:5678/gudou.php?phone=19801117551&ptoken=szcIH9NmmTome696m91jaA%3D%3D&pserialnumber=994595a073cc48e6&cid=364&id=quanjishiHD_7000
-求索纪录HD,http://101.42.12.242:5678/gudou.php?phone=19801117551&ptoken=szcIH9NmmTome696m91jaA%3D%3D&pserialnumber=994595a073cc48e6&cid=364&id=QSJLHD_7000
-求索科学HD,http://101.42.12.242:5678/gudou.php?phone=19801117551&ptoken=szcIH9NmmTome696m91jaA%3D%3D&pserialnumber=994595a073cc48e6&cid=364&id=qiusuokexueHD_7000
-求索动物HD,http://101.42.12.242:5678/gudou.php?phone=19801117551&ptoken=szcIH9NmmTome696m91jaA%3D%3D&pserialnumber=994595a073cc48e6&cid=364&id=QSDWHD_7000
-求索生活,http://101.42.12.242:5678/gudou.php?phone=19801117551&ptoken=szcIH9NmmTome696m91jaA%3D%3D&pserialnumber=994595a073cc48e6&cid=364&id=1612
-
-
-
-广东卫视HD,http://chihomai.top:5678/gudou.php?phone=18664735406&ptoken=0OgMrvQ1pCDopjeG91Ve4A%3D%3D&pserialnumber=6f9b30ce4249b041&cid=364&id=1401
-广东体育HD,http://chihomai.top:5678/gudou.php?phone=18664735406&ptoken=0OgMrvQ1pCDopjeG91Ve4A%3D%3D&pserialnumber=6f9b30ce4249b041&cid=364&id=1413
-梅州1高清,http://chihomai.top:5678/gudou.php?phone=18664735406&ptoken=0OgMrvQ1pCDopjeG91Ve4A%3D%3D&pserialnumber=6f9b30ce4249b041&cid=364&id=meizhou1HD_4500
-梅州2高清,http://chihomai.top:5678/gudou.php?phone=18664735406&ptoken=0OgMrvQ1pCDopjeG91Ve4A%3D%3D&pserialnumber=6f9b30ce4249b041&cid=364&id=meizhou2HD_4500
-广东新闻,http://chihomai.top:5678/gudou.php?phone=18664735406&ptoken=0OgMrvQ1pCDopjeG91Ve4A%3D%3D&pserialnumber=6f9b30ce4249b041&cid=364&id=1454
-广东民生,http://chihomai.top:5678/gudou.php?phone=18664735406&ptoken=0OgMrvQ1pCDopjeG91Ve4A%3D%3D&pserialnumber=6f9b30ce4249b041&cid=364&id=1455
-大湾区卫视,http://chihomai.top:5678/gudou.php?phone=18664735406&ptoken=0OgMrvQ1pCDopjeG91Ve4A%3D%3D&pserialnumber=6f9b30ce4249b041&cid=364&id=1456
-凤凰中文,http://chihomai.top:5678/gudou.php?phone=18664735406&ptoken=0OgMrvQ1pCDopjeG91Ve4A%3D%3D&pserialnumber=6f9b30ce4249b041&cid=364&id=fhzw_1500
-劲爆体育HD,http://chihomai.top:5678/gudou.php?phone=18664735406&ptoken=0OgMrvQ1pCDopjeG91Ve4A%3D%3D&pserialnumber=6f9b30ce4249b041&cid=364&id=jinbaotiyuHD_7000
-魅力足球HD,http://chihomai.top:5678/gudou.php?phone=18664735406&ptoken=0OgMrvQ1pCDopjeG91Ve4A%3D%3D&pserialnumber=6f9b30ce4249b041&cid=364&id=meiliyinyueHD_7000
-嘉佳卡通,http://chihomai.top:5678/gudou.php?phone=18664735406&ptoken=0OgMrvQ1pCDopjeG91Ve4A%3D%3D&pserialnumber=6f9b30ce4249b041&cid=364&id=1459
-广东少儿,http://chihomai.top:5678/gudou.php?phone=18664735406&ptoken=0OgMrvQ1pCDopjeG91Ve4A%3D%3D&pserialnumber=6f9b30ce4249b041&cid=364&id=1457
-CHC高清电影,http://chihomai.top:5678/gudou.php?phone=18664735406&ptoken=0OgMrvQ1pCDopjeG91Ve4A%3D%3D&pserialnumber=6f9b30ce4249b041&cid=364&id=CHCHD_7000
-乐游,http://chihomai.top:5678/gudou.php?phone=18664735406&ptoken=0OgMrvQ1pCDopjeG91Ve4A%3D%3D&pserialnumber=6f9b30ce4249b041&cid=364&id=quanjishiHD_7000
-求索纪录HD,http://chihomai.top:5678/gudou.php?phone=18664735406&ptoken=0OgMrvQ1pCDopjeG91Ve4A%3D%3D&pserialnumber=6f9b30ce4249b041&cid=364&id=QSJLHD_7000
-求索科学HD,http://chihomai.top:5678/gudou.php?phone=18664735406&ptoken=0OgMrvQ1pCDopjeG91Ve4A%3D%3D&pserialnumber=6f9b30ce4249b041&cid=364&id=qiusuokexueHD_7000
-求索动物HD,http://chihomai.top:5678/gudou.php?phone=18664735406&ptoken=0OgMrvQ1pCDopjeG91Ve4A%3D%3D&pserialnumber=6f9b30ce4249b041&cid=364&id=QSDWHD_7000
-求索生活,http://chihomai.top:5678/gudou.php?phone=18664735406&ptoken=0OgMrvQ1pCDopjeG91Ve4A%3D%3D&pserialnumber=6f9b30ce4249b041&cid=364&id=1612
-
-
+CHC高清电影,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=CHCHD_7000
+乐游,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=quanjishiHD_7000
+求索纪录,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=QSJLHD_7000
+求索science,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=qiusuokexueHD_7000
+求索动物,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=QSDWHD_7000
+求索生活,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=1612
+魅力足球,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=meiliyinyueHD_7000
+劲爆体育,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=jinbaotiyuHD_7000
 
 
 
@@ -206,87 +176,54 @@ CHC高清电影,http://chihomai.top:5678/gudou.php?phone=18664735406&ptoken=0OgM
 
 
 电信代理-3,#genre#
-CCTV-1高清,http://ct.whosayssowhat.top:4022/udp/239.77.1.17:5146
-CCTV-1高清,http://ct.whosayssowhat.top:4022/udp/239.77.1.144:5146
-CCTV-1超清,http://ct.whosayssowhat.top:4022/udp/239.77.0.129:5146
-CCTV-2高清,http://ct.whosayssowhat.top:4022/udp/239.77.1.158:5146
-CCTV-2高清,http://ct.whosayssowhat.top:4022/udp/239.253.43.17:5146
-CCTV-3高清,http://ct.whosayssowhat.top:4022/udp/239.77.0.169:5146
-CCTV-4高清,http://ct.whosayssowhat.top:4022/udp/239.77.1.163:5146
-CCTV-4高清,http://ct.whosayssowhat.top:4022/udp/239.77.1.166:5146
-CCTV-4高清,http://ct.whosayssowhat.top:4022/udp/239.77.0.78:5146
-CCTV-5高清,http://ct.whosayssowhat.top:4022/udp/239.77.0.170:5146
-CCTV-5+高清,http://ct.whosayssowhat.top:4022/udp/239.77.0.87:5146
-CCTV-5+高清,http://ct.whosayssowhat.top:4022/udp/239.77.1.31:5146
-CCTV-6高清,http://ct.whosayssowhat.top:4022/udp/239.77.0.171:5146
-CCTV-7高清,http://ct.whosayssowhat.top:4022/udp/239.77.1.159:5146
-CCTV-8高清,http://ct.whosayssowhat.top:4022/udp/239.77.0.172:5146
-CCTV-9高清,http://ct.whosayssowhat.top:4022/udp/239.77.1.160:5146
-CCTV-10高清,http://ct.whosayssowhat.top:4022/udp/239.77.1.113:5146
-CCTV-11高清,http://ct.whosayssowhat.top:4022/udp/239.77.1.238:5146
-CCTV-12高清,http://ct.whosayssowhat.top:4022/udp/239.77.1.109:5146
-CCTV-13高清,http://ct.whosayssowhat.top:4022/udp/239.77.0.188:5146
-CCTV-13高清,http://ct.whosayssowhat.top:4022/udp/239.253.43.196:5146
-CCTV-14高清,http://ct.whosayssowhat.top:4022/udp/239.77.1.161:5146
-CCTV-15高清,http://ct.whosayssowhat.top:4022/udp/239.77.1.239:5146
-CCTV-16高清,http://ct.whosayssowhat.top:4022/udp/239.77.1.76:5146
-CCTV-17高清,http://ct.whosayssowhat.top:4022/udp/239.77.1.121:5146
-兵器科技高清,http://ct.whosayssowhat.top:4022/udp/239.253.43.18:5146
-风云足球高清,http://ct.whosayssowhat.top:4022/udp/239.253.43.20:5146
-世界地理高清,http://ct.whosayssowhat.top:4022/udp/239.253.43.24:5146
-怀旧剧场高清,http://ct.whosayssowhat.top:4022/udp/239.253.43.5:5146
-风云剧场高清,http://ct.whosayssowhat.top:4022/udp/239.253.43.16:5146
-第一剧场高清,http://ct.whosayssowhat.top:4022/udp/239.253.43.15:5146
-风云音乐高清,http://ct.whosayssowhat.top:4022/udp/239.253.43.6:5146
-广东卫视高清,http://ct.whosayssowhat.top:4022/udp/239.77.1.19:5146
-广东卫视高清,http://ct.whosayssowhat.top:4022/udp/239.77.1.152:5146
-广东卫视超清,http://ct.whosayssowhat.top:4022/udp/239.77.0.166:5146
-广东体育高清,http://ct.whosayssowhat.top:4022/udp/239.77.0.112:5146
 
-广东体育HD,http://chihomai.top:5678/gudou.php?phone=18664735406&ptoken=0OgMrvQ1pCDopjeG91Ve4A%3D%3D&pserialnumber=6f9b30ce4249b041&cid=364&id=1413
-梅州1高清-A,http://p2.vzan.com/slowlive/403126774572750089/live.m3u8#http://xjayrf.eatuo.com:9901/tsfile/live/1002_1.m3u8
-梅州1高清-B,http://chihomai.top:5678/gudou.php?phone=18664735406&ptoken=0OgMrvQ1pCDopjeG91Ve4A%3D%3D&pserialnumber=6f9b30ce4249b041&cid=364&id=meizhou1HD_4500
-梅州2高清-A,http://p2.vzan.com/slowlive/645350022315428297/live.m3u8#http://xjayrf.eatuo.com:9901/tsfile/live/1003_1.m3u8
-梅州2高清-B,http://chihomai.top:5678/gudou.php?phone=18664735406&ptoken=0OgMrvQ1pCDopjeG91Ve4A%3D%3D&pserialnumber=6f9b30ce4249b041&cid=364&id=meizhou2HD_4500
-梅州1高清,http://101.42.12.242:5678/gudou.php?phone=19801117551&ptoken=szcIH9NmmTome696m91jaA%3D%3D&pserialnumber=994595a073cc48e6&cid=364&id=meizhou1HD_4500
-梅州2高清,http://101.42.12.242:5678/gudou.php?phone=19801117551&ptoken=szcIH9NmmTome696m91jaA%3D%3D&pserialnumber=994595a073cc48e6&cid=364&id=meizhou2HD_4500
-梅州1高清,http://chihomai.top:5678/gudou.php?phone=18664735406&ptoken=0OgMrvQ1pCDopjeG91Ve4A%3D%3D&pserialnumber=6f9b30ce4249b041&cid=364&id=meizhou1HD_4500
-梅州2高清,http://chihomai.top:5678/gudou.php?phone=18664735406&ptoken=0OgMrvQ1pCDopjeG91Ve4A%3D%3D&pserialnumber=6f9b30ce4249b041&cid=364&id=meizhou2HD_4500
-梅县综合,http://chihomai.top:5678/gudou.php?phone=18664735406&ptoken=0OgMrvQ1pCDopjeG91Ve4A%3D%3D&pserialnumber=6f9b30ce4249b041&cid=364&id=meixianHD_4500
+CCTV1 高清,http://jylt.jdshipin.com:808/hls/101/index.m3u8
+CCTV2 高清,http://jylt.jdshipin.com:808/hls/102/index.m3u8
+CCTV3 高清,http://jylt.jdshipin.com:808/hls/3/index.m3u8
+CCTV4 高清,http://jylt.jdshipin.com:808/hls/104/index.m3u8
+CCTV5 高清,http://jylt.jdshipin.com:808/hls/5/index.m3u8
+CCTV5+ 高清,http://jylt.jdshipin.com:808/hls/30/index.m3u8
+CCTV6 高清,http://jylt.jdshipin.com:808/hls/6/index.m3u8
+CCTV7 高清,http://jylt.jdshipin.com:808/hls/7/index.m3u8
+CCTV8 高清,http://jylt.jdshipin.com:808/hls/8/index.m3u8
+CCTV9 高清,http://jylt.jdshipin.com:808/hls/109/index.m3u8
+CCTV10 高清,http://jylt.jdshipin.com:808/hls/110/index.m3u8
+CCTV11 高清,http://jylt.jdshipin.com:808/hls/111/index.m3u8
+CCTV12 高清,http://jylt.jdshipin.com:808/hls/112/index.m3u8
+CCTV13 新闻,http://jylt.jdshipin.com:808/hls/113/index.m3u8
+CCTV14 高清,http://jylt.jdshipin.com:808/hls/114/index.m3u8
+CCTV15 音乐,http://jylt.jdshipin.com:808/hls/115/index.m3u8
+CCTV17农村农业,http://jylt.jdshipin.com:808/hls/117/index.m3u8
 
 
+广东卫视高清,http://jylt.jdshipin.com:808/hls/121/index.m3u8
+广东体育高清,http://jylt.jdshipin.com:808/hls/22/index.m3u8
+梅州1高清,http://p2.vzan.com/slowlive/403126774572750089/live.m3u8
+梅州2高清,http://p2.vzan.com/slowlive/645350022315428297/live.m3u8
+
+广东新闻,http://jylt.jdshipin.com:808/hls/124/index.m3u8
+广东影视,http://jylt.jdshipin.com:808/hls/142/index.m3u8
+广东珠江高清,http://jylt.jdshipin.com:808/hls/122/index.m3u8
+广东岭南戏曲,http://jylt.jdshipin.com:808/hls/143/index.m3u8
+广东少儿,http://jylt.jdshipin.com:808/hls/120/index.m3u8
+广东公共,http://jylt.jdshipin.com:808/hls/148/index.m3u8
+大湾区卫视,http://jylt.jdshipin.com:808/hls/67/index.m3u8
+凤凰香港,http://jylt.jdshipin.com:808/hls/81/index.m3u8
+凤凰中文,http://jylt.jdshipin.com:808/hls/29/index.m3u8
+凤凰资讯,http://jylt.jdshipin.com:808/hls/28/index.m3u8
+凤凰中文,http://162.19.247.76:22222/live/fenghuangweishi/index.m3u8
+凤凰资讯,http://162.19.247.76:22222/live/fenghuangzhixun/index.m3u8
+
+经济科教高清,http://jylt.jdshipin.com:808/hls/118/index.m3u8
+天映电影,http://jylt.jdshipin.com:808/hls/85/index.m3u8
+央视动作电影,http://jylt.jdshipin.com:808/hls/31/index.m3u8
+央视家庭影院,http://jylt.jdshipin.com:808/hls/36/index.m3u8
+龙祥电影,http://jylt.jdshipin.com:808/hls/35/index.m3u8
+TVB1本港台,http://jylt.jdshipin.com:808/hls/86/index.m3u8
+TVB2翡翠,http://jylt.jdshipin.com:808/hls/25/index.m3u8
+TVB3明珠,http://jylt.jdshipin.com:808/hls/26/index.m3u8
 
 
-广东珠江高清,http://ct.whosayssowhat.top:4022/udp/239.77.0.1:5146
-广东珠江超清,http://ct.whosayssowhat.top:4022/udp/239.77.0.114:5146
-广东新闻高清,http://ct.whosayssowhat.top:4022/udp/239.77.0.173:5146
-广东公共高清,http://ct.whosayssowhat.top:4022/udp/239.77.0.225:5146
-经济科教高清,http://ct.whosayssowhat.top:4022/udp/239.77.0.85:5146
-大湾区卫视高清,http://ct.whosayssowhat.top:4022/udp/239.77.0.215:5146
-广东影视高清,http://ct.whosayssowhat.top:4022/udp/239.77.0.217:5146
-广东少儿高清,http://ct.whosayssowhat.top:4022/udp/239.77.0.250:5146
-嘉佳卡通高清,http://ct.whosayssowhat.top:4022/udp/239.77.0.179:5146
-汕尾新闻综合高清,http://ct.whosayssowhat.top:4022/udp/239.77.0.25:5146
-汕尾文化生活高清,http://ct.whosayssowhat.top:4022/udp/239.77.0.187:5146
-湖南卫视高清,http://ct.whosayssowhat.top:4022/udp/239.77.0.88:5146
-浙江卫视高清,http://ct.whosayssowhat.top:4022/udp/239.77.1.33:5146
-江苏卫视高清,http://ct.whosayssowhat.top:4022/udp/239.77.1.18:5146
-东方卫视高清,http://ct.whosayssowhat.top:4022/udp/239.77.1.218:5146
-CHC高清电影,http://ct.whosayssowhat.top:4022/udp/239.77.0.27:5146
-金鹰卡通高清,http://ct.whosayssowhat.top:4022/udp/239.77.0.164:5146
-快乐垂钓高清,http://ct.whosayssowhat.top:4022/udp/239.77.1.119:5146
-冬奥纪实高清,http://ct.whosayssowhat.top:4022/udp/239.77.1.110:5146
-金鹰纪实高清,http://ct.whosayssowhat.top:4022/udp/239.77.1.217:5146
-上海纪实高清,http://ct.whosayssowhat.top:4022/udp/239.77.1.216:5146
-求索纪录高清,http://ct.whosayssowhat.top:4022/udp/239.77.0.21:5146
-求索生活高清,http://ct.whosayssowhat.top:4022/udp/239.77.0.153:5146
-中华美食高清,http://ct.whosayssowhat.top:4022/udp/239.253.43.40:5146
-爱体育高清,http://ct.whosayssowhat.top:4022/udp/239.77.1.116:5146
-梨园频道高清,http://ct.whosayssowhat.top:4022/udp/239.77.1.100:5146
-每日影院高清,http://ct.whosayssowhat.top:4022/udp/239.253.43.94:5146
-幸福剧场高清,http://ct.whosayssowhat.top:4022/udp/239.253.43.96:5146
-IPTV相声小品,http://ct.whosayssowhat.top:4022/udp/239.77.0.100:5146
-经典电影,http://ct.whosayssowhat.top:4022/udp/239.77.0.104:5146
 
 
 
