@@ -40,20 +40,20 @@ CCTV世界地理,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/20125
 
 广东珠江,http://www.namewee.xyz/gudou.php?id=gdzhujiangHD_7500
 广东新闻,http://www.namewee.xyz/gudou.php?id=1454
-广东民生,http://www.namewee.xyz/gudou.php?id=1455_4500
+广东民生,http://www.namewee.xyz/gudou.php?id=1455
 广东经济科教,http://www.namewee.xyz/gudou.php?id=GDjingjikejiaoHD_7000
 大湾区卫视,http://www.namewee.xyz/gudou.php?id=1456
 广东影视,http://www.namewee.xyz/gudou.php?id=1458
 嘉佳卡通,http://www.namewee.xyz/gudou.php?id=1459
 广东少儿,http://www.namewee.xyz/gudou.php?id=1457
 嘉佳卡通,http://www.namewee.xyz/gudou.php?id=1459_4500
-翡翠台,http://www.namewee.xyz/gudou.php?id=1350_4500
+翡翠台,http://www.namewee.xyz/gudou.php?id=1350
 明珠台,http://www.namewee.xyz/gudou.php?id=1351_4500
 凤凰中文,http://www.namewee.xyz/gudou.php?id=fhzw_1500
 CHC高清电影,http://www.namewee.xyz/gudou.php?id=CHCHD_7000
 乐游,http://www.namewee.xyz/gudou.php?id=quanjishiHD_7000
 求索纪录,http://www.namewee.xyz/gudou.php?id=QSJLHD_7000
-求索science,http://www.namewee.xyz/gudou.php?id=qiusuokexueHD_7000
+求索科学,http://www.namewee.xyz/gudou.php?id=qiusuokexueHD_7000
 求索动物,http://www.namewee.xyz/gudou.php?id=QSDWHD_7000
 求索生活,http://www.namewee.xyz/gudou.php?id=1612
 魅力足球,http://www.namewee.xyz/gudou.php?id=meiliyinyueHD_7000
@@ -74,7 +74,6 @@ CCTV-16 4K,http://www.happyspace.party:4022/udp/239.45.0.12:5140
 卡酷少儿HD,http://www.happyspace.party:4022/udp/239.45.0.8:5140
 金鹰纪实HD,http://www.happyspace.party:4022/udp/239.45.1.45:5140
 冬奥纪实HD,http://www.happyspace.party:4022/udp/239.45.1.14:5140
-足球频道HD,http://www.happyspace.party:4022/udp/239.45.3.22:5140
 哈哈炫动HD,http://www.happyspace.party:4022/udp/239.45.1.55:5140
 纪实人文HD,http://www.happyspace.party:4022/udp/239.45.3.212:5140
 乐游HD,http://www.happyspace.party:4022/udp/239.45.3.135:5140
