@@ -1,4 +1,4 @@
-电信代理,#genre#
+电信代理-1,#genre#
 
 
 CCTV-1高清,http://www.namewee.xyz/gudou.php?id=1402_4500
@@ -21,12 +21,15 @@ CCTV-16高清,http://www.namewee.xyz/gudou.php?id=1617_4500
 CCTV-17高清,http://www.namewee.xyz/gudou.php?id=CCTV17HD
 
 
-CCTV风云足球,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2012514203.m3u8
-CCTV风云剧场,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2012513603.m3u8
-CCTV第一剧场,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2012514403.m3u8
-CCTV怀旧剧场,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2012511203.m3u8
-CCTV兵器科技,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2012513403.m3u8
-CCTV世界地理,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2012513303.m3u8
+CCTV第一剧场高清,http://120.234.220.107:9000/udp/239.21.0.69:3616
+CCTV风云足球高清,http://120.234.220.107:9000/udp/239.21.0.70:3620
+CCTV世界地理高清,http://120.234.220.107:9000/udp/239.21.0.74:3636
+CCTV怀旧剧场高清,http://120.234.220.107:9000/udp/239.21.0.75:3640
+CCTV风云剧场高清,http://120.234.220.107:9000/udp/239.21.0.76:3644
+CCTV央视精品高清,http://120.234.220.107:9000/udp/239.21.0.77:3648
+CCTV第一剧场高清,http://120.234.220.107:9000/udp/239.21.0.78:3652
+CCTV风云音乐高清,http://120.234.220.107:9000/udp/239.21.0.79:3656
+CCTV兵器科技高清,http://120.234.220.107:9000/udp/239.21.0.80:3660
 
 
 广东卫视,http://www.namewee.xyz/gudou.php?id=1401
