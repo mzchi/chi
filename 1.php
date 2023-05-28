@@ -20,7 +20,6 @@ CCTV-16高清,http://www.namewee.xyz/gudou.php?id=1617_4500
 CCTV-17高清,http://www.namewee.xyz/gudou.php?id=CCTV17HD
 
 
-CCTV第一剧场高清,http://120.234.220.107:9000/udp/239.21.0.69:3616
 CCTV风云足球高清,http://120.234.220.107:9000/udp/239.21.0.70:3620
 CCTV世界地理高清,http://120.234.220.107:9000/udp/239.21.0.74:3636
 CCTV怀旧剧场高清,http://120.234.220.107:9000/udp/239.21.0.75:3640
