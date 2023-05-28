@@ -1,23 +1,25 @@
 电信代理,#genre#
 
-CCTV-1高清,http://www.happyspace.party:4022/udp/239.45.3.145:5140
-CCTV-2高清,http://www.happyspace.party:4022/udp/239.45.0.1:5140
-CCTV-3高清,http://www.happyspace.party:4022/udp/239.45.1.68:5140
-CCTV-4高清,http://www.happyspace.party:4022/udp/239.45.0.2:5140
-CCTV-5高清,http://www.happyspace.party:4022/udp/239.45.1.69:5140
-CCTV-5+高清,http://www.happyspace.party:4022/udp/239.45.0.34:5140
-CCTV-6高清,http://www.happyspace.party:4022/udp/239.45.1.70:5140
-CCTV-7高清,http://www.happyspace.party:4022/udp/239.45.3.56:5140
-CCTV-8高清,http://www.happyspace.party:4022/udp/239.45.1.71:5140
-CCTV-9高清,http://www.happyspace.party:4022/udp/239.45.3.4:5140
-CCTV-10高清,http://www.happyspace.party:4022/udp/239.45.3.8:5140
-CCTV-11高清,http://www.happyspace.party:4022/udp/239.45.0.18:5140
-CCTV-12高清,http://www.happyspace.party:4022/udp/239.45.3.10:5140
-CCTV-13高清,http://www.happyspace.party:4022/udp/239.45.0.19:5140
-CCTV-14高清,http://www.happyspace.party:4022/udp/239.45.3.23:5140
-CCTV-15高清,http://www.happyspace.party:4022/udp/239.45.0.20:5140
-CCTV-16高清,http://www.happyspace.party:4022/udp/239.45.0.10:5140
-CCTV-17高清,http://www.happyspace.party:4022/udp/239.45.3.52:5140
+
+CCTV-1高清,http://www.namewee.xyz/gudou.php?id=1402_4500
+CCTV-2高清,http://www.namewee.xyz/gudou.php?id=CCTV2HD_7000
+CCTV-3高清,http://www.namewee.xyz/gudou.php?id=1603
+CCTV-4高清,http://www.namewee.xyz/gudou.php?id=1604
+CCTV-5高清,http://www.namewee.xyz/gudou.php?id=1605
+CCTV-5+高清,http://www.namewee.xyz/gudou.php?id=1403
+CCTV-6高清,http://www.namewee.xyz/gudou.php?id=1606
+CCTV-7高清,http://www.namewee.xyz/gudou.php?id=1607
+CCTV-8高清,http://www.namewee.xyz/gudou.php?id=1608
+CCTV-9高清,http://www.namewee.xyz/gudou.php?id=CCTV9HD_7000
+CCTV-10高清,http://www.namewee.xyz/gudou.php?id=1610
+CCTV-11高清,http://www.namewee.xyz/gudou.php?id=CCTV-11HD_7500
+CCTV-12高清,http://www.namewee.xyz/gudou.php?id=CCTV12HD_7000
+CCTV-13高清,http://www.namewee.xyz/gudou.php?id=1613
+CCTV-14高清,http://www.namewee.xyz/gudou.php?id=CCTV14HD_7000
+CCTV-15高清,http://www.namewee.xyz/gudou.php?id=CCTV-15HD_7500
+CCTV-16高清,http://www.namewee.xyz/gudou.php?id=1617_4500
+CCTV-17高清,http://www.namewee.xyz/gudou.php?id=CCTV17HD
+
 
 CCTV风云足球,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2012514203.m3u8
 CCTV风云剧场,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2012513603.m3u8
@@ -27,26 +29,37 @@ CCTV兵器科技,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/20125
 CCTV世界地理,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2012513303.m3u8
 
 
-广东卫视,http://www.happyspace.party:4022/udp/239.45.3.230:5140
-广东体育HD,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=1413
+广东卫视,http://www.namewee.xyz/gudou.php?id=1401
+广东体育HD,http://www.namewee.xyz/gudou.php?id=1413_4500
 梅州1高清-A,http://p2.vzan.com/slowlive/403126774572750089/live.m3u8
 梅州2高清-A,http://p2.vzan.com/slowlive/645350022315428297/live.m3u8
-梅州1高清,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=meizhou1HD_4500
-梅州2高清,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=meizhou2HD_4500
-梅县综合,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=meixianHD_4500
+梅州1高清,http://www.namewee.xyz/gudou.php?id=meizhou1HD_4500
+梅州2高清,http://www.namewee.xyz/gudou.php?id=meizhou2HD_4500
+梅县综合,http://www.namewee.xyz/gudou.php?id=meixianHD_4500
 
 
-广东珠江,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=gdzhujiangHD_7500
-广东新闻,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=1454
-广东民生,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=1455
-广东经济科教,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=GDjingjikejiaoHD_7000
-大湾区卫视,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=1456
-广东影视,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=1458
-嘉佳卡通,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=1459
-广东少儿,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=1457
-翡翠台,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=1350_4500
-明珠台,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=1351_4500
-凤凰中文.576,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=fhzw_1500
+广东珠江,http://www.namewee.xyz/gudou.php?id=gdzhujiangHD_7500
+广东新闻,http://www.namewee.xyz/gudou.php?id=1454
+广东民生,http://www.namewee.xyz/gudou.php?id=1455_4500
+广东经济科教,http://www.namewee.xyz/gudou.php?id=GDjingjikejiaoHD_7000
+大湾区卫视,http://www.namewee.xyz/gudou.php?id=1456
+广东影视,http://www.namewee.xyz/gudou.php?id=1458
+嘉佳卡通,http://www.namewee.xyz/gudou.php?id=1459
+广东少儿,http://www.namewee.xyz/gudou.php?id=1457
+嘉佳卡通,http://www.namewee.xyz/gudou.php?id=1459_4500
+翡翠台,http://www.namewee.xyz/gudou.php?id=1350_4500
+明珠台,http://www.namewee.xyz/gudou.php?id=1351_4500
+凤凰中文,http://www.namewee.xyz/gudou.php?id=fhzw_1500
+CHC高清电影,http://www.namewee.xyz/gudou.php?id=CHCHD_7000
+乐游,http://www.namewee.xyz/gudou.php?id=quanjishiHD_7000
+求索纪录,http://www.namewee.xyz/gudou.php?id=QSJLHD_7000
+求索science,http://www.namewee.xyz/gudou.php?id=qiusuokexueHD_7000
+求索动物,http://www.namewee.xyz/gudou.php?id=QSDWHD_7000
+求索生活,http://www.namewee.xyz/gudou.php?id=1612
+魅力足球,http://www.namewee.xyz/gudou.php?id=meiliyinyueHD_7000
+劲爆体育,http://www.namewee.xyz/gudou.php?id=jinbaotiyuHD_7000
+
+
 
 CCTV-16 4K,http://www.happyspace.party:4022/udp/239.45.0.12:5140
 欢笑剧场4K,http://www.happyspace.party:4022/udp/239.45.1.4:5140
@@ -58,7 +71,6 @@ CCTV-16 4K,http://www.happyspace.party:4022/udp/239.45.0.12:5140
 浙江卫视,http://www.happyspace.party:4022/udp/239.45.3.178:5140
 江苏卫视,http://www.happyspace.party:4022/udp/239.45.3.177:5140
 湖南卫视,http://www.happyspace.party:4022/udp/239.45.3.228:5140
-北京卫视,http://www.happyspace.party:4022/udp/239.45.3.229:5140
 卡酷少儿HD,http://www.happyspace.party:4022/udp/239.45.0.8:5140
 金鹰纪实HD,http://www.happyspace.party:4022/udp/239.45.1.45:5140
 冬奥纪实HD,http://www.happyspace.party:4022/udp/239.45.1.14:5140
@@ -66,8 +78,7 @@ CCTV-16 4K,http://www.happyspace.party:4022/udp/239.45.0.12:5140
 哈哈炫动HD,http://www.happyspace.party:4022/udp/239.45.1.55:5140
 纪实人文HD,http://www.happyspace.party:4022/udp/239.45.3.212:5140
 乐游HD,http://www.happyspace.party:4022/udp/239.45.3.135:5140
-金鹰卡通,http://www.happyspace.party:4022/udp/239.45.3.119:5140
-嘉佳卡通,http://www.happyspace.party:4022/udp/239.45.1.48:5140
+
 
 
 
