@@ -37,12 +37,13 @@ CCTV-17高清,http://fuhome.vicp.fun:4000/rtp/239.77.1.121:5146
 广东卫视高清,http://fuhome.vicp.fun:4000/rtp/239.77.1.152:5146
 广东体育高清,http://fuhome.vicp.fun:4000/rtp/239.77.0.112:5146
 
-广东体育HD,http://www.namewee.xyz/gudou.php?id=364&id=1413_4500
+广东体育HD,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=1413_4500
 梅州1高清-A,http://p2.vzan.com/slowlive/403126774572750089/live.m3u8
 梅州2高清-A,http://p2.vzan.com/slowlive/645350022315428297/live.m3u8
-梅州1高清,http://www.namewee.xyz/gudou.php?id=364&id=meizhou1HD_4500
-梅州2高清,http://www.namewee.xyz/gudou.php?id=364&id=meizhou2HD_4500
-梅县综合,http://www.namewee.xyz/gudou.php?id=364&id=meixianHD_4500
+梅州1高清,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=meizhou1HD_4500
+梅州2高清,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=meizhou2HD_4500
+梅州导视,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=meizhoudaoshiHD
+梅县综合,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=meixianHD_4500
 
 广东珠江高清,http://fuhome.vicp.fun:4000/rtp/239.77.0.1:5146
 广东新闻高清,http://fuhome.vicp.fun:4000/rtp/239.77.0.173:5146
