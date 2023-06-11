@@ -112,15 +112,15 @@ CCTV兵器科技高清,http://120.234.220.107:9000/udp/239.21.0.80:3660
 
 
 广东珠江,http://119.91.192.228/TVOD/88888888/gudou.php?id=gdzhujiangHD_7500
-广东新闻,http://119.91.192.228/TVOD/88888888/gudou.php?id=1454
-广东民生,http://119.91.192.228/TVOD/88888888/gudou.php?id=1455
+广东新闻,http://119.91.192.228/TVOD/88888888/gudou.php?id=1454_4500
+广东民生,http://119.91.192.228/TVOD/88888888/gudou.php?id=1455_4500
 广东经济科教,http://119.91.192.228/TVOD/88888888/gudou.php?id=GDjingjikejiaoHD_7000
-大湾区卫视,http://119.91.192.228/TVOD/88888888/gudou.php?id=1456
-广东影视,http://119.91.192.228/TVOD/88888888/gudou.php?id=1458
-嘉佳卡通,http://119.91.192.228/TVOD/88888888/gudou.php?id=1459
-广东少儿,http://119.91.192.228/TVOD/88888888/gudou.php?id=1457
+大湾区卫视,http://119.91.192.228/TVOD/88888888/gudou.php?id=1456_4500
+广东影视,http://119.91.192.228/TVOD/88888888/gudou.php?id=1458_4500
 嘉佳卡通,http://119.91.192.228/TVOD/88888888/gudou.php?id=1459_4500
-翡翠台,http://119.91.192.228/TVOD/88888888/gudou.php?id=1350
+广东少儿,http://119.91.192.228/TVOD/88888888/gudou.php?id=1457_4500
+嘉佳卡通,http://119.91.192.228/TVOD/88888888/gudou.php?id=1459_4500
+翡翠台,http://119.91.192.228/TVOD/88888888/gudou.php?id=1350_4500
 明珠台,http://119.91.192.228/TVOD/88888888/gudou.php?id=1351_4500
 凤凰中文,http://119.91.192.228/TVOD/88888888/gudou.php?id=fhzw_1500
 CHC高清电影,http://119.91.192.228/TVOD/88888888/gudou.php?id=CHCHD_7000
@@ -180,7 +180,7 @@ CCTV16,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZE
 CCTV17,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=CCTV17HD
 
 广东卫视,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=1401
-广东体育HD,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=1413
+广东体育HD,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=1413_4500
 梅州1高清-A,http://p2.vzan.com/slowlive/403126774572750089/live.m3u8
 梅州1高清-B,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=meizhou1HD_4500
 梅州2高清-A,http://p2.vzan.com/slowlive/645350022315428297/live.m3u8
@@ -189,13 +189,13 @@ CCTV17,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZE
 梅县综合,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=meixianHD_4500
 
 广东珠江,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=gdzhujiangHD_7500
-广东新闻,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=1454
-广东民生,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=1455
+广东新闻,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=1454_4500
+广东民生,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=1455_4500
 广东经济科教,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=GDjingjikejiaoHD_7000
-大湾区卫视,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=1456
-广东影视,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=1458
-嘉佳卡通,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=1459
-广东少儿,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=1457
+大湾区卫视,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=1456_4500
+广东影视,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=1458_4500
+嘉佳卡通,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=1459_4500
+广东少儿,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=1457_4500
 
 G导视高清,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=GHDdaoshi_7500
 翡翠台,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=1350_4500
