@@ -71,24 +71,24 @@ BesTV Live高清,http://fuhome.vicp.fun:4060/rtp/239.253.43.118:5146
 
 电信代理-2,#genre#
 
-CCTV-1高清,http://119.91.192.228/TVOD/88888888/gudou.php?id=1402_4500
-CCTV-2高清,http://119.91.192.228/TVOD/88888888/gudou.php?id=CCTV2HD_7000
-CCTV-3高清,http://119.91.192.228/TVOD/88888888/gudou.php?id=1603
-CCTV-4高清,http://119.91.192.228/TVOD/88888888/gudou.php?id=1604
-CCTV-5高清,http://119.91.192.228/TVOD/88888888/gudou.php?id=1605
-CCTV-5+高清,http://119.91.192.228/TVOD/88888888/gudou.php?id=1403
-CCTV-6高清,http://119.91.192.228/TVOD/88888888/gudou.php?id=1606
-CCTV-7高清,http://119.91.192.228/TVOD/88888888/gudou.php?id=1607
-CCTV-8高清,http://119.91.192.228/TVOD/88888888/gudou.php?id=1608
-CCTV-9高清,http://119.91.192.228/TVOD/88888888/gudou.php?id=CCTV9HD_7000
-CCTV-10高清,http://119.91.192.228/TVOD/88888888/gudou.php?id=1610
-CCTV-11高清,http://119.91.192.228/TVOD/88888888/gudou.php?id=CCTV-11HD_7500
-CCTV-12高清,http://119.91.192.228/TVOD/88888888/gudou.php?id=CCTV12HD_7000
-CCTV-13高清,http://119.91.192.228/TVOD/88888888/gudou.php?id=1613
-CCTV-14高清,http://119.91.192.228/TVOD/88888888/gudou.php?id=CCTV14HD_7000
-CCTV-15高清,http://119.91.192.228/TVOD/88888888/gudou.php?id=CCTV-15HD_7500
-CCTV-16高清,http://119.91.192.228/TVOD/88888888/gudou.php?id=1617_4500
-CCTV-17高清,http://119.91.192.228/TVOD/88888888/gudou.php?id=CCTV17HD
+CCTV-1高清,http://cntv.dfkj.live/bestv.php?id=cctv1hd8m/8000000
+CCTV-2高清,http://cntv.dfkj.live/bestv.php?id=cctv2hd8m/8000000
+CCTV-3高清,http://cntv.dfkj.live/bestv.php?id=cctv38m/8000000
+CCTV-4高清,http://cntv.dfkj.live/bestv.php?id=cctv4hd8m/8000000
+CCTV-5高清,http://cntv.dfkj.live/bestv.php?id=cctv58m/8000000
+CCTV-5+高清,http://cntv.dfkj.live/bestv.php?id=cctv5phd8m/8000000
+CCTV-6高清,http://cntv.dfkj.live/bestv.php?id=cctv6hd8m/8000000
+CCTV-7高清,http://cntv.dfkj.live/bestv.php?id=cctv7hd8m/8000000
+CCTV-8高清,http://cntv.dfkj.live/bestv.php?id=cctv8hd8m/8000000
+CCTV-9高清,http://cntv.dfkj.live/bestv.php?id=cctv9hd8m/8000000
+CCTV-10高清,http://cntv.dfkj.live/bestv.php?id=cct10hd8m/8000000
+CCTV-11高清,http://cntv.dfkj.live/bestv.php?id=cctv11hd8m/8000000
+CCTV-12高清,http://cntv.dfkj.live/bestv.php?id=cctv12hd8m/8000000
+CCTV-13高清,http://cntv.dfkj.live/bestv.php?id=cctv13xwhd8m/8000000
+CCTV-14高清,http://cntv.dfkj.live/bestv.php?id=cctvsehd8m/8000000
+CCTV-15高清,http://cntv.dfkj.live/bestv.php?id=cctv15hd8m/8000000
+CCTV-16高清,http://cntv.dfkj.live/bestv.php?id=cctv16hd8m/8000000
+CCTV-17高清,http://cntv.dfkj.live/bestv.php?id=cctv17hd8m/8000000
 
 
 CCTV风云足球高清,http://120.234.220.107:9000/udp/239.21.0.70:3620
@@ -101,55 +101,40 @@ CCTV风云音乐高清,http://120.234.220.107:9000/udp/239.21.0.79:3656
 CCTV兵器科技高清,http://120.234.220.107:9000/udp/239.21.0.80:3660
 
 
-广东卫视,http://119.91.192.228/TVOD/88888888/gudou.php?id=1401
-广东体育HD,http://119.91.192.228/TVOD/88888888/gudou.php?id=1413_4500
+广东卫视,http://cntv.dfkj.live/bestv.php?id=gdwshd8m/8000000
+广东体育HD,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=1413_4500
 梅州1高清-A,http://p2.vzan.com/slowlive/403126774572750089/live.m3u8
 梅州2高清-A,http://p2.vzan.com/slowlive/645350022315428297/live.m3u8
-梅州1高清,http://119.91.192.228/TVOD/88888888/gudou.php?id=meizhou1HD_4500
-梅州2高清,http://119.91.192.228/TVOD/88888888/gudou.php?id=meizhou2HD_4500
-梅州导视,http://119.91.192.228/TVOD/88888888/gudou.php?id=meizhoudaoshiHD
-梅县综合,http://119.91.192.228/TVOD/88888888/gudou.php?id=meixianHD_4500
+梅州1高清,http://lu1.cc/itv/php/gudou.php?id=mz1
+梅州2高清,http://lu1.cc/itv/php/gudou.php?id=mz2
+梅州导视,http://lu1.cc/itv/php/gudou.php?id=mzds
+梅县综合,http://lu1.cc/itv/php/gudou.php?id=mxzh
 
 
-广东珠江,http://119.91.192.228/TVOD/88888888/gudou.php?id=gdzhujiangHD_7500
-广东新闻,http://119.91.192.228/TVOD/88888888/gudou.php?id=1454_4500
-广东民生,http://119.91.192.228/TVOD/88888888/gudou.php?id=1455_4500
-广东经济科教,http://119.91.192.228/TVOD/88888888/gudou.php?id=GDjingjikejiaoHD_7000
-大湾区卫视,http://119.91.192.228/TVOD/88888888/gudou.php?id=1456_4500
-广东影视,http://119.91.192.228/TVOD/88888888/gudou.php?id=1458_4500
-嘉佳卡通,http://119.91.192.228/TVOD/88888888/gudou.php?id=1459_4500
-广东少儿,http://119.91.192.228/TVOD/88888888/gudou.php?id=1457_4500
-嘉佳卡通,http://119.91.192.228/TVOD/88888888/gudou.php?id=1459_4500
-翡翠台,http://119.91.192.228/TVOD/88888888/gudou.php?id=1350_4500
-明珠台,http://119.91.192.228/TVOD/88888888/gudou.php?id=1351_4500
-凤凰中文,http://119.91.192.228/TVOD/88888888/gudou.php?id=fhzw_1500
-CHC高清电影,http://119.91.192.228/TVOD/88888888/gudou.php?id=CHCHD_7000
-乐游,http://119.91.192.228/TVOD/88888888/gudou.php?id=quanjishiHD_7000
-求索纪录,http://119.91.192.228/TVOD/88888888/gudou.php?id=QSJLHD_7000
-求索科学,http://119.91.192.228/TVOD/88888888/gudou.php?id=qiusuokexueHD_7000
-求索动物,http://119.91.192.228/TVOD/88888888/gudou.php?id=QSDWHD_7000
-求索生活,http://119.91.192.228/TVOD/88888888/gudou.php?id=1612
-魅力足球,http://119.91.192.228/TVOD/88888888/gudou.php?id=meiliyinyueHD_7000
-劲爆体育,http://119.91.192.228/TVOD/88888888/gudou.php?id=jinbaotiyuHD_7000
+广东珠江,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=gdzhujiangHD_7500
+广东新闻,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=1454
+广东民生,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=1455_4500
+广东经济科教,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=GDjingjikejiaoHD_7000
+大湾区卫视,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=1456_4500
+广东影视,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=1458_4500
+嘉佳卡通,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=1459_4500
+广东少儿,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=1457_4500
+嘉佳卡通,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=1459_4500
+翡翠台,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=1350_4500
+明珠台,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=1351_4500
+凤凰中文,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=fhzw_1500
+CHC高清电影,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=CHCHD_7000
+乐游,http://cntv.dfkj.live/bestv.php?id=qjshd8m/8000000
+求索纪录,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=QSJLHD_7000
+求索科学,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=qiusuokexueHD_7000
+求索动物,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=QSDWHD_7000
+求索生活,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=1612
+魅力足球,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=meiliyinyueHD_7000
+劲爆体育,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=jinbaotiyuHD_7000
 
 
 
-CCTV-16 4K,http://www.happyspace.party:4022/udp/239.45.0.12:5140
-欢笑剧场4K,http://www.happyspace.party:4022/udp/239.45.1.4:5140
-百事通4K电影,http://www.happyspace.party:4022/udp/239.45.3.107:5140
-百事通4K纪实,http://www.happyspace.party:4022/udp/239.45.1.10:5140
-百事通4K儿童,http://www.happyspace.party:4022/udp/239.45.1.1:5140
 
-
-浙江卫视,http://www.happyspace.party:4022/udp/239.45.3.178:5140
-江苏卫视,http://www.happyspace.party:4022/udp/239.45.3.177:5140
-湖南卫视,http://www.happyspace.party:4022/udp/239.45.3.228:5140
-卡酷少儿HD,http://www.happyspace.party:4022/udp/239.45.0.8:5140
-金鹰纪实HD,http://www.happyspace.party:4022/udp/239.45.1.45:5140
-冬奥纪实HD,http://www.happyspace.party:4022/udp/239.45.1.14:5140
-哈哈炫动HD,http://www.happyspace.party:4022/udp/239.45.1.55:5140
-纪实人文HD,http://www.happyspace.party:4022/udp/239.45.3.212:5140
-乐游HD,http://www.happyspace.party:4022/udp/239.45.3.135:5140
 
 
 
@@ -315,77 +300,6 @@ CCTV电视指南高清,http://120.234.220.107:9000/udp/239.21.0.81:3664
 快乐垂钓高清,http://120.234.220.107:9000/udp/239.21.0.121:3828
 茶频道高清,http://120.234.220.107:9000/udp/239.21.0.120:3824
 
-
-
-
-
-
-
-
-百事通 TV,#genre#
-
-CCTV1 8M,http://117.163.48.154:8088/liveplay-kk.rtxapp.com/live/program/live/cctv1hd8m/8000000/mnf.m3u8
-CCTV2 8M,http://117.163.48.154:8088/liveplay-kk.rtxapp.com/live/program/live/cctv2hd8m/8000000/mnf.m3u8
-CCTV3 8M,http://117.163.48.154:8088/liveplay-kk.rtxapp.com/live/program/live/cctv38m/8000000/mnf.m3u8
-CCTV4 8M,http://117.163.48.154:8088/liveplay-kk.rtxapp.com/live/program/live/cctv4hd8m/8000000/mnf.m3u8
-CCTV5 8M,http://117.163.48.154:8088/liveplay-kk.rtxapp.com/live/program/live/cctv58m/8000000/mnf.m3u8
-CCTV5+ 8M,http://117.163.48.154:8088/liveplay-kk.rtxapp.com/live/program/live/cctv5phd8m/8000000/mnf.m3u8
-CCTV6 8M,http://117.163.48.154:8088/liveplay-kk.rtxapp.com/live/program/live/cctv6hd8m/8000000/mnf.m3u8
-CCTV7 8M,http://117.163.48.154:8088/liveplay-kk.rtxapp.com/live/program/live/cctv7hd8m/8000000/mnf.m3u8
-CCTV8 8M,http://117.163.48.154:8088/liveplay-kk.rtxapp.com/live/program/live/cctv8hd8m/8000000/mnf.m3u8
-CCTV9 8M,http://117.163.48.154:8088/liveplay-kk.rtxapp.com/live/program/live/cctv9hd8m/8000000/mnf.m3u8
-CCTV10 8M,http://117.163.48.154:8088/liveplay-kk.rtxapp.com/live/program/live/cctv10hd8m/8000000/mnf.m3u8
-CCTV11 8M,http://117.163.48.154:8088/liveplay-kk.rtxapp.com/live/program/live/cctv11hd8m/8000000/mnf.m3u8
-CCTV12 8M,http://117.163.48.154:8088/liveplay-kk.rtxapp.com/live/program/live/cctv12hd8m/8000000/mnf.m3u8
-CCTV13 8M,http://117.163.48.154:8088/liveplay-kk.rtxapp.com/live/program/live/cctv13xwhd8m/8000000/mnf.m3u8
-CCTV14 8M,http://117.163.48.154:8088/liveplay-kk.rtxapp.com/live/program/live/cctvsehd8m/8000000/mnf.m3u8
-CCTV15 8M,http://117.163.48.154:8088/liveplay-kk.rtxapp.com/live/program/live/cctv15hd8m/8000000/mnf.m3u8
-CCTV16 8M,http://117.163.48.154:8088/liveplay-kk.rtxapp.com/live/program/live/cctv16hd8m/8000000/mnf.m3u8
-CCTV17 8M,http://117.163.48.154:8088/liveplay-kk.rtxapp.com/live/program/live/cctv17hd8m/8000000/mnf.m3u8
-江苏卫视 8M,http://117.163.48.154:8088/liveplay-kk.rtxapp.com/live/program/live/jswshd8m/8000000/mnf.m3u8
-湖南卫视 8M,http://117.163.48.154:8088/liveplay-kk.rtxapp.com/live/program/live/hunanwshd8m/8000000/mnf.m3u8
-浙江卫视 8M,http://117.163.48.154:8088/liveplay-kk.rtxapp.com/live/program/live/zjwshd8m/8000000/mnf.m3u8
-东方卫视 8M,http://117.163.48.154:8088/liveplay-kk.rtxapp.com/live/program/live/dfwshd8m/8000000/mnf.m3u8
-广东卫视 8M,http://117.163.48.154:8088/liveplay-kk.rtxapp.com/live/program/live/gdwshd8m/8000000/mnf.m3u8
-深圳卫视 8M,http://117.163.48.154:8088/liveplay-kk.rtxapp.com/live/program/live/szwshd8m/8000000/mnf.m3u8
-劲爆体育 8M,http://117.163.48.154:8088/liveplay-kk.rtxapp.com/live/program/live/jbtyhd8m/8000000/mnf.m3u8
-欢笑剧场 8M,http://117.163.48.154:8088/liveplay-kk.rtxapp.com/live/program/live/hxjc8m/8000000/mnf.m3u8
-快乐垂钓 8M,http://117.163.48.154:8088/liveplay-kk.rtxapp.com/live/program/live/klcd8m/8000000/mnf.m3u8
-金鹰纪实 8M,http://117.163.48.154:8088/liveplay-kk.rtxapp.com/live/program/live/jyjs8m/8000000/mnf.m3u8
-戏曲精选 8M,http://117.163.48.154:8088/liveplay-kk.rtxapp.com/live/program/live/xqjx8m/8000000/mnf.m3u8
-第一财* 8M,http://117.163.48.154:8088/liveplay-kk.rtxapp.com/live/program/live/dycjhd8m/8000000/mnf.m3u8
-上视新闻 8M,http://117.163.48.154:8088/liveplay-kk.rtxapp.com/live/program/live/xwzhhd8m/8000000/mnf.m3u8
-上海都市 8M,http://117.163.48.154:8088/liveplay-kk.rtxapp.com/live/program/live/dshd8m/8000000/mnf.m3u8
-上海纪实 8M,http://117.163.48.154:8088/liveplay-kk.rtxapp.com/live/program/live/jspdhd/4000000/mnf.m3u8
-东方影视 8M,http://117.163.48.154:8088/liveplay-kk.rtxapp.com/live/program/live/dfyshd8m/8000000/mnf.m3u8
-五星体育 8M,http://117.163.48.154:8088/liveplay-kk.rtxapp.com/live/program/live/wxtyhd8m/8000000/mnf.m3u8
-上视外语 8M,http://117.163.48.154:8088/liveplay-kk.rtxapp.com/live/program/live/icshd8m/8000000/mnf.m3u8
-七彩戏剧 8M,http://117.163.48.154:8088/liveplay-kk.rtxapp.com/live/program/live/qcxjhd8m/8000000/mnf.m3u8
-上海教育 8M,http://117.163.48.154:8088/liveplay-kk.rtxapp.com/live/program/live/setvhd/8000000/mnf.m3u8
-全纪实 8M,http://117.163.48.154:8088/liveplay-kk.rtxapp.com/live/program/live/qjshd8m/8000000/mnf.m3u8
-生活时尚 8M,http://117.163.48.154:8088/liveplay-kk.rtxapp.com/live/program/live/shss8m/8000000/mnf.m3u8
-新视觉 8M,http://117.163.48.154:8088/liveplay-kk.rtxapp.com/live/program/live/xsjhd8m/8000000/mnf.m3u8
-游戏风云 8M,http://117.163.48.154:8088/liveplay-kk.rtxapp.com/live/program/live/yxfy8m/8000000/mnf.m3u8
-热门综艺 8M,http://117.163.48.154:8088/liveplay-kk.rtxapp.com/live/program/live/rmzy8m/8000000/mnf.m3u8
-超级体育 8M,http://117.163.48.154:8088/liveplay-kk.rtxapp.com/live/program/live/qcsj8m/8000000/mnf.m3u8
-健康养生 8M,http://117.163.48.154:8088/liveplay-kk.rtxapp.com/live/program/live/jkys8m/8000000/mnf.m3u8
-百变课堂 8M,http://117.163.48.154:8088/liveplay-kk.rtxapp.com/live/program/live/bbkt8m/8000000/mnf.m3u8
-看天下精选 8M,http://117.163.48.154:8088/liveplay-kk.rtxapp.com/live/program/live/ktxjx8m/8000000/mnf.m3u8
-华语影院 8M,http://117.163.48.154:8088/liveplay-kk.rtxapp.com/live/program/live/hyyy8m/8000000/mnf.m3u8
-电竞天堂 8M,http://117.163.48.154:8088/liveplay-kk.rtxapp.com/live/program/live/djtt8m/8000000/mnf.m3u8
-青春动漫 8M,http://117.163.48.154:8088/liveplay-kk.rtxapp.com/live/program/live/qcdm8m/8000000/mnf.m3u8
-宝宝动画 8M,http://117.163.48.154:8088/liveplay-kk.rtxapp.com/live/program/live/bbdh8m/8000000/mnf.m3u8
-星光影院 8M,http://117.163.48.154:8088/liveplay-kk.rtxapp.com/live/program/live/xgyy8m/8000000/mnf.m3u8
-谍战剧场 8M,http://117.163.48.154:8088/liveplay-kk.rtxapp.com/live/program/live/dzjc8m/8000000/mnf.m3u8
-全球大片 8M,http://117.163.48.154:8088/liveplay-kk.rtxapp.com/live/program/live/qqdp8m/8000000/mnf.m3u8
-热门剧场 8M,http://117.163.48.154:8088/liveplay-kk.rtxapp.com/live/program/live/rmjc8m/8000000/mnf.m3u8
-卡酷少儿 8M,http://117.163.48.154:8088/liveplay-kk.rtxapp.com/live/program/live/kkse8m/8000000/mnf.m3u8
-纪实科教 8M,http://117.163.48.154:8088/liveplay-kk.rtxapp.com/live/program/live/dajs8m/8000000/mnf.m3u8
-足球高清 8M,http://117.163.48.154:8088/liveplay-kk.rtxapp.com/live/program/live/zqpd8m/8000000/mnf.m3u8
-炫动卡通 8M,http://117.163.48.154:8088/liveplay-kk.rtxapp.com/live/program/live/hhxd8m/8000000/mnf.m3u8
-都市剧场 8M,http://117.163.48.154:8088/liveplay-kk.rtxapp.com/live/program/live/dsjc8m/8000000/mnf.m3u8
-动漫秀场 8M,http://117.163.48.154:8088/liveplay-kk.rtxapp.com/live/program/live/dmxc8m/8000000/mnf.m3u8
-魅力足球 8M,http://117.163.48.154:8088/liveplay-kk.rtxapp.com/live/program/live/mlyyhd8m/8000000/mnf.m3u8
 
 
 
