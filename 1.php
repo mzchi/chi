@@ -111,7 +111,7 @@ CCTV兵器科技高清,http://120.234.220.107:9000/udp/239.21.0.80:3660
 梅县综合,http://lu1.cc/itv/php/gudou.php?id=mxzh
 
 广东珠江,https://wen.serv00.net/ce.php?id=gdzhujiangHD_7500
-广东新闻,https://wen.serv00.net/ce.php?id=1454
+广东新闻,https://wen.serv00.net/ce.php?id=1454_4500
 广东民生,https://wen.serv00.net/ce.php?id=1455_4500
 广东经济科教,https://wen.serv00.net/ce.php?id=GDjingjikejiaoHD_7000
 大湾区卫视,https://wen.serv00.net/ce.php?id=1456_4500
