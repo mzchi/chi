@@ -35,13 +35,13 @@ CCTV-17高清,http://fuhome.vicp.fun:4060/rtp/239.77.1.121:5146
 广东卫视高清,http://fuhome.vicp.fun:4060/rtp/239.77.1.152:5146
 广东体育高清,http://fuhome.vicp.fun:4060/rtp/239.77.0.112:5146
 
-广东体育HD,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18602906577&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=1346&id=1413_4500
+广东体育HD,http://www.namewee.xyz/gudou.php?id=364&id=1413_4500
 梅州1高清-A,http://p2.vzan.com/slowlive/403126774572750089/live.m3u8
 梅州2高清-A,http://p2.vzan.com/slowlive/645350022315428297/live.m3u8
-梅州1高清,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18602906577&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=1346&id=meizhou1HD_4500
-梅州2高清,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18602906577&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=1346&id=meizhou2HD_4500
-梅州导视,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18602906577&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=1346&id=meizhoudaoshiHD
-梅县综合,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18602906577&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=1346&id=meixianHD_4500
+梅州1高清,http://www.namewee.xyz/gudou.php?id=364&id=meizhou1HD_4500
+梅州2高清,http://www.namewee.xyz/gudou.php?id=364&id=meizhou2HD_4500
+梅州导视,http://www.namewee.xyz/gudou.php?id=364&id=meizhoudaoshiHD
+梅县综合,http://www.namewee.xyz/gudou.php?id=364&id=meixianHD_4500
 
 广东珠江高清,http://fuhome.vicp.fun:4060/rtp/239.77.0.1:5146
 广东新闻高清,http://fuhome.vicp.fun:4060/rtp/239.77.0.173:5146
@@ -101,34 +101,34 @@ CCTV兵器科技高清,http://180.116.172.19:4022/udp/239.49.9.9:6000
 
 
 广东卫视,http://cntv.dfkj.live/bestv.php?id=gdwshd8m/8000000
-广东体育HD,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18602906577&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=1346&id=1413_4500
+广东体育HD,http://www.namewee.xyz/gudou.php?id=364&id=1413_4500
 梅州1高清-A,http://p2.vzan.com/slowlive/403126774572750089/live.m3u8
 梅州2高清-A,http://p2.vzan.com/slowlive/645350022315428297/live.m3u8
-梅州1高清,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=860&id=meizhou1HD_4500
-梅州2高清,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=860&id=meizhou2HD_4500
-梅州导视,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=860&id=meizhoudaoshiHD
-梅县综合,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=860&id=meixianHD_4500
+梅州1高清,http://www.namewee.xyz/gudou.php?id=364&id=meizhou1HD_4500
+梅州2高清,http://www.namewee.xyz/gudou.php?id=364&id=meizhou2HD_4500
+梅州导视,http://www.namewee.xyz/gudou.php?id=364&id=meizhoudaoshiHD
+梅县综合,http://www.namewee.xyz/gudou.php?id=364&id=meixianHD_4500
 
-广东珠江,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=860&id=gdzhujiangHD_7500
-广东新闻,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=860&id=1454_4500
-广东民生,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=860&id=1455_4500
-广东经济科教,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=860&id=GDjingjikejiaoHD_7000
-大湾区卫视,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=860&id=1456_4500
-广东影视,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=860&id=1458_4500
-嘉佳卡通,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=860&id=1459_4500
-广东少儿,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=860&id=1457_4500
-嘉佳卡通,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=860&id=1459_4500
-翡翠台,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=860&id=1350_4500
-明珠台,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=860&id=1351_4500
-凤凰中文,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=860&id=fhzw_1500
-CHC高清电影,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=860&id=CHCHD_7000
-乐游,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=860&id=qjshd8m/8000000
-求索纪录,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=860&id=QSJLHD_7000
-求索科学,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=860&id=qiusuokexueHD_7000
-求索动物,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=860&id=QSDWHD_7000
-求索生活,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=860&id=1612
-魅力足球,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=860&id=meiliyinyueHD_7000
-劲爆体育,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=860&id=jinbaotiyuHD_7000
+广东珠江,http://www.namewee.xyz/gudou.php?id=364&id=gdzhujiangHD_7500
+广东新闻,http://www.namewee.xyz/gudou.php?id=364&id=1454_4500
+广东民生,http://www.namewee.xyz/gudou.php?id=364&id=1455_4500
+广东经济科教,http://www.namewee.xyz/gudou.php?id=364&id=GDjingjikejiaoHD_7000
+大湾区卫视,http://www.namewee.xyz/gudou.php?id=364&id=1456_4500
+广东影视,http://www.namewee.xyz/gudou.php?id=364&id=1458_4500
+嘉佳卡通,http://www.namewee.xyz/gudou.php?id=364&id=1459_4500
+广东少儿,http://www.namewee.xyz/gudou.php?id=364&id=1457_4500
+嘉佳卡通,http://www.namewee.xyz/gudou.php?id=364&id=1459_4500
+翡翠台,http://www.namewee.xyz/gudou.php?id=364&id=1350_4500
+明珠台,http://www.namewee.xyz/gudou.php?id=364&id=1351_4500
+凤凰中文,http://www.namewee.xyz/gudou.php?id=364&id=fhzw_1500
+CHC高清电影,http://www.namewee.xyz/gudou.php?id=364&id=CHCHD_7000
+乐游,http://www.namewee.xyz/gudou.php?id=364&id=qjshd8m/8000000
+求索纪录,http://www.namewee.xyz/gudou.php?id=364&id=QSJLHD_7000
+求索科学,http://www.namewee.xyz/gudou.php?id=364&id=qiusuokexueHD_7000
+求索动物,http://www.namewee.xyz/gudou.php?id=364&id=QSDWHD_7000
+求索生活,http://www.namewee.xyz/gudou.php?id=364&id=1612
+魅力足球,http://www.namewee.xyz/gudou.php?id=364&id=meiliyinyueHD_7000
+劲爆体育,http://www.namewee.xyz/gudou.php?id=364&id=jinbaotiyuHD_7000
 
 
 
