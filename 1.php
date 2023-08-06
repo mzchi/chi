@@ -143,164 +143,61 @@ CHC高清电影,http://www.namewee.xyz/gudou.php?id=364&id=CHCHD_7000
 
 电信代理-3,#genre#
 
-CCTV1,http://60.208.16.27:1505/gudou.php?id=1402_4500
-CCTV2,http://60.208.16.27:1505/gudou.php?id=CCTV2HD_7000
-CCTV3,http://60.208.16.27:1505/gudou.php?id=1603
-CCTV4,http://60.208.16.27:1505/gudou.php?id=1604
-CCTV5,http://60.208.16.27:1505/gudou.php?id=1605
-CCTV5+,http://60.208.16.27:1505/gudou.php?id=1403
-CCTV6,http://60.208.16.27:1505/gudou.php?id=1606
-CCTV7,http://60.208.16.27:1505/gudou.php?id=1607
-CCTV8,http://60.208.16.27:1505/gudou.php?id=1608
-CCTV9,http://60.208.16.27:1505/gudou.php?id=CCTV9HD_7000
-CCTV10,http://60.208.16.27:1505/gudou.php?id=1610
-CCTV11,http://60.208.16.27:1505/gudou.php?id=CCTV-11HD_7500
-CCTV12,http://60.208.16.27:1505/gudou.php?id=CCTV12HD_7000
-CCTV13,http://60.208.16.27:1505/gudou.php?id=1613
-CCTV14,http://60.208.16.27:1505/gudou.php?id=CCTV14HD_7000
-CCTV15,http://60.208.16.27:1505/gudou.php?id=CCTV-15HD_7500
-CCTV16,http://60.208.16.27:1505/gudou.php?id=1617_4500
-CCTV17,http://60.208.16.27:1505/gudou.php?id=CCTV17HD
+CCTV1,http://www.namewee.xyz/gudou.php?id=364&id=1402_4500
+CCTV2,http://www.namewee.xyz/gudou.php?id=364&id=CCTV2HD_7000
+CCTV3,http://www.namewee.xyz/gudou.php?id=364&id=1603
+CCTV4,http://www.namewee.xyz/gudou.php?id=364&id=1604
+CCTV5,http://www.namewee.xyz/gudou.php?id=364&id=1605
+CCTV5+,http://www.namewee.xyz/gudou.php?id=364&id=1403
+CCTV6,http://www.namewee.xyz/gudou.php?id=364&id=1606
+CCTV7,http://www.namewee.xyz/gudou.php?id=364&id=1607
+CCTV8,http://www.namewee.xyz/gudou.php?id=364&id=1608
+CCTV9,http://www.namewee.xyz/gudou.php?id=364&id=CCTV9HD_7000
+CCTV10,http://www.namewee.xyz/gudou.php?id=364&id=1610
+CCTV11,http://www.namewee.xyz/gudou.php?id=364&id=CCTV-11HD_7500
+CCTV12,http://www.namewee.xyz/gudou.php?id=364&id=CCTV12HD_7000
+CCTV13,http://www.namewee.xyz/gudou.php?id=364&id=1613
+CCTV14,http://www.namewee.xyz/gudou.php?id=364&id=CCTV14HD_7000
+CCTV15,http://www.namewee.xyz/gudou.php?id=364&id=CCTV-15HD_7500
+CCTV16,http://www.namewee.xyz/gudou.php?id=364&id=1617_4500
+CCTV17,http://www.namewee.xyz/gudou.php?id=364&id=CCTV17HD
 
-广东卫视,http://60.208.16.27:1505/gudou.php?id=1401
-广东体育HD,http://60.208.16.27:1505/gudou.php?id=1413_4500
+广东卫视,http://www.namewee.xyz/gudou.php?id=364&id=1401
+广东体育HD,http://www.namewee.xyz/gudou.php?id=364&id=1413_4500
 梅州1高清-A,http://p2.vzan.com/slowlive/403126774572750089/live.m3u8
-梅州1高清-B,http://60.208.16.27:1505/gudou.php?id=meizhou1HD_4500
+梅州1高清-B,http://www.namewee.xyz/gudou.php?id=364&id=meizhou1HD_4500
 梅州2高清-A,http://p2.vzan.com/slowlive/645350022315428297/live.m3u8
-梅州2高清-B,http://60.208.16.27:1505/gudou.php?id=meizhou2HD_4500
-梅州导视,http://60.208.16.27:1505/gudou.php?id=meizhoudaoshiHD
-梅县综合,http://60.208.16.27:1505/gudou.php?id=meixianHD_4500
+梅州2高清-B,http://www.namewee.xyz/gudou.php?id=364&id=meizhou2HD_4500
+梅州导视,http://www.namewee.xyz/gudou.php?id=364&id=meizhoudaoshiHD
+梅县综合,http://www.namewee.xyz/gudou.php?id=364&id=meixianHD_4500
 
-广东珠江,http://60.208.16.27:1505/gudou.php?id=gdzhujiangHD_7500
-广东新闻,http://60.208.16.27:1505/gudou.php?id=1454_4500
-广东民生,http://60.208.16.27:1505/gudou.php?id=1455_4500
-广东经济科教,http://60.208.16.27:1505/gudou.php?id=GDjingjikejiaoHD_7000
-大湾区卫视,http://60.208.16.27:1505/gudou.php?id=1456_4500
-广东影视,http://60.208.16.27:1505/gudou.php?id=1458_4500
-嘉佳卡通,http://60.208.16.27:1505/gudou.php?id=1459_4500
-广东少儿,http://60.208.16.27:1505/gudou.php?id=1457_4500
+广东珠江,http://www.namewee.xyz/gudou.php?id=364&id=gdzhujiangHD_7500
+广东新闻,http://www.namewee.xyz/gudou.php?id=364&id=1454_4500
+广东民生,http://www.namewee.xyz/gudou.php?id=364&id=1455_4500
+广东经济科教,http://www.namewee.xyz/gudou.php?id=364&id=GDjingjikejiaoHD_7000
+大湾区卫视,http://www.namewee.xyz/gudou.php?id=364&id=1456_4500
+广东影视,http://www.namewee.xyz/gudou.php?id=364&id=1458_4500
+嘉佳卡通,http://www.namewee.xyz/gudou.php?id=364&id=1459_4500
+广东少儿,http://www.namewee.xyz/gudou.php?id=364&id=1457_4500
 
-G导视高清,http://60.208.16.27:1505/gudou.php?id=GHDdaoshi_7500
-翡翠台,http://60.208.16.27:1505/gudou.php?id=1350_4500
-明珠台,http://60.208.16.27:1505/gudou.php?id=1351_4500
-凤凰中文,http://60.208.16.27:1505/gudou.php?id=fhzw_1500
-星空卫视,http://60.208.16.27:1505/gudou.php?id=xingkong_1500
-澳亚卫视,http://60.208.16.27:1505/gudou.php?id=aoya_1500
-
-
-CHC高清电影,http://60.208.16.27:1505/gudou.php?id=CHCHD_7000
-乐游,http://60.208.16.27:1505/gudou.php?id=quanjishiHD_7000
-求索纪录,http://60.208.16.27:1505/gudou.php?id=QSJLHD_7000
-求索science,http://60.208.16.27:1505/gudou.php?id=qiusuokexueHD_7000
-求索动物,http://60.208.16.27:1505/gudou.php?id=QSDWHD_7000
-求索生活,http://60.208.16.27:1505/gudou.php?id=1612
-魅力足球,http://60.208.16.27:1505/gudou.php?id=meiliyinyueHD_7000
-劲爆体育,http://60.208.16.27:1505/gudou.php?id=jinbaotiyuHD_7000
+G导视高清,http://www.namewee.xyz/gudou.php?id=364&id=GHDdaoshi_7500
+翡翠台,http://www.namewee.xyz/gudou.php?id=364&id=1350_4500
+明珠台,http://www.namewee.xyz/gudou.php?id=364&id=1351_4500
+凤凰中文,http://www.namewee.xyz/gudou.php?id=364&id=fhzw_1500
+星空卫视,http://www.namewee.xyz/gudou.php?id=364&id=xingkong_1500
+澳亚卫视,http://www.namewee.xyz/gudou.php?id=364&id=aoya_1500
 
 
+CHC高清电影,http://www.namewee.xyz/gudou.php?id=364&id=CHCHD_7000
+乐游,http://www.namewee.xyz/gudou.php?id=364&id=quanjishiHD_7000
+求索纪录,http://www.namewee.xyz/gudou.php?id=364&id=QSJLHD_7000
+求索science,http://www.namewee.xyz/gudou.php?id=364&id=qiusuokexueHD_7000
+求索动物,http://www.namewee.xyz/gudou.php?id=364&id=QSDWHD_7000
+求索生活,http://www.namewee.xyz/gudou.php?id=364&id=1612
+魅力足球,http://www.namewee.xyz/gudou.php?id=364&id=meiliyinyueHD_7000
+劲爆体育,http://www.namewee.xyz/gudou.php?id=364&id=jinbaotiyuHD_7000
 
 
-
-
-
-
-
-移动IPTV,#genre#
-
-CCTV-1高清,http://183.234.194.165:8888/udp/239.20.0.96:3016
-CCTV1 高清,http://183.234.194.165:8888/udp/239.20.0.104:2006
-CCTV2 高清,http://183.234.194.165:8888/udp/239.20.0.197:2192
-CCTV3 高清,http://183.234.194.165:8888/udp/239.20.0.28:3292
-CCTV4 高清,http://183.234.194.165:8888/udp/239.20.0.16:3340
-CCTV5 高清,http://183.234.194.165:8888/udp/239.20.0.30:3284
-CCTV5+ 高清,http://183.234.194.165:8888/udp/239.20.0.203:2204
-CCTV6 高清,http://183.234.194.165:8888/udp/239.20.0.29:3288
-CCTV7 高清,http://183.234.194.165:8888/udp/239.20.0.198:2194
-CCTV8 高清,http://183.234.194.165:8888/udp/239.20.0.31:3280
-CCTV9 高清,http://183.234.194.165:8888/udp/239.20.0.199:2196
-CCTV10 高清,http://183.234.194.165:8888/udp/239.20.0.200:2198
-CCTV11 高清,http://183.234.194.165:8888/udp/239.21.0.35:3480
-CCTV12 高清,http://183.234.194.165:8888/udp/239.20.0.201:2200
-CCTV13 高清,http://183.234.194.165:8888/udp/239.21.0.88:3692
-CCTV14 高清,http://183.234.194.165:8888/udp/239.20.0.202:2202
-CCTV15 高清,http://183.234.194.165:8888/udp/239.21.0.36:3484
-CCTV17 高清,http://183.234.194.165:8888/udp/239.20.0.7:3376
-
-广东卫视高清,http://183.234.194.165:8888/udp/239.20.0.101:2000
-广东卫视高清,http://183.234.194.165:8888/udp/239.20.0.99:3004
-广东体育高清,http://183.234.194.165:8888/udp/239.20.0.103:2004
-广东体育高清,http://183.234.194.165:8888/udp/239.20.0.97:3012
-
-梅州1高清-A,http://p2.vzan.com/slowlive/403126774572750089/live.m3u8
-梅州1高清-B,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18998910474&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=860&id=meizhou1HD_4500
-梅州2高清-A,http://p2.vzan.com/slowlive/645350022315428297/live.m3u8
-梅州2高清-B,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18998910474&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=860&id=meizhou2HD_4500
-梅州导视,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18998910474&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=860&id=meizhoudaoshiHD
-梅县综合,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18998910474&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=860&id=meixianHD_4500
-
-广东珠江高清,http://183.234.194.165:8888/udp/239.20.0.63:3148
-广东科教高清,http://183.234.194.165:8888/udp/239.20.0.98:3008
-广东珠江高清,http://183.234.194.165:8888/udp/239.20.0.64:3144
-大湾区卫视高清,http://183.234.194.165:8888/udp/239.21.0.84:3676
-广东影视高清,http://183.234.194.165:8888/udp/239.21.0.85:3680
-广东民生高清,http://183.234.194.165:8888/udp/239.21.0.86:3684
-广东少儿高清,http://183.234.194.165:8888/udp/239.21.0.87:3688
-嘉佳卡通高清,http://183.234.194.165:8888/udp/239.21.0.94:3716
-广东新闻高清,http://183.234.194.165:8888/udp/239.21.0.93:3712
-广东科教高清,http://183.234.194.165:8888/udp/239.20.0.102:2002
-
-金鹰纪实高清,http://183.234.194.165:8888/udp/239.20.0.85:3060
-
-深圳卫视高清,http://183.234.194.165:8888/udp/239.20.0.92:3032
-江苏卫视高清,http://183.234.194.165:8888/udp/239.20.0.93:3028
-浙江卫视高清,http://183.234.194.165:8888/udp/239.20.0.94:3024
-湖南卫视高清,http://183.234.194.165:8888/udp/239.20.0.95:3020
-
-
-电影测试-4K,http://183.234.194.165:8888/udp/239.21.0.129:3860
-南国都市-4K,http://183.234.194.165:8888/udp/239.21.0.132:3872
-广东综艺-4K1,http://183.234.194.165:8888/udp/239.20.0.59:3164
-广东综艺-4K2,http://183.234.194.165:8888/udp/239.20.0.60:3160
-广东综艺-4K3,http://183.234.194.165:8888/udp/239.20.0.61:3156
-广东综艺-4K4,http://183.234.194.165:8888/udp/239.20.0.62:3152
-CBN每日影院高清,http://183.234.194.165:8888/udp/239.21.0.125:3844
-CBN风尚生活高清,http://183.234.194.165:8888/udp/239.21.0.126:3848
-CBN幸福剧场高清,http://183.234.194.165:8888/udp/239.21.0.127:3852
-CBN幸福娱乐高清,http://183.234.194.165:8888/udp/239.21.0.128:3856
-CHC高清电影高清,http://183.234.194.165:8888/udp/239.21.0.119:3820
-CCTV4欧洲高清,http://183.234.194.165:8888/udp/239.21.0.107:3768
-CCTV4美洲高清,http://183.234.194.165:8888/udp/239.21.0.108:3772
-CGTN英语高清,http://183.234.194.165:8888/udp/239.21.0.109:3776
-CGTN记录高清,http://183.234.194.165:8888/udp/239.21.0.110:3780
-CGTN西语高清,http://183.234.194.165:8888/udp/239.21.0.111:3800
-CGTN法语高清,http://183.234.194.165:8888/udp/239.21.0.112:3788
-CGTN阿语高清,http://183.234.194.165:8888/udp/239.21.0.113:3792
-CGTN俄语高清,http://183.234.194.165:8888/udp/239.21.0.114:3796
-CCTV第一剧场高清,http://183.234.194.165:8888/udp/239.21.0.69:3616
-CCTV风云足球高清,http://183.234.194.165:8888/udp/239.21.0.70:3620
-CCTV央视台球高清,http://183.234.194.165:8888/udp/239.21.0.71:3624
-CCTV央视网球高清,http://183.234.194.165:8888/udp/239.21.0.72:3628
-CCTV女性时尚高清,http://183.234.194.165:8888/udp/239.21.0.73:3632
-CCTV世界地理高清,http://183.234.194.165:8888/udp/239.21.0.74:3636
-CCTV怀旧剧场高清,http://183.234.194.165:8888/udp/239.21.0.75:3640
-CCTV风云剧场高清,http://183.234.194.165:8888/udp/239.21.0.76:3644
-CCTV央视精品高清,http://183.234.194.165:8888/udp/239.21.0.77:3648
-CCTV第一剧场高清,http://183.234.194.165:8888/udp/239.21.0.78:3652
-CCTV风云音乐高清,http://183.234.194.165:8888/udp/239.21.0.79:3656
-CCTV兵器科技高清,http://183.234.194.165:8888/udp/239.21.0.80:3660
-CCTV电视指南高清,http://183.234.194.165:8888/udp/239.21.0.81:3664
-
-
-汕尾综合高清,http://183.234.194.165:8888/udp/239.21.0.89:3696
-汕尾生活高清,http://183.234.194.165:8888/udp/239.21.0.90:3700
-
-金鹰纪实高清,http://183.234.194.165:8888/udp/239.20.0.196:2190
-求索记录高清,http://183.234.194.165:8888/udp/239.21.0.118:3816
-金鹰卡通高清,http://183.234.194.165:8888/udp/239.21.0.115:3804
-早期教育高清,http://183.234.194.165:8888/udp/239.21.0.106:3764
-中国交通高清,http://183.234.194.165:8888/udp/239.20.0.68:3128
-快乐垂钓高清,http://183.234.194.165:8888/udp/239.21.0.121:3828
-茶频道高清,http://183.234.194.165:8888/udp/239.21.0.120:3824
 
 
 
