@@ -1,39 +1,39 @@
 电信代理-1,#genre#
  
-CCTV-1高清,http://www.kitcc.cn:8887/udp/239.77.1.17:5146
-CCTV-1高清,http://www.kitcc.cn:8887/udp/239.77.1.144:5146
-CCTV-2高清,http://www.kitcc.cn:8887/udp/239.77.1.158:5146
-CCTV-2高清,http://www.kitcc.cn:8887/udp/239.253.43.17:5146
-CCTV-3高清,http://www.kitcc.cn:8887/udp/239.77.0.169:5146
-CCTV-4高清,http://www.kitcc.cn:8887/udp/239.77.1.163:5146
-CCTV-5高清,http://www.kitcc.cn:8887/udp/239.77.0.170:5146
-CCTV-5+高清,http://www.kitcc.cn:8887/udp/239.77.0.87:5146
-CCTV-5+高清,http://www.kitcc.cn:8887/udp/239.77.1.31:5146
-CCTV-6高清,http://www.kitcc.cn:8887/udp/239.77.0.171:5146
-CCTV-7高清,http://www.kitcc.cn:8887/udp/239.77.1.159:5146
-CCTV-8高清,http://www.kitcc.cn:8887/udp/239.77.0.172:5146
-CCTV-9高清,http://www.kitcc.cn:8887/udp/239.77.1.160:5146
-CCTV-10高清,http://www.kitcc.cn:8887/udp/239.77.1.113:5146
-CCTV-11高清,http://www.kitcc.cn:8887/udp/239.77.1.238:5146
-CCTV-12高清,http://www.kitcc.cn:8887/udp/239.77.1.109:5146
-CCTV-13高清,http://www.kitcc.cn:8887/udp/239.77.0.188:5146
-CCTV-13高清,http://www.kitcc.cn:8887/udp/239.253.43.196:5146
-CCTV-14高清,http://www.kitcc.cn:8887/udp/239.77.1.161:5146
-CCTV-15高清,http://www.kitcc.cn:8887/udp/239.77.1.239:5146
-CCTV-16高清,http://www.kitcc.cn:8887/udp/239.77.1.76:5146
-CCTV-17高清,http://www.kitcc.cn:8887/udp/239.77.1.121:5146
-兵器科技高清,http://www.kitcc.cn:8887/udp/239.253.43.18:5146
-风云足球高清,http://www.kitcc.cn:8887/udp/239.253.43.20:5146
-世界地理高清,http://www.kitcc.cn:8887/udp/239.253.43.24:5146
-怀旧剧场高清,http://www.kitcc.cn:8887/udp/239.253.43.5:5146
-风云剧场高清,http://www.kitcc.cn:8887/udp/239.253.43.16:5146
-第一剧场高清,http://www.kitcc.cn:8887/udp/239.253.43.15:5146
-风云音乐高清,http://www.kitcc.cn:8887/udp/239.253.43.6:5146
+CCTV-1高清,http://yzfvip.top:8002/rtp/239.77.1.17:5146
+CCTV-1高清,http://yzfvip.top:8002/rtp/239.77.1.144:5146
+CCTV-2高清,http://yzfvip.top:8002/rtp/239.77.1.158:5146
+CCTV-2高清,http://yzfvip.top:8002/rtp/239.253.43.17:5146
+CCTV-3高清,http://yzfvip.top:8002/rtp/239.77.0.169:5146
+CCTV-4高清,http://yzfvip.top:8002/rtp/239.77.1.163:5146
+CCTV-5高清,http://yzfvip.top:8002/rtp/239.77.0.170:5146
+CCTV-5+高清,http://yzfvip.top:8002/rtp/239.77.0.87:5146
+CCTV-5+高清,http://yzfvip.top:8002/rtp/239.77.1.31:5146
+CCTV-6高清,http://yzfvip.top:8002/rtp/239.77.0.171:5146
+CCTV-7高清,http://yzfvip.top:8002/rtp/239.77.1.159:5146
+CCTV-8高清,http://yzfvip.top:8002/rtp/239.77.0.172:5146
+CCTV-9高清,http://yzfvip.top:8002/rtp/239.77.1.160:5146
+CCTV-10高清,http://yzfvip.top:8002/rtp/239.77.1.113:5146
+CCTV-11高清,http://yzfvip.top:8002/rtp/239.77.1.238:5146
+CCTV-12高清,http://yzfvip.top:8002/rtp/239.77.1.109:5146
+CCTV-13高清,http://yzfvip.top:8002/rtp/239.77.0.188:5146
+CCTV-13高清,http://yzfvip.top:8002/rtp/239.253.43.196:5146
+CCTV-14高清,http://yzfvip.top:8002/rtp/239.77.1.161:5146
+CCTV-15高清,http://yzfvip.top:8002/rtp/239.77.1.239:5146
+CCTV-16高清,http://yzfvip.top:8002/rtp/239.77.1.76:5146
+CCTV-17高清,http://yzfvip.top:8002/rtp/239.77.1.121:5146
+兵器科技高清,http://yzfvip.top:8002/rtp/239.253.43.18:5146
+风云足球高清,http://yzfvip.top:8002/rtp/239.253.43.20:5146
+世界地理高清,http://yzfvip.top:8002/rtp/239.253.43.24:5146
+怀旧剧场高清,http://yzfvip.top:8002/rtp/239.253.43.5:5146
+风云剧场高清,http://yzfvip.top:8002/rtp/239.253.43.16:5146
+第一剧场高清,http://yzfvip.top:8002/rtp/239.253.43.15:5146
+风云音乐高清,http://yzfvip.top:8002/rtp/239.253.43.6:5146
 
 
-广东卫视高清,http://www.kitcc.cn:8887/udp/239.77.1.19:5146
-广东卫视高清,http://www.kitcc.cn:8887/udp/239.77.1.152:5146
-广东体育高清,http://www.kitcc.cn:8887/udp/239.77.0.112:5146
+广东卫视高清,http://yzfvip.top:8002/rtp/239.77.1.19:5146
+广东卫视高清,http://yzfvip.top:8002/rtp/239.77.1.152:5146
+广东体育高清,http://yzfvip.top:8002/rtp/239.77.0.112:5146
 
 广东体育HD,http://www.namewee.xyz/gudou.php?id=364&id=1413_4500
 梅州1高清-A,http://p2.vzan.com/slowlive/403126774572750089/live.m3u8
@@ -43,21 +43,20 @@ CCTV-17高清,http://www.kitcc.cn:8887/udp/239.77.1.121:5146
 梅州导视,http://www.namewee.xyz/gudou.php?id=364&id=meizhoudaoshiHD
 梅县综合,http://www.namewee.xyz/gudou.php?id=364&id=meixianHD_4500
 
-广东珠江高清,http://www.kitcc.cn:8887/udp/239.77.0.1:5146
-广东新闻高清,http://www.kitcc.cn:8887/udp/239.77.0.173:5146
-广东民生高清,http://www.kitcc.cn:8887/udp/239.77.0.225:5146
-经济科教高清,http://www.kitcc.cn:8887/udp/239.77.0.85:5146
-大湾区卫视高清,http://www.kitcc.cn:8887/udp/239.77.0.215:5146
-广东影视高清,http://www.kitcc.cn:8887/udp/239.77.0.217:5146
-广东少儿高清,http://www.kitcc.cn:8887/udp/239.77.0.250:5146
-嘉佳卡通高清,http://www.kitcc.cn:8887/udp/239.77.0.179:5146
-金鹰卡通高清,http://www.kitcc.cn:8887/udp/239.77.0.164:5146
-金鹰纪实高清,http://www.kitcc.cn:8887/udp/239.77.1.217:5146
-上海纪实高清,http://www.kitcc.cn:8887/udp/239.77.1.216:5146
-爱体育高清,http://www.kitcc.cn:8887/udp/239.77.0.176:5146
-BesTV Live高清,http://www.kitcc.cn:8887/udp/239.253.43.118:5146
-百事通高清,http://www.kitcc.cn:8887/udp/239.253.43.116:5146
-
+广东珠江高清,http://yzfvip.top:8002/rtp/239.77.0.1:5146
+广东新闻高清,http://yzfvip.top:8002/rtp/239.77.0.173:5146
+广东民生高清,http://yzfvip.top:8002/rtp/239.77.0.225:5146
+经济科教高清,http://yzfvip.top:8002/rtp/239.77.0.85:5146
+大湾区卫视高清,http://yzfvip.top:8002/rtp/239.77.0.215:5146
+广东影视高清,http://yzfvip.top:8002/rtp/239.77.0.217:5146
+广东少儿高清,http://yzfvip.top:8002/rtp/239.77.0.250:5146
+嘉佳卡通高清,http://yzfvip.top:8002/rtp/239.77.0.179:5146
+金鹰卡通高清,http://yzfvip.top:8002/rtp/239.77.0.164:5146
+金鹰纪实高清,http://yzfvip.top:8002/rtp/239.77.1.217:5146
+上海纪实高清,http://yzfvip.top:8002/rtp/239.77.1.216:5146
+爱体育高清,http://yzfvip.top:8002/rtp/239.77.0.176:5146
+BesTV Live高清,http://yzfvip.top:8002/rtp/239.253.43.118:5146
+百事通高清,http://yzfvip.top:8002/rtp/239.253.43.116:5146
 
 
 
