@@ -35,13 +35,13 @@ CCTV-17高清,http://www.kitcc.cn:8887/udp/239.77.1.121:5146
 广东卫视高清,http://www.kitcc.cn:8887/udp/239.77.1.152:5146
 广东体育高清,http://www.kitcc.cn:8887/udp/239.77.0.112:5146
 
-广东体育HD,http://www.namewee.xyz/gudou.php?id=364&id=1413_4500
+广东体育HD,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18602906577&ptoken=El8Ddz3fhANH3OBzkos2qw%3D%3D&pserialnumber=22702bd68a70cb12&cid=1346&id=1413_4500
 梅州1高清-A,http://p2.vzan.com/slowlive/403126774572750089/live.m3u8
 梅州2高清-A,http://p2.vzan.com/slowlive/645350022315428297/live.m3u8
-梅州1高清,http://www.namewee.xyz/gudou.php?id=364&id=meizhou1HD_4500
-梅州2高清,http://www.namewee.xyz/gudou.php?id=364&id=meizhou2HD_4500
-梅州导视,http://www.namewee.xyz/gudou.php?id=364&id=meizhoudaoshiHD
-梅县综合,http://www.namewee.xyz/gudou.php?id=364&id=meixianHD_4500
+梅州1高清,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18602906577&ptoken=El8Ddz3fhANH3OBzkos2qw%3D%3D&pserialnumber=22702bd68a70cb12&cid=1346&id=meizhou1HD_4500
+梅州2高清,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18602906577&ptoken=El8Ddz3fhANH3OBzkos2qw%3D%3D&pserialnumber=22702bd68a70cb12&cid=1346&id=meizhou2HD_4500
+梅州导视,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18602906577&ptoken=El8Ddz3fhANH3OBzkos2qw%3D%3D&pserialnumber=22702bd68a70cb12&cid=1346&id=meizhoudaoshiHD
+梅县综合,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18602906577&ptoken=El8Ddz3fhANH3OBzkos2qw%3D%3D&pserialnumber=22702bd68a70cb12&cid=1346&id=meixianHD_4500
 
 广东珠江高清,http://www.kitcc.cn:8887/udp/239.77.0.1:5146
 广东新闻高清,http://www.kitcc.cn:8887/udp/239.77.0.173:5146
@@ -153,13 +153,13 @@ CCTV-17高清,http://113.100.72.131:8899/udp/239.77.1.121:5146
 广东卫视高清,http://113.100.72.131:8899/udp/239.77.1.152:5146
 广东体育高清,http://113.100.72.131:8899/udp/239.77.0.112:5146
 
-广东体育HD,http://www.namewee.xyz/gudou.php?id=364&id=1413_4500
+广东体育HD,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18602906577&ptoken=El8Ddz3fhANH3OBzkos2qw%3D%3D&pserialnumber=22702bd68a70cb12&cid=1346&id=1413_4500
 梅州1高清-A,http://p2.vzan.com/slowlive/403126774572750089/live.m3u8
 梅州2高清-A,http://p2.vzan.com/slowlive/645350022315428297/live.m3u8
-梅州1高清,http://www.namewee.xyz/gudou.php?id=364&id=meizhou1HD_4500
-梅州2高清,http://www.namewee.xyz/gudou.php?id=364&id=meizhou2HD_4500
-梅州导视,http://www.namewee.xyz/gudou.php?id=364&id=meizhoudaoshiHD
-梅县综合,http://www.namewee.xyz/gudou.php?id=364&id=meixianHD_4500
+梅州1高清,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18602906577&ptoken=El8Ddz3fhANH3OBzkos2qw%3D%3D&pserialnumber=22702bd68a70cb12&cid=1346&id=meizhou1HD_4500
+梅州2高清,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18602906577&ptoken=El8Ddz3fhANH3OBzkos2qw%3D%3D&pserialnumber=22702bd68a70cb12&cid=1346&id=meizhou2HD_4500
+梅州导视,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18602906577&ptoken=El8Ddz3fhANH3OBzkos2qw%3D%3D&pserialnumber=22702bd68a70cb12&cid=1346&id=meizhoudaoshiHD
+梅县综合,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18602906577&ptoken=El8Ddz3fhANH3OBzkos2qw%3D%3D&pserialnumber=22702bd68a70cb12&cid=1346&id=meixianHD_4500
 
 广东珠江高清,http://113.100.72.131:8899/udp/239.77.0.1:5146
 广东新闻高清,http://113.100.72.131:8899/udp/239.77.0.173:5146
