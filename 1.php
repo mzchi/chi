@@ -1,88 +1,60 @@
 电信代理-1,#genre#
 
-CCTV-1高清,http://202304151212.iptv.z-link.cn:8800/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-2高清,http://202304151212.iptv.z-link.cn:8800/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-3高清,http://202304151212.iptv.z-link.cn:8800/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-4高清,http://202304151212.iptv.z-link.cn:8800/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-5高清,http://202304151212.iptv.z-link.cn:8800/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-6高清,http://202304151212.iptv.z-link.cn:8800/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-7高清,http://202304151212.iptv.z-link.cn:8800/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-8高清,http://202304151212.iptv.z-link.cn:8800/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-9高清,http://202304151212.iptv.z-link.cn:8800/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-10高清,http://202304151212.iptv.z-link.cn:8800/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-11高清,http://202304151212.iptv.z-link.cn:8800/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-12高清,http://202304151212.iptv.z-link.cn:8800/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-13高清,http://202304151212.iptv.z-link.cn:8800/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-14高清,http://202304151212.iptv.z-link.cn:8800/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-15高清,http://202304151212.iptv.z-link.cn:8800/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-16高清,http://202304151212.iptv.z-link.cn:8800/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
-广东卫视高清,http://202304151212.iptv.z-link.cn:8800/tsfile/live/0125_1.m3u8?key=txiptv&playlive=0&authid=0
-广东珠江高清,http://202304151212.iptv.z-link.cn:8800/tsfile/live/1003_1.m3u8?key=txiptv&playlive=0&authid=0
-广东体育高清,http://202304151212.iptv.z-link.cn:8800/tsfile/live/1004_1.m3u8?key=txiptv&playlive=0&authid=0
-广东民生高清,http://202304151212.iptv.z-link.cn:8800/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0
-广东少儿高清,http://202304151212.iptv.z-link.cn:8800/tsfile/live/1006_1.m3u8?key=txiptv&playlive=0&authid=0
-广东新闻高清,http://202304151212.iptv.z-link.cn:8800/tsfile/live/1007_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV-1高清,http://58.61.148.28:8088/udp/239.77.1.17:5146
+CCTV-1高清,http://58.61.148.28:8088/udp/239.77.1.144:5146
+CCTV-2高清,http://58.61.148.28:8088/udp/239.77.1.158:5146
+CCTV-2高清,http://58.61.148.28:8088/udp/239.253.43.17:5146
+CCTV-3高清,http://58.61.148.28:8088/udp/239.77.0.169:5146
+CCTV-4高清,http://58.61.148.28:8088/udp/239.77.1.163:5146
+CCTV-5高清,http://58.61.148.28:8088/udp/239.77.0.170:5146
+CCTV-5+高清,http://58.61.148.28:8088/udp/239.77.0.87:5146
+CCTV-5+高清,http://58.61.148.28:8088/udp/239.77.1.31:5146
+CCTV-6高清,http://58.61.148.28:8088/udp/239.77.0.171:5146
+CCTV-7高清,http://58.61.148.28:8088/udp/239.77.1.159:5146
+CCTV-8高清,http://58.61.148.28:8088/udp/239.77.0.172:5146
+CCTV-9高清,http://58.61.148.28:8088/udp/239.77.1.160:5146
+CCTV-10高清,http://58.61.148.28:8088/udp/239.77.1.113:5146
+CCTV-11高清,http://58.61.148.28:8088/udp/239.77.1.238:5146
+CCTV-12高清,http://58.61.148.28:8088/udp/239.77.1.109:5146
+CCTV-13高清,http://58.61.148.28:8088/udp/239.77.0.188:5146
+CCTV-13高清,http://58.61.148.28:8088/udp/239.253.43.196:5146
+CCTV-14高清,http://58.61.148.28:8088/udp/239.77.1.161:5146
+CCTV-15高清,http://58.61.148.28:8088/udp/239.77.1.239:5146
+CCTV-16高清,http://58.61.148.28:8088/udp/239.77.1.76:5146
+CCTV-17高清,http://58.61.148.28:8088/udp/239.77.1.121:5146
+兵器科技高清,http://58.61.148.28:8088/udp/239.253.43.18:5146
+风云足球高清,http://58.61.148.28:8088/udp/239.253.43.20:5146
+世界地理高清,http://58.61.148.28:8088/udp/239.253.43.24:5146
+怀旧剧场高清,http://58.61.148.28:8088/udp/239.253.43.5:5146
+风云剧场高清,http://58.61.148.28:8088/udp/239.253.43.16:5146
+第一剧场高清,http://58.61.148.28:8088/udp/239.253.43.15:5146
+风云音乐高清,http://58.61.148.28:8088/udp/239.253.43.6:5146
 
 
-
-
-CCTV-1高清,http://www.kitcc.cn:8887/udp/239.77.1.17:5146
-CCTV-1高清,http://www.kitcc.cn:8887/udp/239.77.1.144:5146
-CCTV-2高清,http://www.kitcc.cn:8887/udp/239.77.1.158:5146
-CCTV-2高清,http://www.kitcc.cn:8887/udp/239.253.43.17:5146
-CCTV-3高清,http://www.kitcc.cn:8887/udp/239.77.0.169:5146
-CCTV-4高清,http://www.kitcc.cn:8887/udp/239.77.1.163:5146
-CCTV-5高清,http://www.kitcc.cn:8887/udp/239.77.0.170:5146
-CCTV-5+高清,http://www.kitcc.cn:8887/udp/239.77.0.87:5146
-CCTV-5+高清,http://www.kitcc.cn:8887/udp/239.77.1.31:5146
-CCTV-6高清,http://www.kitcc.cn:8887/udp/239.77.0.171:5146
-CCTV-7高清,http://www.kitcc.cn:8887/udp/239.77.1.159:5146
-CCTV-8高清,http://www.kitcc.cn:8887/udp/239.77.0.172:5146
-CCTV-9高清,http://www.kitcc.cn:8887/udp/239.77.1.160:5146
-CCTV-10高清,http://www.kitcc.cn:8887/udp/239.77.1.113:5146
-CCTV-11高清,http://www.kitcc.cn:8887/udp/239.77.1.238:5146
-CCTV-12高清,http://www.kitcc.cn:8887/udp/239.77.1.109:5146
-CCTV-13高清,http://www.kitcc.cn:8887/udp/239.77.0.188:5146
-CCTV-13高清,http://www.kitcc.cn:8887/udp/239.253.43.196:5146
-CCTV-14高清,http://www.kitcc.cn:8887/udp/239.77.1.161:5146
-CCTV-15高清,http://www.kitcc.cn:8887/udp/239.77.1.239:5146
-CCTV-16高清,http://www.kitcc.cn:8887/udp/239.77.1.76:5146
-CCTV-17高清,http://www.kitcc.cn:8887/udp/239.77.1.121:5146
-兵器科技高清,http://www.kitcc.cn:8887/udp/239.253.43.18:5146
-风云足球高清,http://www.kitcc.cn:8887/udp/239.253.43.20:5146
-世界地理高清,http://www.kitcc.cn:8887/udp/239.253.43.24:5146
-怀旧剧场高清,http://www.kitcc.cn:8887/udp/239.253.43.5:5146
-风云剧场高清,http://www.kitcc.cn:8887/udp/239.253.43.16:5146
-第一剧场高清,http://www.kitcc.cn:8887/udp/239.253.43.15:5146
-风云音乐高清,http://www.kitcc.cn:8887/udp/239.253.43.6:5146
-
-
-广东卫视高清,http://www.kitcc.cn:8887/udp/239.77.1.19:5146
-广东卫视高清,http://www.kitcc.cn:8887/udp/239.77.1.152:5146
-广东体育高清,http://www.kitcc.cn:8887/udp/239.77.0.112:5146
+广东卫视高清,http://58.61.148.28:8088/udp/239.77.1.19:5146
+广东卫视高清,http://58.61.148.28:8088/udp/239.77.1.152:5146
+广东体育高清,http://58.61.148.28:8088/udp/239.77.0.112:5146
 
 广东体育HD,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18602906577&ptoken=El8Ddz3fhANH3OBzkos2qw%3D%3D&pserialnumber=22702bd68a70cb12&cid=1346&id=1413_4500
-梅州1高清-A,http://p2.vzan.com/slowlive/403126774572750089/live.m3u8
-梅州2高清-A,http://p2.vzan.com/slowlive/645350022315428297/live.m3u8
 梅州1高清,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18602906577&ptoken=El8Ddz3fhANH3OBzkos2qw%3D%3D&pserialnumber=22702bd68a70cb12&cid=1346&id=meizhou1HD_4500
 梅州2高清,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18602906577&ptoken=El8Ddz3fhANH3OBzkos2qw%3D%3D&pserialnumber=22702bd68a70cb12&cid=1346&id=meizhou2HD_4500
 梅州导视,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18602906577&ptoken=El8Ddz3fhANH3OBzkos2qw%3D%3D&pserialnumber=22702bd68a70cb12&cid=1346&id=meizhoudaoshiHD
 梅县综合,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18602906577&ptoken=El8Ddz3fhANH3OBzkos2qw%3D%3D&pserialnumber=22702bd68a70cb12&cid=1346&id=meixianHD_4500
 
-广东珠江高清,http://www.kitcc.cn:8887/udp/239.77.0.1:5146
-广东新闻高清,http://www.kitcc.cn:8887/udp/239.77.0.173:5146
-广东民生高清,http://www.kitcc.cn:8887/udp/239.77.0.225:5146
-经济科教高清,http://www.kitcc.cn:8887/udp/239.77.0.85:5146
-大湾区卫视高清,http://www.kitcc.cn:8887/udp/239.77.0.215:5146
-广东影视高清,http://www.kitcc.cn:8887/udp/239.77.0.217:5146
-广东少儿高清,http://www.kitcc.cn:8887/udp/239.77.0.250:5146
-嘉佳卡通高清,http://www.kitcc.cn:8887/udp/239.77.0.179:5146
-金鹰卡通高清,http://www.kitcc.cn:8887/udp/239.77.0.164:5146
-金鹰纪实高清,http://www.kitcc.cn:8887/udp/239.77.1.217:5146
-上海纪实高清,http://www.kitcc.cn:8887/udp/239.77.1.216:5146
-爱体育高清,http://www.kitcc.cn:8887/udp/239.77.0.176:5146
-BesTV Live高清,http://www.kitcc.cn:8887/udp/239.253.43.118:5146
-百事通高清,http://www.kitcc.cn:8887/udp/239.253.43.116:5146
+广东珠江高清,http://58.61.148.28:8088/udp/239.77.0.1:5146
+广东新闻高清,http://58.61.148.28:8088/udp/239.77.0.173:5146
+广东民生高清,http://58.61.148.28:8088/udp/239.77.0.225:5146
+经济科教高清,http://58.61.148.28:8088/udp/239.77.0.85:5146
+大湾区卫视高清,http://58.61.148.28:8088/udp/239.77.0.215:5146
+广东影视高清,http://58.61.148.28:8088/udp/239.77.0.217:5146
+广东少儿高清,http://58.61.148.28:8088/udp/239.77.0.250:5146
+嘉佳卡通高清,http://58.61.148.28:8088/udp/239.77.0.179:5146
+金鹰卡通高清,http://58.61.148.28:8088/udp/239.77.0.164:5146
+金鹰纪实高清,http://58.61.148.28:8088/udp/239.77.1.217:5146
+上海纪实高清,http://58.61.148.28:8088/udp/239.77.1.216:5146
+爱体育高清,http://58.61.148.28:8088/udp/239.77.0.176:5146
+BesTV Live高清,http://58.61.148.28:8088/udp/239.253.43.118:5146
+百事通高清,http://58.61.148.28:8088/udp/239.253.43.116:5146
 
 
 
@@ -99,63 +71,61 @@ BesTV Live高清,http://www.kitcc.cn:8887/udp/239.253.43.118:5146
 
 电信代理-2,#genre#
 
-CCTV-1高清,http://113.100.72.131:8899/udp/239.77.1.17:5146
-CCTV-1高清,http://113.100.72.131:8899/udp/239.77.1.144:5146
-CCTV-2高清,http://113.100.72.131:8899/udp/239.77.1.158:5146
-CCTV-2高清,http://113.100.72.131:8899/udp/239.253.43.17:5146
-CCTV-3高清,http://113.100.72.131:8899/udp/239.77.0.169:5146
-CCTV-4高清,http://113.100.72.131:8899/udp/239.77.1.163:5146
-CCTV-5高清,http://113.100.72.131:8899/udp/239.77.0.170:5146
-CCTV-5+高清,http://113.100.72.131:8899/udp/239.77.0.87:5146
-CCTV-5+高清,http://113.100.72.131:8899/udp/239.77.1.31:5146
-CCTV-6高清,http://113.100.72.131:8899/udp/239.77.0.171:5146
-CCTV-7高清,http://113.100.72.131:8899/udp/239.77.1.159:5146
-CCTV-8高清,http://113.100.72.131:8899/udp/239.77.0.172:5146
-CCTV-9高清,http://113.100.72.131:8899/udp/239.77.1.160:5146
-CCTV-10高清,http://113.100.72.131:8899/udp/239.77.1.113:5146
-CCTV-11高清,http://113.100.72.131:8899/udp/239.77.1.238:5146
-CCTV-12高清,http://113.100.72.131:8899/udp/239.77.1.109:5146
-CCTV-13高清,http://113.100.72.131:8899/udp/239.77.0.188:5146
-CCTV-13高清,http://113.100.72.131:8899/udp/239.253.43.196:5146
-CCTV-14高清,http://113.100.72.131:8899/udp/239.77.1.161:5146
-CCTV-15高清,http://113.100.72.131:8899/udp/239.77.1.239:5146
-CCTV-16高清,http://113.100.72.131:8899/udp/239.77.1.76:5146
-CCTV-17高清,http://113.100.72.131:8899/udp/239.77.1.121:5146
-兵器科技高清,http://113.100.72.131:8899/udp/239.253.43.18:5146
-风云足球高清,http://113.100.72.131:8899/udp/239.253.43.20:5146
-世界地理高清,http://113.100.72.131:8899/udp/239.253.43.24:5146
-怀旧剧场高清,http://113.100.72.131:8899/udp/239.253.43.5:5146
-风云剧场高清,http://113.100.72.131:8899/udp/239.253.43.16:5146
-第一剧场高清,http://113.100.72.131:8899/udp/239.253.43.15:5146
-风云音乐高清,http://113.100.72.131:8899/udp/239.253.43.6:5146
+CCTV-1高清,http://61.140.124.227:10000/udp/239.77.1.17:5146
+CCTV-1高清,http://61.140.124.227:10000/udp/239.77.1.144:5146
+CCTV-2高清,http://61.140.124.227:10000/udp/239.77.1.158:5146
+CCTV-2高清,http://61.140.124.227:10000/udp/239.253.43.17:5146
+CCTV-3高清,http://61.140.124.227:10000/udp/239.77.0.169:5146
+CCTV-4高清,http://61.140.124.227:10000/udp/239.77.1.163:5146
+CCTV-5高清,http://61.140.124.227:10000/udp/239.77.0.170:5146
+CCTV-5+高清,http://61.140.124.227:10000/udp/239.77.0.87:5146
+CCTV-5+高清,http://61.140.124.227:10000/udp/239.77.1.31:5146
+CCTV-6高清,http://61.140.124.227:10000/udp/239.77.0.171:5146
+CCTV-7高清,http://61.140.124.227:10000/udp/239.77.1.159:5146
+CCTV-8高清,http://61.140.124.227:10000/udp/239.77.0.172:5146
+CCTV-9高清,http://61.140.124.227:10000/udp/239.77.1.160:5146
+CCTV-10高清,http://61.140.124.227:10000/udp/239.77.1.113:5146
+CCTV-11高清,http://61.140.124.227:10000/udp/239.77.1.238:5146
+CCTV-12高清,http://61.140.124.227:10000/udp/239.77.1.109:5146
+CCTV-13高清,http://61.140.124.227:10000/udp/239.77.0.188:5146
+CCTV-13高清,http://61.140.124.227:10000/udp/239.253.43.196:5146
+CCTV-14高清,http://61.140.124.227:10000/udp/239.77.1.161:5146
+CCTV-15高清,http://61.140.124.227:10000/udp/239.77.1.239:5146
+CCTV-16高清,http://61.140.124.227:10000/udp/239.77.1.76:5146
+CCTV-17高清,http://61.140.124.227:10000/udp/239.77.1.121:5146
+兵器科技高清,http://61.140.124.227:10000/udp/239.253.43.18:5146
+风云足球高清,http://61.140.124.227:10000/udp/239.253.43.20:5146
+世界地理高清,http://61.140.124.227:10000/udp/239.253.43.24:5146
+怀旧剧场高清,http://61.140.124.227:10000/udp/239.253.43.5:5146
+风云剧场高清,http://61.140.124.227:10000/udp/239.253.43.16:5146
+第一剧场高清,http://61.140.124.227:10000/udp/239.253.43.15:5146
+风云音乐高清,http://61.140.124.227:10000/udp/239.253.43.6:5146
 
 
-广东卫视高清,http://113.100.72.131:8899/udp/239.77.1.19:5146
-广东卫视高清,http://113.100.72.131:8899/udp/239.77.1.152:5146
-广东体育高清,http://113.100.72.131:8899/udp/239.77.0.112:5146
+广东卫视高清,http://61.140.124.227:10000/udp/239.77.1.19:5146
+广东卫视高清,http://61.140.124.227:10000/udp/239.77.1.152:5146
+广东体育高清,http://61.140.124.227:10000/udp/239.77.0.112:5146
 
 广东体育HD,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18602906577&ptoken=El8Ddz3fhANH3OBzkos2qw%3D%3D&pserialnumber=22702bd68a70cb12&cid=1346&id=1413_4500
-梅州1高清-A,http://p2.vzan.com/slowlive/403126774572750089/live.m3u8
-梅州2高清-A,http://p2.vzan.com/slowlive/645350022315428297/live.m3u8
 梅州1高清,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18602906577&ptoken=El8Ddz3fhANH3OBzkos2qw%3D%3D&pserialnumber=22702bd68a70cb12&cid=1346&id=meizhou1HD_4500
 梅州2高清,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18602906577&ptoken=El8Ddz3fhANH3OBzkos2qw%3D%3D&pserialnumber=22702bd68a70cb12&cid=1346&id=meizhou2HD_4500
 梅州导视,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18602906577&ptoken=El8Ddz3fhANH3OBzkos2qw%3D%3D&pserialnumber=22702bd68a70cb12&cid=1346&id=meizhoudaoshiHD
 梅县综合,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18602906577&ptoken=El8Ddz3fhANH3OBzkos2qw%3D%3D&pserialnumber=22702bd68a70cb12&cid=1346&id=meixianHD_4500
 
-广东珠江高清,http://113.100.72.131:8899/udp/239.77.0.1:5146
-广东新闻高清,http://113.100.72.131:8899/udp/239.77.0.173:5146
-广东民生高清,http://113.100.72.131:8899/udp/239.77.0.225:5146
-经济科教高清,http://113.100.72.131:8899/udp/239.77.0.85:5146
-大湾区卫视高清,http://113.100.72.131:8899/udp/239.77.0.215:5146
-广东影视高清,http://113.100.72.131:8899/udp/239.77.0.217:5146
-广东少儿高清,http://113.100.72.131:8899/udp/239.77.0.250:5146
-嘉佳卡通高清,http://113.100.72.131:8899/udp/239.77.0.179:5146
-金鹰卡通高清,http://113.100.72.131:8899/udp/239.77.0.164:5146
-金鹰纪实高清,http://113.100.72.131:8899/udp/239.77.1.217:5146
-上海纪实高清,http://113.100.72.131:8899/udp/239.77.1.216:5146
-爱体育高清,http://113.100.72.131:8899/udp/239.77.0.176:5146
-BesTV Live高清,http://113.100.72.131:8899/udp/239.253.43.118:5146
-百事通高清,http://113.100.72.131:8899/udp/239.253.43.116:5146
+广东珠江高清,http://61.140.124.227:10000/udp/239.77.0.1:5146
+广东新闻高清,http://61.140.124.227:10000/udp/239.77.0.173:5146
+广东民生高清,http://61.140.124.227:10000/udp/239.77.0.225:5146
+经济科教高清,http://61.140.124.227:10000/udp/239.77.0.85:5146
+大湾区卫视高清,http://61.140.124.227:10000/udp/239.77.0.215:5146
+广东影视高清,http://61.140.124.227:10000/udp/239.77.0.217:5146
+广东少儿高清,http://61.140.124.227:10000/udp/239.77.0.250:5146
+嘉佳卡通高清,http://61.140.124.227:10000/udp/239.77.0.179:5146
+金鹰卡通高清,http://61.140.124.227:10000/udp/239.77.0.164:5146
+金鹰纪实高清,http://61.140.124.227:10000/udp/239.77.1.217:5146
+上海纪实高清,http://61.140.124.227:10000/udp/239.77.1.216:5146
+爱体育高清,http://61.140.124.227:10000/udp/239.77.0.176:5146
+BesTV Live高清,http://61.140.124.227:10000/udp/239.253.43.118:5146
+百事通高清,http://61.140.124.227:10000/udp/239.253.43.116:5146
 
 
 
@@ -194,10 +164,8 @@ CCTV17,http://chihomai.top:5678/gudou.php?phone=18602906577&ptoken=El8Ddz3fhANH3
 
 广东卫视,http://chihomai.top:5678/gudou.php?phone=18602906577&ptoken=El8Ddz3fhANH3OBzkos2qw%3D%3D&pserialnumber=22702bd68a70cb12&cid=1346&id=1401
 广东体育HD,http://chihomai.top:5678/gudou.php?phone=18602906577&ptoken=El8Ddz3fhANH3OBzkos2qw%3D%3D&pserialnumber=22702bd68a70cb12&cid=1346&id=1413_4500
-梅州1高清-A,http://p2.vzan.com/slowlive/403126774572750089/live.m3u8
-梅州1高清-B,http://chihomai.top:5678/gudou.php?phone=18602906577&ptoken=El8Ddz3fhANH3OBzkos2qw%3D%3D&pserialnumber=22702bd68a70cb12&cid=1346&id=meizhou1HD_4500
-梅州2高清-A,http://p2.vzan.com/slowlive/645350022315428297/live.m3u8
-梅州2高清-B,http://chihomai.top:5678/gudou.php?phone=18602906577&ptoken=El8Ddz3fhANH3OBzkos2qw%3D%3D&pserialnumber=22702bd68a70cb12&cid=1346&id=meizhou2HD_4500
+梅州1高清,http://chihomai.top:5678/gudou.php?phone=18602906577&ptoken=El8Ddz3fhANH3OBzkos2qw%3D%3D&pserialnumber=22702bd68a70cb12&cid=1346&id=meizhou1HD_4500
+梅州2高清,http://chihomai.top:5678/gudou.php?phone=18602906577&ptoken=El8Ddz3fhANH3OBzkos2qw%3D%3D&pserialnumber=22702bd68a70cb12&cid=1346&id=meizhou2HD_4500
 梅州导视,http://chihomai.top:5678/gudou.php?phone=18602906577&ptoken=El8Ddz3fhANH3OBzkos2qw%3D%3D&pserialnumber=22702bd68a70cb12&cid=1346&id=meizhoudaoshiHD
 梅县综合,http://chihomai.top:5678/gudou.php?phone=18602906577&ptoken=El8Ddz3fhANH3OBzkos2qw%3D%3D&pserialnumber=22702bd68a70cb12&cid=1346&id=meixianHD_4500
 
