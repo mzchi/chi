@@ -24,7 +24,7 @@ CCTV-16高清,http://14.126.125.116:10001/udp/239.77.1.76:5146
 CCTV-17高清,http://14.126.125.116:10001/udp/239.77.1.121:5146
 兵器科技高清,http://14.126.125.116:10001/udp/239.253.43.18:5146
 风云足球高清,http://14.126.125.116:10001/udp/239.253.43.20:5146
-世界地理高清,http://14.126.125.116:10001/udp/239.253.43.24:5146
+世界地理高清,http://14.126.125.116:10001/udp/239.253.43.7:5146
 怀旧剧场高清,http://14.126.125.116:10001/udp/239.253.43.5:5146
 风云剧场高清,http://14.126.125.116:10001/udp/239.253.43.16:5146
 第一剧场高清,http://14.126.125.116:10001/udp/239.253.43.15:5146
@@ -36,6 +36,8 @@ CCTV-17高清,http://14.126.125.116:10001/udp/239.77.1.121:5146
 广东体育高清,http://14.126.125.116:10001/udp/239.77.0.112:5146
 
 广东体育HD,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18602906577&ptoken=El8Ddz3fhANH3OBzkos2qw%3D%3D&pserialnumber=22702bd68a70cb12&cid=1346&id=1413_4500
+梅州1-电信,http://14.126.125.116:10001/udp/239.253.43.123:5146
+梅州2-电信,http://14.126.125.116:10001/udp/239.253.43.124:5146
 梅州1高清,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18602906577&ptoken=El8Ddz3fhANH3OBzkos2qw%3D%3D&pserialnumber=22702bd68a70cb12&cid=1346&id=meizhou1HD_4500
 梅州2高清,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18602906577&ptoken=El8Ddz3fhANH3OBzkos2qw%3D%3D&pserialnumber=22702bd68a70cb12&cid=1346&id=meizhou2HD_4500
 梅州导视,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18602906577&ptoken=El8Ddz3fhANH3OBzkos2qw%3D%3D&pserialnumber=22702bd68a70cb12&cid=1346&id=meizhoudaoshiHD
@@ -94,7 +96,7 @@ CCTV-16高清,http://183.48.120.51:4022/udp/239.77.1.76:5146
 CCTV-17高清,http://183.48.120.51:4022/udp/239.77.1.121:5146
 兵器科技高清,http://183.48.120.51:4022/udp/239.253.43.18:5146
 风云足球高清,http://183.48.120.51:4022/udp/239.253.43.20:5146
-世界地理高清,http://183.48.120.51:4022/udp/239.253.43.24:5146
+世界地理高清,http://183.48.120.51:4022/udp/239.253.43.7:5146
 怀旧剧场高清,http://183.48.120.51:4022/udp/239.253.43.5:5146
 风云剧场高清,http://183.48.120.51:4022/udp/239.253.43.16:5146
 第一剧场高清,http://183.48.120.51:4022/udp/239.253.43.15:5146
@@ -106,6 +108,8 @@ CCTV-17高清,http://183.48.120.51:4022/udp/239.77.1.121:5146
 广东体育高清,http://183.48.120.51:4022/udp/239.77.0.112:5146
 
 广东体育HD,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18602906577&ptoken=El8Ddz3fhANH3OBzkos2qw%3D%3D&pserialnumber=22702bd68a70cb12&cid=1346&id=1413_4500
+梅州1-电信,http://183.48.120.51:4022/udp/239.253.43.123:5146
+梅州2-电信,http://183.48.120.51:4022/udp/239.253.43.124:5146
 梅州1高清,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18602906577&ptoken=El8Ddz3fhANH3OBzkos2qw%3D%3D&pserialnumber=22702bd68a70cb12&cid=1346&id=meizhou1HD_4500
 梅州2高清,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18602906577&ptoken=El8Ddz3fhANH3OBzkos2qw%3D%3D&pserialnumber=22702bd68a70cb12&cid=1346&id=meizhou2HD_4500
 梅州导视,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18602906577&ptoken=El8Ddz3fhANH3OBzkos2qw%3D%3D&pserialnumber=22702bd68a70cb12&cid=1346&id=meizhoudaoshiHD
